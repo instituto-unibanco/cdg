@@ -12,7 +12,10 @@ theme:
   logo: assets/logo.png
   favicon: assets/logo.png
   icon:
-    repo: fontawesome/brands/github
+    repo: logo
+
+# repo_url: https://www.institutounibanco.org.br
+# repo_name: Instituto Unibanco
 
 extra_css:
   - stylesheets/extra.css
