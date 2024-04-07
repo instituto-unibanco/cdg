@@ -1,0 +1,18 @@
+site_name: Circuito de Gestão
+docs_dir: src
+site_dir: docs
+
+theme:
+  name: material
+  palette:
+    primary: custom
+  language: pt-BR
+  features:
+    - navigation.tabs
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
