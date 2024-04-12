@@ -1,0 +1,10 @@
+INHERIT: mkdocs.yml
+
+docs_dir: mg
+site_dir: ../docs/mg
+
+nav:
+  - Apresentação: index.md
+  - Gestores:
+    - Apresentação: gestores/index.md
+    - Circuito de Gestão: gestores/c01.md

@@ -1,6 +1,9 @@
 site_name: Circuito de Gestão
-docs_dir: src
-site_dir: docs
+docs_dir: base
+site_dir: ../../docs
+
+nav:
+  - Apresentação: index.md
 
 theme:
   name: material

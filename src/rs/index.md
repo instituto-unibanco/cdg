@@ -3,6 +3,4 @@ hide:
   - navigation
 ---
 
-# Introdução
-
-Bem-vinde
+# Rio Grande do Sul
