@@ -19,10 +19,13 @@ jobs:
                 rm -f poetry.lock
                 poetry install
             - name: Build Docs
-              run: sh ./build_all.sh
+              run: |
+                sh ./build_all.sh
+                git status
             - name: Publish Docs
               uses: EndBug/add-and-commit@v9.1.4
               with:
+                default_author: github_actions
                 add: 'docs'
-                push: 'origin built --force'
+                new_branch: built
           
