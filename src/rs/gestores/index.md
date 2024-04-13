@@ -1,0 +1,3 @@
+# Apresentação
+
+Este roteiro foi elaborado para orientar o trabalho dos gestores escolares na implementação das etapas do Circuito de Gestão (CdG). Junto a ele, também foram produzidos roteiros para os gestores das Regionais de Ensino; para os gestores escolares; e Profissionais de Apoio ao Circuito de Gestão (ACGs). Portanto, é um instrumento a ser utilizado continuamente para auxiliar nas atividades, nos encaminhamentos e nas tomadas de decisões no âmbito da implementação do CdG. Recomendamos seu uso como um guia que indica o caminho, apresenta o ordenamento de atividades e sugere paradas estratégicas para reflexões, compartilhamentos e revisões. Para facilitar sua compreensão, seguem, nos anexos, lista de siglas e materiais com informações complementares. 

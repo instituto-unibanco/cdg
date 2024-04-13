@@ -1,0 +1,11 @@
+INHERIT: mkdocs.yml
+
+docs_dir: rs
+site_dir: ../docs/rs
+site_url: https://instituto-unibanco.github.io/cdg/rs
+
+nav:
+  - Apresentação: index.md
+  - Gestores:
+    - Apresentação: gestores/index.md
+    - Circuito de Gestão: gestores/c01.md
