@@ -1,5 +1,5 @@
 #!/bin/bash
 
 for f in src/*.yml; do
-mkdocs build -f $f
+poetry run mkdocs build -f $f
 done
