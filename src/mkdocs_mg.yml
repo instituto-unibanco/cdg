@@ -5,7 +5,9 @@ site_dir: ../docs/mg
 site_url: https://instituto-unibanco.github.io/cdg/mg
 
 nav:
-  - Apresentação: index.md
+  - Introdução: index.md
   - Gestores:
-    - Apresentação: gestores/index.md
-    - Circuito de Gestão: gestores/c01.md
+    - Planejamento: gestores/planejamento.md
+    - Execução: gestores/execucao.md
+    - SMAR: gestores/smar.md
+    - Correção de Rotas: gestores/correcao_rotas.md
