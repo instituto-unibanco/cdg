@@ -16,3 +16,4 @@ nav:
     - Execução: inspetores/execucao.md
     - SMAR: inspetores/smar.md
     - Correção de Rotas: inspetores/correcao_rotas.md
+  - SIGAE: sigae/manual.md
