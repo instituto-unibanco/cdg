@@ -11,3 +11,8 @@ nav:
     - Execução: gestores/execucao.md
     - SMAR: gestores/smar.md
     - Correção de Rotas: gestores/correcao_rotas.md
+  - Inspetores:
+    - Planejamento: inspetores/planejamento.md
+    - Execução: inspetores/execucao.md
+    - SMAR: inspetores/smar.md
+    - Correção de Rotas: inspetores/correcao_rotas.md
