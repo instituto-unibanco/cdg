@@ -262,3 +262,73 @@ O fluxo de transformação começa com a implementação dessas ações disparad
 O Sistema de Gestão para o Avanço Contínuo da Educação (Sigae) é o sistema em que gestores da SEE, SREs e escolas registram e acompanham a execução do Plano de Ação. Também serve para consultar indicadores, agendar e registrar reuniões e acessar outras ferramentas de suporte ao CdG.
 
 Os usuários cadastrados podem acessar por computador, tablet e celular. O Manual do Sigae faz parte dos protocolos do CdG e traz tutoriais de uso do sistema. O CdG tem protocolos destinados aos gestores para guiar a sua implementação. São roteiros específicos para a Secretaria, Regionais e Inspeção Escolar que orientam a sequência de atividades do CdG e como analisar cada etapa.
+
+## 11. Calendário do Circuito de Gestão Mineiro em 2024
+**Janeiro**
+2-31: Elaboração Plano de Ação - Versão 1 Órgão Central
+11: Órgão Central - N4 SMAR II de 2023
+23-2: Escolas e SREs - Exercício Prévio/Diagnóstico do Planejamento 2024	
+31: Postagem Plano de Ação Versão 1 Órgão Central
+
+**Fevereiro**
+5: Início ano letivo
+8: Reunião de Trabalho 1 Órgão Central - RT-S1
+19-1: Ponto de Checagem Plano de Ação com Inspeção
+20: Reunião de Gestão Integrada Presencial - RGI-S1 (Órgão Central e SREs)	
+
+**Março**
+11-15: Reunião de Trabalho 1 das SREs - RTR1 Planejamento
+22: Postagem Plano de Ação - Versão 1 SREs e escolas
+18: Início análise e devolutiva Plano de Ação das SREs
+18-22: Reunião de Gestão Integrada Presencial - RGI-E1 (SREs e escolas)
+
+**Abril**
+1-12: Visita Técnica 1 - VT1 - Devolutiva do Plano de Ação
+15-18: Conselho de Classe 1º Bimestre
+22-26: Reunião de Trabalho 2 Órgão Central - RT-S2 e Reunião de Trabalho 2 SREs - RT-R2	
+26: Versão Final - Plano de Ação Órgão Central, SREs e escolas
+
+**Maio**
+6-17: Visita Técnica 2 - VT2 - Execução Plano de Ação
+17: Data de corte SMAR I
+
+**Junho**
+3: Disponibilização no Sigae dos indicadores estruturantes 1º Bimestre
+3-7: SREs e Escolas - Exercício Prévio SMAR I
+10-21: Escolas N1 SMAR I
+26-02: Conselho de Classe 2º Bimestre
+
+**Julho**
+1-5: SREs N2 SMAR I
+15-19: Órgão Central e SREs N3 SMAR I
+22: Disponibilização no Sigae dos indicadores estruturantes 2º Bimestre	
+29-6: Órgão Central N4 SMAR I
+
+**Agosto**
+12-16: Órgão Central e SREs - RGI-S2 Correção de Rotas
+19-23: SREs e Escolas - RGI-E2 Correção de Rotas
+19-23: Campo 1 Tutoria 
+26-30: Visita Técnica 3 - VT3 - Correção de Rotas
+
+**Setembro**
+2-6: Visita Técnica 3 - VT3 - Correção de Rotas
+16-20: Órgão Central - RT-S3 e SREs - RT-R3
+20-25: Conselho de Classe 3º Bimestre
+30: Visita Técnica 4 - VT4 - Execução Plano de Ação
+
+**Outubro**
+1-11: Visita Técnica 4 - VT4 - Execução Plano de Ação
+11: Data de corte SMAR II
+14-18: Recesso escolar 
+21: Disponibilização no Sigae dos indicadores estruturantes 3º Bimestre	
+21-25: Escolas - Exercício Prévio SMAR II
+21-25: Órgão Central e SREs - N3 SMAR II
+21-31: Proeb e Proalfa
+
+**Novembro**
+4-18: N2 e N1 SMAR II
+
+**Dezembro**
+9-13: Órgão Central e SREs - Balanço - N4 SMAR II
+9-12: Conselho de Classe 4º Bimestre
+13: Término ano letivo
