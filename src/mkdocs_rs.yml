@@ -5,7 +5,17 @@ site_dir: ../docs/rs
 site_url: https://instituto-unibanco.github.io/cdg/rs
 
 nav:
-  - Apresentação: index.md
+  - Introdução: index.md
   - Gestores:
-    - Apresentação: gestores/index.md
-    - Circuito de Gestão: gestores/c01.md
+    - Papel do Gestor: gestores/index.md
+    - Pactuação de Metas e Planejamento: gestores/planejamento.md
+    - Execução e Monitoramento: gestores/execucao.md
+    - Avaliação de Resultados: gestores/avaliacao.md
+    - Correção de Rotas: gestores/correcao.md
+  - Mediadores:
+    - Papel do Mediador: mediadores/index.md
+    - Pactuação de Metas e Planejamento: mediadores/planejamento.md
+    - Execução e Monitoramento: mediadores/execucao.md
+    - Avaliação de Resultados: mediadores/avaliacao.md
+    - Correção de Rotas: mediadores/correcao.md
+  - SIGAE: sigae/manual.md
