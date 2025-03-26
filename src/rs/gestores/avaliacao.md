@@ -1,12 +1,12 @@
 # Avaliação de Resultados
 
-## 1\. Indicadores para a avaliação de resultados
+## 1. Indicadores para a avaliação de resultados
 
 Os indicadores oferecem subsídios para a avaliação do Plano de Ação e estão disponíveis no Relatório de Avaliação de Resultados, no SIGAE. Os principais são os Indicadores de Execução do Plano de Ação (status das tarefas e ações) e os Indicadores Estruturantes (aulas dadas, frequência e notas dos estudantes). No entanto, os resultados apontados no Plano de Ação podem requerer outros métodos para a sua devida mensuração, os quais devem ser incorporados na avaliação.
 
 A conclusão de uma ação do Plano de Ação acontece a partir da conclusão do seu conjunto de tarefas vinculadas. Assim, ao concluir as tarefas, é importante que os gestores reflitam se a ação atingiu o seu objetivo.
 
-## 2\. Indicador de mensuração de impacto
+## 2. Indicador de mensuração de impacto
 
 Todo Plano de Ação possui uma meta de impacto, calculada a partir de um indicador correlato ao Índice de Desenvolvimento da Educação Básica (Ideb), denominado Ideb\* (lê-se Ideb-estrela). O **Ideb** combina um indicador padronizado de proficiência em Língua Portuguesa e Matemática (IN), apurado na última série do Ensino Médio, por meio do Sistema de Avaliação da Educação Básica (Saeb), e outro indicador de rendimento (IP), que considera a taxa de aprovação em todas as séries dessa etapa. Trata-se de um produto entre o desempenho, medido em termos de conhecimento em Língua Portuguesa e Matemática, e o fluxo (taxa de aprovação na 3ª ou 4ª série) dos estudantes do Ensino Médio, e é calculado bianualmente.
 
@@ -14,7 +14,7 @@ O **Ideb\*** utiliza a mesma forma de cálculo, mas o indicador de proficiência
 
 A mensuração de impacto, que indica o atingimento da meta do Plano de Ação, acontece somente no ano seguinte ao da sua vigência, quando os resultados das avaliações externas estão disponíveis e os dados do Censo Escolar, consolidados. Isto é, neste ano, recebem-se os resultados de impacto do ano anterior.
 
-## 3\. Passo a passo
+## 3. Passo a passo
 
 Na etapa de Avaliação de Resultados, o Grupo Gestor escolar, com o apoio do mediador, avalia os resultados intermediários alcançados a partir da execução de seu Plano de Ação. Isso vai orientar o que deve ser alterado na Correção de Rotas do Plano de Ação.
 
@@ -77,7 +77,7 @@ O processo padrão de Avaliação de Resultados na escola envolve duas ações-c
     - Reunião de Nível 1 para avaliar o Plano de Ação da Escola.
     - Atualizar o Painel de Risco.
 
-## 4\. Encontro de avaliação do Plano de Ação com o Grupo Gestor da escola
+## 4. Encontro de avaliação do Plano de Ação com o Grupo Gestor da escola
 
 O encontro entre o Grupo Gestor da escola visa avaliar a eficácia, a eficiência e refletir sobre a efetividade do Plano de Ação. Para preparar essa reunião, os gestores escolares precisam se apropriar do Plano de Ação da escola e dos Relatórios de Avaliação de Resultados, disponíveis no Sigae.
 
@@ -88,7 +88,7 @@ Orientações para preparar o encontro do Grupo Gestor da escola para avaliaçã
 -   Acesse o Plano de Ação da escola no SIGAE, retome os objetivos estratégicos da rede, problemas, resultados e ações previstas.
 -   Observe os pontos de atenção para a melhor organização do encontro do Grupo Gestor da escola.
 
-## 5\. Como avaliar o Plano de Ação
+## 5. Como avaliar o Plano de Ação
 
 Em posse das orientações da CRE e dos Relatórios de Avaliação de Resultados do SIGAE, o Grupo Gestor deve se reunir para avaliar o Plano de Ação da escola, utilizando as perguntas norteadoras que estimulam a reflexão sobre os resultados alcançados e a qualidade das ações implementadas. Conforme o grupo realiza as análises, registre-as no instrumento de avaliação do Plano de Ação da escola, disponível no Anexo B, apontando o que a escola identifica como potencialidades e os desafios do período em questão.
 
@@ -162,6 +162,8 @@ Tabela 22 \- Roteiro de Avaliação do Plano de Ação
 		</tr>
 	</tbody>
 </table>
+
+### 5.1. Formulários de Avaliação
 
 Registre as reflexões do Grupo Gestor nos formulários de avaliação dos resultados do Plano de Ação da escola.
 
@@ -319,6 +321,8 @@ Tabela 25 \- Problemas identificados e governabilidade
 	</tbody>
 </table>
 
+### 5.3. Análise sobre os Objetivos Estratégicos
+
 Durante a avaliação, busca-se mensurar se o Plano de Ação proposto é eficiente e eficaz em relação ao atingimento dos resultados pretendidos. Ainda não é possível mensurar devidamente sua efetividade, pois os impactos previstos nos objetivos estratégicos, em muitos casos, só podem ser verificados em um prazo maior. Porém, isso não impede que o Grupo Gestor realize uma análise de cada um dos objetivos estratégicos, considerando os apontamentos sobre os Indicadores Estruturantes e a mensuração dos resultados. Assim, para cada um deles, reflita:
 
 -   As ações estão gerando resultados positivos e tendem a alcançar os objetivos estratégicos definidos? Quais evidências indicam isso?
@@ -362,7 +366,7 @@ Tabela 26 \- Análise sobre os objetivos estratégicos
 	</tbody>
 </table>
 
-## 6\. Reunião de Nível 1 (RN1) com o mediador para consolidar a avaliação do Plano de Ação da escola
+## 6. Reunião de Nível 1 (RN1) com o mediador para consolidar a avaliação do Plano de Ação da escola
 
 Prepare-se para a Reunião de Nível 1 (RN1) com o mediador, organizando as informações coletadas pelo Grupo Gestor durante a avaliação do Plano de Ação da escola. Identifique as dúvidas ou apontamentos que precisam ser dialogados com os atores da CRE.
 
@@ -372,6 +376,6 @@ No diálogo, considere as seguintes premissas: (a) ver o todo e buscar as conex�
 
 Durante a reunião, revise o instrumento de avaliação dos resultados da escola e, ao final, faça a leitura para a validação de todos os participantes.
 
-## 7\. Atualizar o Painel de Risco
+## 7. Atualizar o Painel de Risco
 
 Durante o processo de avaliação dos resultados do Plano de Ação, a escola identificou pontos críticos que podem ser problemas. Eles podem demandar, na etapa de Correção de Rotas, novas ações ou tarefas no Plano de Ação escolar ou atuação de outras instâncias. Em ambos os casos, registre-os no instrumento de avaliação de resultados do Plano de Ação da escola e complete o diagnóstico do Plano de Ação no SIGAE, indicando se o problema será tratado pela escola ou se está fora da sua governabilidade, compondo o Painel de Risco, que será utilizado pela CRE e pela SEDUC-RS. É importante que o problema esteja redigido de forma a possibilitar a compreensão de quem não está no dia a dia escolar.

@@ -1,6 +1,6 @@
 # Pactuação de Metas e Planejamento
 
-## 1\. Passo a passo
+## 1. Passo a passo
 
 Pactuação de Metas e Planejamento é a primeira etapa do Circuito de Gestão (CdG), quando são elaborados os Planos de Ação das 3 instâncias: SEDUC-RS, Coordenadorias Regionais de Educação (CREs) e escolas. É o momento em que a rede define o que pretende realizar no ano, priorizando projetos e ações.
 
@@ -16,7 +16,7 @@ A etapa de Pactuação de Metas e Planejamento na escola envolve duas ações-ch
 
 A etapa de Pactuação de Metas e Planejamento prevê quatro encontros. Os gestores escolares participam de duas Reuniões de Gestão Integrada (RGI), uma organizada pela SEDUC-RS e outra pela Coordenadoria Regional de Educação (CRE). O Grupo Gestor participa de encontros do grupo, organizados pela equipe gestora da escola, e da Sessão de Acompanhamento, organizada pelo mediador.
 
-## 2\. Diagnóstico e análise situacional
+## 2. Diagnóstico e análise situacional
 
 A realização do diagnóstico e análise situacional acontece após a Reunião de Gestão Integrada (RGI) da SEDUC-RS, encontro organizado pela SEDUC-RS com os gestores das Coordenadoria Regional de Educação (CREs) e das escolas, no qual são apresentados os objetivos estratégicos, os resultados da SEDUC-RS e as metas do Ideb\*, além de pactuado o processo de Planejamento.
 
@@ -55,6 +55,8 @@ Tabela 1 \- Dimensões e referências para o diagnóstico e análise situacional
 </tr>
 </tbody>
 </table>
+
+### 2.1. Dimensão Pedagógica
 
 Tabela 2 \- Diagnóstico e análise situacional da dimensão pedagógica
 
@@ -228,6 +230,8 @@ Tabela 5 \- Diagnóstico/dimensão pedagógica/resultados educacionais – Equid
 	</tbody>
 </table>
 
+### 2.2. Dimensão Administrativo-Financeira
+
 Após o diagnóstico e análise situacional da dimensão pedagógica, é hora de fazer o mesmo para a dimensão administrativo-financeira. Realize o levantamento e a análise de dados de pontos-chave da administração escolar: (1) Recursos Humanos; (2) Insumos; e (3) Financeiro. Esse diagnóstico é essencial para identificar atividades/meios que têm potencial para afetar direta ou indiretamente os resultados educacionais. Lembre-se que todo o diagnóstico é realizado a partir dos objetivos estratégicos da SEDUC-RS. Assim, mapeie os problemas buscando identificar a quais objetivos estão vinculados.
 
 Tabela 6 \- Diagnóstico e análise situacional da dimensão administrativo-financeira
@@ -385,6 +389,8 @@ Tabela 9 \- Diagnóstico do Componente 2: Financeiro/dimensão administrativo-fi
 		</tr>
 	</tbody>
 </table>
+
+### 2.3. Consolidação do diagnóstico
 
 Uma vez finalizado o diagnóstico e a leitura crítica dos dados das dimensões pedagógica e administrativo-financeira, a equipe realiza a análise e a sistematização do registro dos resultados e a postagem no SIGAE, para iniciar a construção do Plano de Ação.
 
@@ -699,7 +705,7 @@ Tabela 15 \- Consolidação da lista de problemas com recomendações
 	</tbody>
 </table>
 
-### 2.1. Analisar informações da rede de ensino
+### 2.4. Análise das informações da rede de ensino
 
 Após a realização do diagnóstico e análise situacional, é o momento de o Grupo Gestor escolar analisar os problemas identificados à luz das informações da rede de ensino fornecidas pela SEDUC-RS durante a Reunião de Gestão Integrada e verificar se as ações propostas pela SEDUC-RS colaboram com as necessidades para o ano. Finalizadas as análises, os gestores escolares devem postar o documento de consolidação do diagnóstico da escola no SIGAE e revisar os problemas cadastrados no sistema.
 
@@ -750,7 +756,7 @@ Tabela 16 \- Procedimento de análise das informações da rede de ensino
 	</tbody>
 </table>
 
-## 3\. Elaborar o Plano de Ação
+## 3. Elaborar o Plano de Ação
 
 Após diagnosticar a realidade da escola, definir as suas prioridades e alinhá-las com os objetivos e resultados da rede, é o momento de a escola elaborar o seu Plano de Ação. Ele deve ser feito no SIGAE, por isso, acesse o Manual do SIGAE para facilitar seu preenchimento.
 
