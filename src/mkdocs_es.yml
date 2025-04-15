@@ -1,0 +1,29 @@
+INHERIT: mkdocs.yml
+
+docs_dir: es
+site_dir: ../docs/es
+site_url: https://instituto-unibanco.github.io/cdg/es
+
+nav:
+  - Introdução: index.md
+  - Recomposição das aprendizagens:
+    - Diretrizes do monitoramento:
+      - Apresentação: recomposicao-aprendizagens/diretrizes/apresentacao.md
+      - Introdução: recomposicao-aprendizagens/diretrizes/introducao.md
+      - Monitoramento da rotina escola: recomposicao-aprendizagens/diretrizes/monitoramento.md
+      - Objetivos do monitoramento: recomposicao-aprendizagens/diretrizes/objetivos.md
+      - Etapas do monitoramento: recomposicao-aprendizagens/diretrizes/etapas.md
+      - Indicadores-chaves: recomposicao-aprendizagens/diretrizes/indicadores.md
+      - Sugestõres de monitoramento pela escola: recomposicao-aprendizagens/diretrizes/sugestoes.md
+      - Considerações finais: recomposicao-aprendizagens/diretrizes/consideracoes.md
+    - Protocolo de monitoramento da rotina:
+      - Apresentação: recomposicao-aprendizagens/protocolo/apresentacao.md
+      - Introdução: recomposicao-aprendizagens/protocolo/introducao.md
+      - Rotina Pedagógica Escolar (RPE): recomposicao-aprendizagens/protocolo/rotina.md
+      - Como funciona a Rotina Pedagógica Escolar?: recomposicao-aprendizagens/protocolo/como-funciona.md
+      - Monitoramento: recomposicao-aprendizagens/protocolo/monitoramento.md
+      - Atribuições do Supervisor: recomposicao-aprendizagens/protocolo/atribuicoes.md
+      - Objetivos do protocolo: recomposicao-aprendizagens/protocolo/objetivos.md
+      - Roteiro do monitoramento: recomposicao-aprendizagens/protocolo/roteiro.md
+      - Protocolo de monitoramento: recomposicao-aprendizagens/protocolo/protocolo.md
+      - Considerações finais: recomposicao-aprendizagens/protocolo/consideracoes.md
