@@ -22,7 +22,7 @@ O protocolo deverá ser aplicado na ocasião das Visitas Técnicas do Circuito d
 
 ### Passo 3 - Apresentação de sugestões de monitoramento a serem realizadas pela escola
 
-- Compartilhar com os gestores escolares as Sugestões de Monitoramento da RPE pela Escola (capítulo 11. ANEXOS), ressaltando que se tratam de sugestões adaptáveis à realidade de cada escola*;
+- Compartilhar com os gestores escolares as Sugestões de Monitoramento da RPE pela Escola (capítulo [ANEXOS](anexos.md)), ressaltando que se tratam de sugestões adaptáveis à realidade de cada escola*;
 - Destacar estratégias para aprimorar a execução da Rotina Pedagógica;
 - Incentivar a implementação de boas práticas e ajustes na execução da RPE, conforme necessidade.
 - * Caso a escola já tenha ferramentas de monitoramento funcionais, explorar estas já existentes.

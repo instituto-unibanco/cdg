@@ -9,10 +9,10 @@ O monitoramento da Rotina Pedagógica Escolar (RPE) é um processo contínuo e d
 
 ## Protocolo de Acompanhamento Periódico das Aulas
 
-- **Autorrelato do professor:** implementar o autorrelato como ferramenta para que os professores façam uma autoavaliação qualitativa e quantitativa da execução da RPE, identificando sucessos e desafios (ANEXO III).
-- **Acompanhamento das aulas pelo PCA:** os Professores Coordenadores de Área (PCA) podem realizar visitas às salas para acompanhar a execução da RPE, utilizando um roteiro estruturado (ANEXO II);
-- **Escuta ativa dos estudantes:** realizar rodas de conversa com os líderes de turma e/ou aplicar formulários para coletar percepções dos estudantes sobre a rotina pedagógica (ANEXO IV);
-- **Registro reflexivo:** os Coordenadores Pedagógicos ou Pedagogos podem criar um diário pedagógico para que os docentes compartilhem seus autorrelatos e registrem desafios e boas práticas relacionadas à RPE (ANEXO I).
+- **Autorrelato do professor:** implementar o autorrelato como ferramenta para que os professores façam uma autoavaliação qualitativa e quantitativa da execução da RPE, identificando sucessos e desafios ([ANEXO III](anexo-3.md)).
+- **Acompanhamento das aulas pelo PCA:** os Professores Coordenadores de Área (PCA) podem realizar visitas às salas para acompanhar a execução da RPE, utilizando um roteiro estruturado ([ANEXO II](anexo-2.md));
+- **Escuta ativa dos estudantes:** realizar rodas de conversa com os líderes de turma e/ou aplicar formulários para coletar percepções dos estudantes sobre a rotina pedagógica ([ANEXO IV](anexo-4.md));
+- **Registro reflexivo:** os Coordenadores Pedagógicos ou Pedagogos podem criar um diário pedagógico para que os docentes compartilhem seus autorrelatos e registrem desafios e boas práticas relacionadas à RPE ([ANEXO I](anexo-1.md)).
 
 ## Planejamento Periódico para Avaliação dos Processos de Execução da RPE
 
@@ -27,7 +27,7 @@ O monitoramento da Rotina Pedagógica Escolar (RPE) é um processo contínuo e d
 ## Análise de Dados e Indicadores
 
 - Monitorar o desempenho dos estudantes por meio da AMA para verificar o impacto da RPE na aprendizagem.
-- Acompanhar a participação dos estudantes, por meio, por exemplo, dos instrumentos de acompanhamento periódico das aulas (ANEXOS III e IV), analisando como a Rotina Pedagógica influencia o seu comprometimento com as atividades escolares.
+- Acompanhar a participação dos estudantes, por meio, por exemplo, dos instrumentos de acompanhamento periódico das aulas ([ANEXOS III](anexo-3.md) e [IV](anexo-4.md)), analisando como a Rotina Pedagógica influencia o seu comprometimento com as atividades escolares.
 
 ## Acompanhamento da Formação Docente
 
