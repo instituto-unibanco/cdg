@@ -26,12 +26,12 @@ jobs:
                 git status
             - name: Commit Docs
               run: |
+                ls docs
                 git config user.name "github-actions[bot]"
                 git config user.email "github-actions[bot]@users.noreply.github.com"
-                git stash
                 git checkout -B built origin/built
-                git stash pop
                 git add docs --force
+                git status
                 git commit -m "Built Docs"
                 git push -f origin built
           
