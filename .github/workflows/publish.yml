@@ -31,6 +31,6 @@ jobs:
                 git checkout -B built origin/built
                 git add docs --force
                 git status
-                git commit -m "Built Docs"
-                git push -f origin built
+                git commit -m "Built Docs" || echo "Nothing new, continuing..."
+                git push -f origin built || echo "Nothing new, continuing..."
           
