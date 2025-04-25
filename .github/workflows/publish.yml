@@ -26,7 +26,6 @@ jobs:
                 git status
             - name: Commit Docs
               run: |
-                ls docs
                 git config user.name "github-actions[bot]"
                 git config user.email "github-actions[bot]@users.noreply.github.com"
                 git checkout -B built origin/built
