@@ -27,9 +27,9 @@ jobs:
                 git config user.name "github-actions[bot]"
                 git config user.email "github-actions[bot]@users.noreply.github.com"
                 git stash
-                git checkout built
+                git checkout -B built origin/built
                 git stash pop
                 git add docs --force
                 git commit -m "Built Docs"
-                git push origin built
+                git push -f origin built
           
