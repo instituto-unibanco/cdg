@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # 1\. Circuito de Gestão (CdG)
 
 ## 1.1. O Circuito de Gestão (CdG)
