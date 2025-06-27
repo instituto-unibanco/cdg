@@ -6,9 +6,7 @@ site_url: https://instituto-unibanco.github.io/cdg/es
 
 nav:
   - Introdução: index.md
-  - Supervisores:
-    - Planejamento: supervisores/supervisor.md
-  - Dupla gestora da regional: 
-    - Circuito de Gestão (CdG): dupla-gestora-regional/regional.md
+  - Supervisores: supervisores/supervisor.md
+  - Dupla gestora da regional: dupla-gestora-regional/regional.md
   - RPE: rpe/supervisor.md
   - SIGAE: sigae/manual.md
