@@ -1,6 +1,6 @@
 # PLANEJAMENTO
 
-## 1\. A importância do Planejamento
+## 1. A importância do Planejamento
 
 Nesta etapa, a escola começa a planejar suas ações para o ano letivo. O foco é construir o Plano de Ação, um documento claro e prático, que orienta tudo o que será feito para alcançar a meta prevista para o ano.
 
@@ -19,7 +19,7 @@ A partir dessa análise, a escola identifica os principais problemas que dificul
 
 O Plano de Ação é um instrumento estratégico: organiza as prioridades da escola para garantir aprendizagem, inclusão e melhores resultados.
 
-## 2\. Como elaborar o Plano de Ação
+## 2. Como elaborar o Plano de Ação
 
 ### 2.1. Etapas da elaboração do Plano de Ação
 
@@ -67,13 +67,13 @@ O que se espera alcançar com essa ação? O resultado deve refletir o impacto d
 **Cronograma de tarefas**  
 Liste as tarefas da ação de forma sequencial, com datas de início e término e responsáveis por cada etapa. Esse cronograma será a base para acompanhar a execução do plano.
 
-## 3\. Roteiro da etapa de Planejamento
+## 3. Roteiro da etapa de Planejamento
 
 ### 3.1. Orientações para o Exercício Prévio
 
 Antes da primeira Visita Técnica (VT-1), a escola deve aprofundar o diagnóstico iniciado na Jornada de Planejamento Pedagógico (JPP). Recomenda-se a realização de um Exercício Prévio para sistematizar dados e identificar os principais problemas que impactam a aprendizagem.
 
-Nas escolas de tempo integral, o Exercício Prévio também deve definir as premissas pedagógicas que precisam ser fortalecidas. O material produzido será o ponto de partida para as discussões da Visita Técnica 1\. O supervisor deve enviar as orientações do exercício com antecedência, garantindo uma preparação qualificada da equipe escolar.
+Nas escolas de tempo integral, o Exercício Prévio também deve definir as premissas pedagógicas que precisam ser fortalecidas. O material produzido será o ponto de partida para as discussões da Visita Técnica 1. O supervisor deve enviar as orientações do exercício com antecedência, garantindo uma preparação qualificada da equipe escolar.
 
 <table>
     <tbody>
@@ -122,7 +122,7 @@ Na última Visita Técnica da etapa de Planejamento, o foco é a **organização
 
 Essa visita fecha o ciclo de planejamento com organização, segurança documental e clareza de encaminhamentos para as próximas etapas do Circuito de Gestão.
 
-## 4\. Exercício Prévio
+## 4. Exercício Prévio
 
 ### 4.1. Exercício Prévio de diagnóstico e levantamento de problemas para a escola
 
@@ -193,7 +193,7 @@ Para apoiar essa análise, o material inclui um questionário de expectativa, ap
 
 Essa escuta qualificada contribui para o fortalecimento das práticas pedagógicas e ajuda a rede a construir políticas mais efetivas e alinhadas com o território.
 
-## 5\. Visitas Técnicas
+## 5. Visitas Técnicas
 
 ### 5.1. Diagnóstico e identificação de desafios
 
@@ -841,7 +841,7 @@ O supervisor escolar deve realizar a verificação dos livros de ponto, prioriza
 
 # Execução
 
-## 1\. A importância da Execução
+## 1. A importância da Execução
 
 Durante a execução do Plano de Ação, é crucial que o grupo gestor escolar e o supervisor trabalhem juntos de maneira técnica e pedagógica. O foco deve ser garantir que as ações em andamento estejam alinhadas com o planejamento, atendam às necessidades dos alunos e utilizem metodologias e recursos adequados ao contexto escolar.
 
@@ -859,7 +859,7 @@ A execução é trimestral, sendo que o número de visitas varia. Na execução 
 
 -   Execução III \- VT1 Aspectos da Regulação Escolar, VT2 Reflexão sobre a incidência das ações e VT3 Balanço da execução do Plano de Ação.
 
-## 2\. Roteiro das Visitas Técnicas
+## 2. Roteiro das Visitas Técnicas
 
 A Visita Técnica 1 (VT-1) tem como foco avaliar como o Plano de Ação está sendo colocado em prática, identificando avanços e possíveis ajustes. Também busca acompanhar os principais indicadores da escola (como frequência dos estudantes, percentual de aulas dadas e nota) e ouvir ativamente as lideranças estudantis, fortalecendo o diálogo e a corresponsabilização.
 
@@ -1058,17 +1058,17 @@ Para essa análise, são considerados:
 
 **Percentual de frequência**
 
-1\. Houve variação de frequência dos estudantes desde o início do ano letivo? Há diferença na variação entre as etapas? Quais anos/ séries? Quais turmas dos anos/ séries? Se houve, a que fatores o grupo gestor atribui a variação?  
-2\. Como o grupo gestor pensa intervir na variação de frequência? É necessário realizar ajustes ou já pensar em ações específicas a serem incluídas na Correção de Rotas?  
-3\. Aprofundando a análise, observa-se algum grupo específico de estudantes com redução de frequência? Se houver, a que fatores o grupo gestor atribui as dificuldades desse grupo?  
-4\. As ações realizadas estão sendo efetivas para garantir a frequência dos estudantes?
+1. Houve variação de frequência dos estudantes desde o início do ano letivo? Há diferença na variação entre as etapas? Quais anos/ séries? Quais turmas dos anos/ séries? Se houve, a que fatores o grupo gestor atribui a variação?  
+2. Como o grupo gestor pensa intervir na variação de frequência? É necessário realizar ajustes ou já pensar em ações específicas a serem incluídas na Correção de Rotas?  
+3. Aprofundando a análise, observa-se algum grupo específico de estudantes com redução de frequência? Se houver, a que fatores o grupo gestor atribui as dificuldades desse grupo?  
+4. As ações realizadas estão sendo efetivas para garantir a frequência dos estudantes?
 
 **Acolhimento e permanência dos estudantes**
 
-1\. Como está sendo o trabalho em relação aos estudantes com baixa frequência? Por quais motivos esses estudantes se ausentam? Quais estratégias estão sendo utilizadas para assegurar a permanência desses estudantes na escola?  
-2\. As ações destinadas aos estudantes com baixa frequência têm conseguido reverter a situação? Quais se destacam? O que precisa ser melhorado?  
-3\. Há estratégias para envolver os estudantes no acolhimento aos seus pares?  
-4\. Como a busca ativa tem contribuído para garantir o retorno e a permanência dos estudantes na escola? Quais articulações são necessárias? Quais estratégias de acolhimento têm sido desenvolvidas? Como as lideranças estudantis podem contribuir?
+1. Como está sendo o trabalho em relação aos estudantes com baixa frequência? Por quais motivos esses estudantes se ausentam? Quais estratégias estão sendo utilizadas para assegurar a permanência desses estudantes na escola?  
+2. As ações destinadas aos estudantes com baixa frequência têm conseguido reverter a situação? Quais se destacam? O que precisa ser melhorado?  
+3. Há estratégias para envolver os estudantes no acolhimento aos seus pares?  
+4. Como a busca ativa tem contribuído para garantir o retorno e a permanência dos estudantes na escola? Quais articulações são necessárias? Quais estratégias de acolhimento têm sido desenvolvidas? Como as lideranças estudantis podem contribuir?
 
 **Aulas dadas**  
 Para essa análise, são considerados a:
@@ -1427,7 +1427,7 @@ Depois de concluir a Visita Técnica, é essencial registrar as informações em
 
 # SMAR
 
-## 1\. A importância da SMAR
+## 1. A importância da SMAR
 
 A Sistemática de Monitoramento e Avaliação de Resultados (SMAR) é uma etapa do Circuito de Gestão (CdG) em que as três instâncias da rede estadual avaliam seus Planos de Ação com base em evidências, de forma coletiva.
 
@@ -1451,7 +1451,7 @@ Os resultados da SMAR orientam os ajustes necessários nos Planos de Ação, com
 
 Esses desdobramentos acontecem durante a Correção de Rotas, nas Reuniões de Trabalho (RTs na Sedu e nas SREs) e nas Reuniões de Gestão Integrada (RGIs entre Sedu e SREs e entre SREs e escolas).
 
-## 2\. Roteiro da SMAR N1
+## 2. Roteiro da SMAR N1
 
 A SMAR N1 acontece, no mínimo, por meio de uma Visita Técnica (VT). Nesse momento, o supervisor se reúne com o grupo gestor da escola para promover um espaço de reflexão sobre o percurso trilhado no período. A visita também tem o papel de apoiar o planejamento da próxima etapa: a Correção de Rotas.
 
@@ -1908,19 +1908,19 @@ Oriente a equipe gestora da escola a realizar a socialização dos dados trimest
 
 As reflexões e análises devem ser levadas aos seguintes espaços:
 
-**1\. Conselho de Escola e Conselho de Líderes**
+**1. Conselho de Escola e Conselho de Líderes**
 
 -   Socializar os dados nas **reuniões ordinárias previstas** para esses conselhos.
 -   Estimular a participação dos representantes e levantar percepções sobre os avanços, desafios e sugestões.
 
-**2\. Equipe de Professores**
+**2. Equipe de Professores**
 
 -   Apresentar os resultados durante:
     -   Reuniões gerais (no caso das escolas de Tempo Integral), ou
     -   Reuniões de planejamento por área de conhecimento.
 -   Discutir coletivamente os principais indicadores, as hipóteses levantadas e os caminhos possíveis para aprimorar as ações pedagógicas.
 
-**3\. Pais e responsáveis**
+**3. Pais e responsáveis**
 
 -   Promover uma reunião com os responsáveis **após o Conselho de Classe e a recuperação trimestral**.
 -   Incluir, no diagnóstico apresentado, os **resultados trimestrais da escola**, contextualizando as ações realizadas e os próximos passos.
@@ -2008,12 +2008,12 @@ Após concluir a Visita Técnica (VT) da SMAR N1, é hora de consolidar e encami
 
 **Responsabilidades do supervisor:**
 
-**1\. Preenchimento do Formulário I**
+**1. Preenchimento do Formulário I**
 
 -   Preencher o Formulário I individualmente para cada escola acompanhada.
 -   As respostas devem refletir fielmente o que foi observado e discutido durante a Visita Técnica.
 
-**2\. Elaboração de uma síntese das análises**
+**2. Elaboração de uma síntese das análises**
 
 -   Reunir as principais informações extraídas dos formulários.
 -   Identificar quais escolas demandam maior atenção por parte da SRE, com base em critérios como:
@@ -2022,7 +2022,7 @@ Após concluir a Visita Técnica (VT) da SMAR N1, é hora de consolidar e encami
     -   Cumprimento de tarefas e entrega de produtos;
     -   Dificuldades recorrentes ou estruturais.
 
-**3\. Encaminhamento das informações**
+**3. Encaminhamento das informações**
 
 -   Organizar a síntese como insumo para a etapa SMAR N2.
 -   Garantir que os dados e apontamentos contribuam para o acompanhamento mais estratégico e direcionado da rede.
@@ -2039,7 +2039,7 @@ Na SMAR N2, é esperado que o supervisor atue como articulador entre escola, SRE
 
 # Correção de Rotas
 
-## 1\. A importância da Correção de Rotas
+## 1. A importância da Correção de Rotas
 
 A etapa Correção de Rotas encerra um ciclo do Circuito de Gestão (CdG) e inicia uma nova rodada, utilizando toda a experiência acumulada desde o Planejamento até a SMAR para qualificar o Plano de Ação. Nessa etapa, não se elabora um novo plano, mas se revisam os problemas, desafios e ações definidos no Planejamento, com base no monitoramento da Execução e nas análises da SMAR. O objetivo é revisar ações que não geraram os resultados esperados em relação aos desafios e componentes do IDEBES estabelecidos, além de reformular e incluir novas ações que contribuam para a melhoria dos índices de aprovação e desempenho.
 
@@ -2065,7 +2065,7 @@ Este é o momento de reavaliar as ações e tarefas planejadas, assegurando que 
 	</tbody>
 </table>
 
-## 2\. Roteiro da Visita Técnica de Correção de Rotas
+## 2. Roteiro da Visita Técnica de Correção de Rotas
 
 ### 2.1. Passo a passo da Correção de Rotas
 

@@ -1,4 +1,4 @@
-# 1\. RPE (Rotina Pedagógica Escolar)
+# 1. RPE (Rotina Pedagógica Escolar)
 
 ## 1.1. Recomposição das aprendizagens
 
@@ -50,7 +50,7 @@ As escolas prioritárias identificadas pela Sedu são aquelas que apresentam des
 
 A Sedu oferece um acompanhamento mais próximo às escolas prioritárias, por meio de Visitas Técnicas e assessoramentos pedagógicos mais frequentes. O objetivo é monitorar a execução da RPE, identificar os desafios enfrentados pelas equipes escolares e oferecer o suporte necessário para que a rotina seja aplicada de forma eficaz, contribuindo para a melhoria do desempenho acadêmico dos estudantes e para a redução das desigualdades educacionais.
 
-# 2\. Monitoramento da RPE pelo supervisor
+# 2. Monitoramento da RPE pelo supervisor
 
 ## 2.1. Atribuições do supervisor escolar
 
@@ -115,20 +115,20 @@ Tabela 1 \- Objetivos do monitoramento do supervisor escolar
 
 O monitoramento da RPE (Rotina Pedagógica Escolar) acontece nas Visitas Técnicas do Circuito de Gestão durante a etapa de Execução.
 
-**1\. Preparação para a Visita Técnica** (durante as Visitas Pedagógicas da etapa de Execução): estudar as perguntas norteadoras que guiarão o diálogo com a equipe gestora.
+**1. Preparação para a Visita Técnica** (durante as Visitas Pedagógicas da etapa de Execução): estudar as perguntas norteadoras que guiarão o diálogo com a equipe gestora.
 
-**2\. Dialogar com a equipe escolar e aplicar as questões norteadoras:** conduzir uma reflexão sobre as ações desenvolvidas pela escola quanto à RPE, com base nas questões norteadoras.
+**2. Dialogar com a equipe escolar e aplicar as questões norteadoras:** conduzir uma reflexão sobre as ações desenvolvidas pela escola quanto à RPE, com base nas questões norteadoras.
 
 -   Apoiar a escola na identificação dos desafios e na proposição de soluções conjuntas para aprimorar a execução da RPE.
 -   Identificar o envolvimento da equipe escolar com a RPE.
 
-**3\. Compartilhar com os gestores escolares as sugestões de monitoramento da RPE** **pela escola**: ressaltar que se tratam de sugestões adaptáveis à realidade de cada escola (caso a escola já tenha ferramentas de monitoramento funcionais, explorar as já existentes).
+**3. Compartilhar com os gestores escolares as sugestões de monitoramento da RPE** **pela escola**: ressaltar que se tratam de sugestões adaptáveis à realidade de cada escola (caso a escola já tenha ferramentas de monitoramento funcionais, explorar as já existentes).
 \- Destacar estratégias para aprimorar a execução da RPE.
 \- Incentivar a implementação de boas práticas e ajustes na execução da RPE, conforme necessidade.
 
-**4\. Aplicar o Formulário do Supervisor Escolar junto à equipe pedagógica:** ele tem o objetivo de verificar o uso e a conclusão dos Materiais Estruturados. O formulário deve contemplar a verificação de cada ano/série quanto à conclusão das rotinas pedagógicas no mês anterior. Lembre-se de identificar os motivos para não conclusão dos materiais, caso se aplique.
+**4. Aplicar o Formulário do Supervisor Escolar junto à equipe pedagógica:** ele tem o objetivo de verificar o uso e a conclusão dos Materiais Estruturados. O formulário deve contemplar a verificação de cada ano/série quanto à conclusão das rotinas pedagógicas no mês anterior. Lembre-se de identificar os motivos para não conclusão dos materiais, caso se aplique.
 
-**5\.** **Realizar o registro no SIGAE:** registrar a síntese das respostas obtidas durante a discussão com a equipe pedagógica na ata da Visita Técnica no SIGAE.
+**5.** **Realizar o registro no SIGAE:** registrar a síntese das respostas obtidas durante a discussão com a equipe pedagógica na ata da Visita Técnica no SIGAE.
 
 Durante a Visita Técnica, você deverá verificar junto à equipe escolar como está o desenvolvimento da RPE na escola, considerando as seguintes categorias de questões norteadoras:
 
@@ -465,7 +465,7 @@ Lembre-se que o monitoramento não é um fim em si mesmo, mas um meio para garan
 
 Seja parceiro da gestão escolar, oferecendo suporte, orientação e devolutivas construtivas. Estimule a reflexão, a inovação e a colaboração, criando um ambiente de confiança e respeito. Empodere a escola para que ela possa monitorar e ajustar a RPE de forma autônoma e contínua, garantindo a sustentabilidade das ações e o sucesso dos alunos.
 
-# 3\. Monitoramento da RPE pela escola
+# 3. Monitoramento da RPE pela escola
 
 ## 3.1. Instrumento de monitoramento do coordenador pedagógico/pedagogo
 

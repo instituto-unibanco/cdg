@@ -1,4 +1,4 @@
-# 1\. Circuito de Gestão (CdG)
+# 1. Circuito de Gestão (CdG)
 
 ## 1.1. O Circuito de Gestão (CdG)
 
@@ -14,13 +14,13 @@ O método do Circuito de Gestão foi inspirado nos princípios e nas propostas d
 
 ## 1.2. Circuito de Gestão no Espírito Santo
 
-A implementação do Jovem de Futuro e do Circuito de Gestão na rede pública de ensino do Espírito Santo teve início no ano de 2015\. A cada ano, mais escolas foram incorporadas ao programa e, em 2018, o método foi implementado em toda a rede, consolidando-se como estratégia de gestão das unidades escolares da rede estadual de ensino.
+A implementação do Jovem de Futuro e do Circuito de Gestão na rede pública de ensino do Espírito Santo teve início no ano de 2015. A cada ano, mais escolas foram incorporadas ao programa e, em 2018, o método foi implementado em toda a rede, consolidando-se como estratégia de gestão das unidades escolares da rede estadual de ensino.
 
 No período de 2021-2022, considerando a situação excepcional imposta pela pandemia de Covid-19, a Sedu promoveu um alinhamento das iniciativas da rede, de modo a coordenar as ações e evitar esforços isolados no enfrentamento dos impactos da pandemia na educação.
 
 A partir do ano de 2023, determinou-se que o Circuito de Gestão Capixaba será orientado pelos objetivos estratégicos definidos pela Sedu no Planejamento estratégico, de forma a complementar a meta do IDEBES.
 
-# 2\. A Gestão para o Avanço Contínuo no Jovem de Futuro
+# 2. A Gestão para o Avanço Contínuo no Jovem de Futuro
 
 O modelo de Gestão para o Avanço Contínuo proposto pelo programa Jovem de Futuro é composto por três pilares de atuação:
 
@@ -33,7 +33,7 @@ A mudança precisa ser desencadeada por ações simultâneas nas três instânci
 **Aprender com a prática**  
 O Jovem de Futuro é um modelo de reorganização do trabalho que convida todos a uma forma de fazer mais analítica, coletiva e integrada. Isso permite disseminar entre os profissionais, inclusive os recém-chegados, os procedimentos da gestão educacional. É por meio da reflexão na ação que os profissionais se sentem aptos a enfrentar situações novas, com condições de decidir em momentos de incerteza. Isso possibilita o aprendizado constante e o avanço da educação.
 
-# 3\. Princípios do Circuito de Gestão Capixaba
+# 3. Princípios do Circuito de Gestão Capixaba
 
 O Circuito de Gestão Capixaba estabelece alguns princípios que norteiam toda a ação da rede estadual de educação, em especial no que diz respeito ao planejamento dos programas, projetos e ações que são pensados a fim de sistematizar o trabalho em direção ao atingimento das metas pactuadas, com o objetivo de ofertar uma educação pública de qualidade aos estudantes.
 
@@ -47,7 +47,7 @@ No contexto do Circuito de Gestão, para além da participação de todos, é ne
 
 Desde o início da implantação do Circuito de Gestão, a rede estadual de educação do Espírito Santo passou por um processo contínuo de melhoria e aperfeiçoamento da aplicação do método nas rotinas de gestão das unidades escolares, o que contribuiu muito com a profissionalização de diretores e supervisores escolares. Utilizando o princípio do **aprender fazendo**, trocando experiências e práticas e sistematizando o planejamento e o monitoramento das escolas, esses profissionais puderam estabelecer um alinhamento muito mais eficaz entre os objetivos estratégicos da Secretaria e as ações propostas em seus Planos de Ação, o que permite que toda a rede trabalhe em consonância na busca por resultados educacionais cada vez melhores.
 
-# 4\. As etapas do Circuito de Gestão
+# 4. As etapas do Circuito de Gestão
 
 O Circuito de Gestão ocorre em 3 ciclos no ano. A primeira etapa, de Planejamento, só ocorre no início do ano. Os dois primeiros ciclos apresentam as mesmas etapas (Execução, SMAR/Compartilhamento de Práticas e Correção de Rotas). No terceiro ciclo, ocorre apenas a Execução e o Balanço da Execução.
 
@@ -67,7 +67,7 @@ A etapa **SMAR (Sistemática de Monitoramento e Avaliação de Resultados)** é 
 
 A etapa de **Correção de Rotas** é quando acontece a revisão dos Planos de Ação das escolas, SREs e Sedu a partir das análises da SMAR. Neste momento, é possível acrescentar, eliminar e/ou alterar as ações planejadas para alcançar os resultados esperados.
 
-# 5\. Quem participa do Circuito de Gestão
+# 5. Quem participa do Circuito de Gestão
 
 ## 5.1. Secretaria da Educação (Sedu)
 
@@ -83,7 +83,7 @@ Os supervisores escolares são responsáveis por orientar, apoiar e acompanhar a
 
 As **escolas** identificam seus problemas centrais e traçam seus Planos de Ação, que serão monitorados, avaliados e revisados nos ciclos do Circuito de Gestão. Os responsáveis por liderar esses ciclos nas escolas são os gestores escolares, mas é imprescindível o envolvimento de toda a comunidade escolar.
 
-# 6\. Requisitos do Circuito de Gestão
+# 6. Requisitos do Circuito de Gestão
 
 ## 6.1. Indicadores de monitoramento e avaliação
 

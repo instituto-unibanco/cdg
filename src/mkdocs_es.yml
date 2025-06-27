@@ -7,11 +7,8 @@ site_url: https://instituto-unibanco.github.io/cdg/es
 nav:
   - Introdução: index.md
   - Supervisores:
-    - Planejamento: supervisores/planejamento.md
-    - Execução: supervisores/execucao.md
-    - SMAR: supervisores/smar.md
-    - Correção de Rotas: supervisores/correcao.md
-  - Recomposição de Aprendizagem: 
-    - Rotina Pedagógica Escolar: recomposicao-aprendizagem/rpe.md
-    - Monitoramento da RPE pelo Supervisor: recomposicao-aprendizagem/monitoramento-supervisor.md
-    - Monitoramento da RPE pela Escola: recomposicao-aprendizagem/monitoramento-escola.md
+    - Planejamento: supervisores/supervisor.md
+  - Dupla gestora da regional: 
+    - Circuito de Gestão (CdG): dupla-gestora-regional/regional.md
+  - RPE: rpe/supervisor.md
+  - SIGAE: sigae/manual.md
