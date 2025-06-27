@@ -29,6 +29,7 @@ jobs:
                 git config user.name "github-actions[bot]"
                 git config user.email "github-actions[bot]@users.noreply.github.com"
                 git checkout -B built origin/built
+                git rm -rf docs/* || echo "Nenhum arquivo anterior encontrado."
                 git add docs --force
                 git status
                 git commit -m "Built Docs" || echo "Nothing new, continuing..."
