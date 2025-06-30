@@ -6,7 +6,7 @@ site_url: https://instituto-unibanco.github.io/cdg/es
 
 nav:
   - Introdução: index.md
-  - Supervisores: supervisores/supervisor.md
-  - Dupla gestora da regional: dupla-gestora-regional/regional.md
-  - Recomposições das Aprendizagens: rpe/supervisor.md
+  - Supervisores: supervisores/planejamento.md
+  - Dupla gestora da regional: dupla-gestora-regional/cdg.md
+  - Recomposições das Aprendizagens: recomposicao-aprendizagens/rpe.md
   - SIGAE: sigae/manual.md
