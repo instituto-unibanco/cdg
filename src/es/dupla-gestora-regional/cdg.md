@@ -1,6 +1,6 @@
 # Circuito de Gestão (CdG)
 
-## 1. Princípios do Circuito de Gestão Capixaba
+## 1\. Princípios do Circuito de Gestão Capixaba
 
 O Circuito de Gestão Capixaba é um método adotado pela rede estadual de educação do Espírito Santo com o objetivo de sistematizar programas, projetos e ações voltadas para o alcance das metas pactuadas, assegurando uma educação pública de qualidade. Entre seus princípios, destaca-se o estudante no centro do processo pedagógico, promovendo seu protagonismo e o desenvolvimento de habilidades como criatividade, autonomia, pensamento crítico e trabalho em equipe.
 
@@ -12,7 +12,7 @@ O método também requer corresponsabilização dos profissionais da educação 
 
 Circuito de Gestão é estruturado nas seguintes etapas: Planejamento, Execução, SMAR (Sistemática de Monitoramento de Avaliação de Resultados), Compartilhamento de Páticas e Correção de Rotas.
 
-## 2. Quem faz parte do Circuito de Gestão nas Superintendências Regionais
+## 2\. Quem faz parte do Circuito de Gestão nas Superintendências Regionais
 
 A definição de quem faz parte do Circuito de Gestão Capixaba nas regionais é essencial para garantir que o processo seja bem compreendido e executado de forma eficaz. Identificar esses participantes permite distribuir responsabilidades com clareza, melhorar a comunicação e fortalecer a colaboração, contribuindo para a qualidade do trabalho.
 
@@ -22,7 +22,7 @@ Equipe gestora da regional: formada pelo superintendente, assessor pedagógico e
 
 Supervisores escolares referência: responsáveis por acompanhar, orientar e assessorar as escolas por meio das Visitas Técnicas (VTs), além de sistematizar e encaminhar informações, problemas e demandas das escolas para a regional e a Secretaria.
 
-## 3. Alinhamento das ações: RGI (Reunião de Gestão Integrada), RT (Reunião de Trabalho) e VT (Visita Técnca)
+## 3\. Alinhamento das ações: RGI (Reunião de Gestão Integrada), RT (Reunião de Trabalho) e VT (Visita Técnca)
 
 É o encontro entre Secretaria de Educação, Superintendência Regional e escolas. Pode acontecer tanto no âmbito da Secretaria como no âmbito da regional. Tem caráter informativo, analítico e deliberativo, sendo espaço para pactuação de metas, objetivos, prazos e responsáveis.
 
@@ -70,11 +70,11 @@ Conforme o cronograma do Circuito de Gestão. Escolas prioritárias recebem mais
 
 # PLANEJAMENTO
 
-## 1. A importância do Planejamento
+## 1\. A importância do Planejamento
 
 Imagem 1 \- Planejamento Ritualística
 
-![Planejamento Ritualística](images/1.jpg)
+![Planejamento Ritualística](../assets/img/duplagestoraregional/1.png)
 
 O planejamento é a base de todo o trabalho da rede. É nesse momento que a equipe gestora analisa os dados com atenção, reflete sobre os principais desafios e define metas e estratégias para alcançar os objetivos traçados. Mais do que organizar tarefas, planejar significa alinhar toda a equipe em torno de prioridades comuns, garantindo que cada ação tenha sentido dentro de um propósito maior: melhorar a aprendizagem dos estudantes.
 
@@ -118,7 +118,7 @@ As RTs e RGIs estão organizadas da seguinte forma:
   </tbody>
 </table>
 
-## 2. Diagnóstico e análise da realidade das escolas
+## 2\. Diagnóstico e análise da realidade das escolas
 
 A etapa de diagnóstico e análise situacional tem como objetivo caracterizar a realidade da regional, mapeando o cenário atual, identificando os problemas enfrentados e os desafios a serem superados. Esse processo gera os insumos necessários para a definição das estratégias do Plano Tático e a elaboração do Plano de Ação.
 
@@ -152,7 +152,7 @@ Além da análise situacional baseada nos indicadores, a regional deve aprofunda
   </tbody>
 </table>
 
-## 3. RT Pré-etapa: Diagnóstico da regional e de suas escolas
+## 3\. RT Pré-etapa: Diagnóstico da regional e de suas escolas
 
 **Objetivo**  
 Preparar a primeira etapa do Circuito de Gestão no ano letivo que se iniciará.
@@ -199,7 +199,7 @@ A equipe gestora da SRE deverá organizar a primeira RGI com os diretores escola
 **VIII. Registro da RT Pré-etapa**  
 Por fim, todos os encaminhamentos e decisões da RT Pré-etapa deverão ser registrados em ata e inseridos no sistema de referência do CdG, garantindo a formalização e o acompanhamento das ações.
 
-## 4. RGI-1: Orientações para o início do ano letivo
+## 4\. RGI-1: Orientações para o início do ano letivo
 
 **Objetivo**  
 Alinhar com os diretores escolares o planejamento e as diretrizes pedagógicas que nortearão o ano letivo vigente.
@@ -245,7 +245,7 @@ Cada diretor deve ser informado sobre qual supervisor escolar será responsável
 **VII. Registro da RGI no Sistema**  
 Todos os encaminhamentos da RGI-1 devem ser formalizados com o registro da ata no sistema de referência do Circuito de Gestão (CdG).
 
-## 5. RT-1: Plano de Ação e Plano Tático da Regional
+## 5\. RT-1: Plano de Ação e Plano Tático da Regional
 
 **Objetivo**  
 Definir coletivamente as ações que comporão o Plano de Ação e o Plano Tático da regional, com base no diagnóstico e na análise situacional construídos na RT Pré-etapa. Também serão considerados como subsídios: as diretrizes pedagógicas do ano, as metas da regional e das escolas, e as demandas sob a governabilidade da regional, identificadas nos Painéis de Risco das escolas.
@@ -313,7 +313,7 @@ IV. Registrar a ata da RT-1 no sistema de referência do Circuito de Gestão (Cd
 V. Finalizar a primeira versão do Plano de Ação e do Plano Tático.  
 VI. Postar a primeira versão do Plano de Ação no sistema de referência do CdG e o Plano Tático no Microsoft Planner.
 
-## 6. Elaboração do Plano de Ação da Regional
+## 6\. Elaboração do Plano de Ação da Regional
 
 O Plano de Ação é o principal instrumento de planejamento operacional da regional. Ele organiza e orienta a execução das ações necessárias para superar desafios específicos, visando alcançar os resultados esperados nos componentes do Índice de Desenvolvimento da Educação Básica do Espírito Santo (IDEBES).
 
@@ -434,19 +434,19 @@ PLANO DE AÇÃO DA REGIONAL
 
 Imagem 2 \- Planilha Gestão e Governança
 
-![Planilha Gestão e Governança](images/2.jpg)
+![Planilha Gestão e Governança](../assets/img/duplagestoraregional/2.png)
 
 Imagem 3 \- Planilha Pedagógico
 
-![Planilha Pedagógico](images/3.jpg)
+![Planilha Pedagógico](../assets/img/duplagestoraregional/3.png)
 
 Imagem 4 \- Planilha Vulnerabilidade e Aspectos Socioeconômicos
 
-![Planilha Vulnerabilidade e Aspectos Socioeconômicos](images/4.jpg)
+![Planilha Vulnerabilidade e Aspectos Socioeconômicos](../assets/img/duplagestoraregional/4.png)
 
 Imagem 5 \- Planilha Gestão de Pessoas
 
-![Planilha Gestão de Pessoas](images/5.jpg)
+![Planilha Gestão de Pessoas](../assets/img/duplagestoraregional/5.png)
 
 ### 6.5. Elaboração do Plano Tático
 
@@ -502,7 +502,7 @@ A RT-2 tem como propósito fortalecer a atuação da regional por meio do aprimo
 -   Aprimorar o Plano Tático da regional, a partir das prioridades estabelecidas pela Secretaria;
 -   Validar os dois planos (Plano de Ação e Plano Tático) com a equipe regional, garantindo que todos compreendam e assumam os compromissos firmados.
 
-## 7. Roteiro da RT-2
+## 7\. Roteiro da RT-2
 
 **A) Etapas de Preparação do Supervisor Escolar**
 
@@ -605,7 +605,7 @@ As regionais desempenham papel central nessa etapa: são responsáveis por mobil
 -   **Na SRE:** Supervisores escolares e diretores
 -   **Na escola:** Toda a comunidade escolar
 
-## 8. **RGI-2: Pactuação de Metas**
+## 8\. **RGI-2: Pactuação de Metas**
 
 **Objetivos**  
 • Apresentar metas educacionais para diretores escolares.  
@@ -648,11 +648,11 @@ Durante a reunião, a regional deve:
 
 A regional participa em duas frentes:
 
-**1. Meta da regional**
+**1\. Meta da regional**
 
 Definida com base na meta do IDEBES, é pactuada em RGI conduzida pela Secretaria de Educação, com apoio da Liderança Estratégica e da Liderança Tática do CdG Capixaba.
 
-**2. Metas das escolas vinculadas**
+**2\. Metas das escolas vinculadas**
 
 Também baseadas no IDEBES, são pactuadas em RGI conduzida pela regional, com participação da equipe gestora da SRE (superintendente, assessores pedagógico e administrativo, supervisores escolares) e diretores escolares.
 
@@ -667,7 +667,7 @@ Em seguida, os diretores escolares deverão ser convocados para assinar esse doc
 
 # EXECUÇÃO
 
-## 1. A importância da Execução
+## 1\. A importância da Execução
 
 A etapa de Execução representa o momento em que os compromissos pactuados se transformam em ações concretas. Nesta fase, a prioridade é a implementação e o acompanhamento das ações previstas na etapa de Planejamento, com foco no alcance das metas educacionais estabelecidas.
 
@@ -735,7 +735,7 @@ A execução e o monitoramento do Plano de Ação da regional se desdobram em **
 
 Imagem 6 \- Execução Ritualística
 
-![Execução Ritualística](images/6.jpg)
+![Execução Ritualística](../assets/img/duplagestoraregional/6.png)
 
 Durante a etapa de Execução, a regional tem a responsabilidade de acompanhar sistematicamente o desenvolvimento dos **Planos de Ação das escolas**. Esse monitoramento é realizado por meio da atuação dos **supervisores escolares de referência**, que devem acompanhar as unidades de forma **contínua, ágil e focada em prioridades**, contribuindo para a qualificação das ações planejadas e para o alcance dos resultados esperados.
 
@@ -797,7 +797,7 @@ As RTs da etapa de Execução estão organizadas da seguinte forma:
   </tbody>
 </table>
 
-## 2. **RT Pré-Etapa: Organização para o Início da Execução**
+## 2\. **RT Pré-Etapa: Organização para o Início da Execução**
 
 A **Reunião de Trabalho (RT) Pré-Etapa** marca a preparação da equipe regional para o início da etapa de **Execução** do Circuito de Gestão. Esse momento é essencial para alinhar diretrizes, revisar informações-chave e garantir que os supervisores escolares estejam prontos para acompanhar as escolas com foco, estratégia e agilidade.
 
@@ -815,25 +815,25 @@ Ao final da etapa de Planejamento e antes do início da etapa de Execução, con
 
 Antes da RT, o supervisor escolar deve se preparar com base em sete ações principais:
 
-**1. Estudar o Protocolo**  
+**1\. Estudar o Protocolo**  
 Revisar o _Protocolo do Circuito de Gestão Capixaba – Etapa de Execução – Supervisor Escolar_, compreendendo suas diretrizes, objetivos e foco.
 
-**2. Analisar os Planos de Ação das escolas**  
+**2\. Analisar os Planos de Ação das escolas**  
 Acessar o sistema do Circuito de Gestão para revisar os Planos de Ação das escolas sob sua referência, verificando o andamento das ações, o cumprimento das tarefas e a entrega dos produtos parciais.
 
-**3. Estudar os resultados da Avaliação Diagnóstica**  
+**3\. Estudar os resultados da Avaliação Diagnóstica**  
 Analisar quais competências e habilidades os estudantes já consolidaram e quais ainda exigem reforço, utilizando essas informações para orientar intervenções pedagógicas mais eficazes.
 
-**4. Analisar os resultados da AMA**  
+**4\. Analisar os resultados da AMA**  
 Avaliar os dados da Avaliação de Monitoramento da Aprendizagem (AMA), como subsídio à preparação dos estudantes para as provas do Sistema de Avaliação da Educação Básica (SAEB) e Programa de Avaliação da Educação Básica do Espírito Santo (PAEBES).
 
-**5. Estudar os resultados do Paebes**  
+**5\. Estudar os resultados do Paebes**  
 Interpretar os resultados do Paebes, que refletem a consolidação das aprendizagens ao final de cada etapa, com foco na melhoria das ações pedagógicas.
 
-**6. Avaliar os relatórios de frequência**  
+**6\. Avaliar os relatórios de frequência**  
 Verificar os dados de frequência dos estudantes, identificando padrões de participação e possíveis desafios que exijam intervenção.
 
-**7. Elaborar a pauta da reunião com foco reflexivo**  
+**7\. Elaborar a pauta da reunião com foco reflexivo**  
 Com base nas análises anteriores e nas orientações dos Protocolos do Supervisor Escolar e da Equipe Regional, o supervisor deve propor uma pauta reflexiva que oriente:
 
 -   As discussões nas Visitas Técnicas (VTs);
@@ -848,22 +848,22 @@ A equipe gestora da regional também precisa se organizar estrategicamente antes
 
 A seguir, os passos essenciais dessa preparação:
 
-**1. Estudar o Protocolo da Etapa de Execução**  
+**1\. Estudar o Protocolo da Etapa de Execução**  
 Apropriar-se do conteúdo do _Protocolo do Circuito de Gestão – Supervisor Escolar_, compreendendo suas diretrizes e instrumentos.
 
-**2. Padronizar o monitoramento de indicadores**  
+**2\. Padronizar o monitoramento de indicadores**  
 Definir como será feito o acompanhamento dos indicadores estruturantes (aula dada, frequência e nota dos estudantes), dos indicadores de processo das prioridades do Plano Tático e da execução dos Planos de Ação das escolas. A padronização é essencial para garantir a coerência entre os supervisores.
 
-**3. Planejar as intervenções pedagógicas**  
+**3\. Planejar as intervenções pedagógicas**  
 Com base nos dados das avaliações externas, identificar quais intervenções pedagógicas devem ser priorizadas nas escolas e orientar os supervisores sobre como implementá-las.
 
-**4. Definir o instrumento de monitoramento do Plano Tático**  
+**4\. Definir o instrumento de monitoramento do Plano Tático**  
 Elaborar um instrumento para acompanhar os indicadores do Plano Tático da regional. É necessário indicar quem será responsável por coletar os dados e qual será a frequência da coleta.
 
-**5. Organizar a orientação às escolas**  
+**5\. Organizar a orientação às escolas**  
 Definir de que forma as escolas serão orientadas para realizarem seu próprio monitoramento, garantindo clareza e apoio técnico.
 
-**6. Estruturar a rotina de avaliação da regional**  
+**6\. Estruturar a rotina de avaliação da regional**  
 Estabelecer uma rotina contínua de monitoramento e avaliação dos processos internos da regional, com foco em melhorias constantes e respostas ágeis.
 
 **C) Realização da RT Pré-Etapa**
@@ -872,19 +872,19 @@ Na condução da RT Pré-Etapa, a equipe regional deve promover um momento de or
 
 Durante a RT, devem ser abordados os seguintes pontos:
 
-**1. Explicar como será feito o monitoramento**  
+**1\. Explicar como será feito o monitoramento**  
 Apresentar a metodologia e os critérios que serão usados para acompanhar os indicadores estruturantes, os processos do Plano Tático e a execução dos Planos de Ação escolares.
 
-**2. Compartilhar a rotina de avaliação da regional**  
+**2\. Compartilhar a rotina de avaliação da regional**  
 Expor o fluxo definido para o acompanhamento contínuo dos processos e resultados, promovendo transparência e comprometimento coletivo.
 
-**3. Analisar os dados das avaliações externas**  
+**3\. Analisar os dados das avaliações externas**  
 Discutir os resultados da Avaliação Diagnóstica, AMA e Paebes, e indicar quais serão as prioridades das intervenções pedagógicas a serem acompanhadas pelos supervisores escolares.
 
-**4. Definir a pauta das Visitas Técnicas (VTs)**  
+**4\. Definir a pauta das Visitas Técnicas (VTs)**  
 Construir, de forma alinhada ao _Protocolo do Supervisor Escolar e Regional_, a pauta que orientará as VTs nas escolas ao longo da etapa de Execução.
 
-**5. Registrar a ata da RT no sistema**  
+**5\. Registrar a ata da RT no sistema**  
 Finalizar o encontro com o devido registro da ata no sistema de referência do Circuito de Gestão, garantindo a formalização das decisões.
 
 **Papel da Regional na Execução**
@@ -893,7 +893,7 @@ A regional não deve apenas executar seu próprio Plano de Ação. Ela também �
 
 Ao apoiar ativamente as escolas, a regional fortalece a atuação da rede, promovendo respostas rápidas e ações pedagógicas mais efetivas.
 
-## 3. RT-1: Monitoramento e Ajustes
+## 3\. RT-1: Monitoramento e Ajustes
 
 **Objetivo**  
 Acompanhar a execução dos planos de ação das escolas e as prioridades do Plano Tático da regional, além de monitorar os principais indicadores estruturantes da aprendizagem.
@@ -907,69 +907,69 @@ Antes da realização da RT-1, o supervisor escolar precisa reunir informações
 
 **Etapas de preparação:**
 
-**1. Acompanhar a execução dos Planos de Ação das escolas**  
+**1\. Acompanhar a execução dos Planos de Ação das escolas**  
 Verificar os relatórios disponíveis no sistema de referência do Circuito de Gestão para entender o andamento de cada escola sob sua responsabilidade.
 
-**2. Monitorar os indicadores estruturantes**  
+**2\. Monitorar os indicadores estruturantes**  
 Avaliar o cumprimento da carga horária prevista, a frequência dos estudantes e os resultados de aprendizagem, identificando padrões ou desvios significativos.
 
-**3. Acompanhar os indicadores do Plano Tático da regional**  
+**3\. Acompanhar os indicadores do Plano Tático da regional**  
 Observar se as prioridades do Plano Tático estão sendo implementadas conforme o planejado, com foco nos indicadores de processo.
 
-**4. Analisar os resultados das avaliações externas**  
+**4\. Analisar os resultados das avaliações externas**  
 Verificar os dados mais recentes das avaliações externas aplicadas durante a etapa de Execução e relacioná-los aos avanços ou dificuldades das escolas.
 
-**5. Identificar desafios e riscos no monitoramento dos indicadores**  
+**5\. Identificar desafios e riscos no monitoramento dos indicadores**  
 Reconhecer escolas com maior dificuldade no cumprimento das metas ou que apresentem risco de não alcançar os resultados esperados. Essas situações devem ser priorizadas na agenda de apoio da regional.
 
-**6. Revisar o Registro da Avaliação da Execução**  
+**6\. Revisar o Registro da Avaliação da Execução**  
 Consultar o Anexo 2 do Protocolo do Supervisor e destacar os principais pontos que precisam ser discutidos na RT-1, com foco em melhorias.
 
-**7. Levantar dificuldades na execução dos Planos de Ação**  
+**7\. Levantar dificuldades na execução dos Planos de Ação**  
 Mapear as principais barreiras enfrentadas pelas escolas, sinalizando aquelas que precisam de apoio direto e contínuo da regional.
 
-**8. Sugerir ajustes nos Planos de Ação das escolas**  
+**8\. Sugerir ajustes nos Planos de Ação das escolas**  
 Preparar propostas de pequenas adaptações e intervenções que possam ser analisadas nas Visitas Técnicas (VTs), com base nos dados monitorados e nas realidades locais.
 
 **B) Preparação da Equipe Gestora da Regional para a RT-1**
 
 A equipe da regional também precisa se preparar para garantir que a RT-1 seja um momento estratégico de análise e tomada de decisão.
 
-**1. Acompanhar a execução do Plano de Ação da regional**  
+**1\. Acompanhar a execução do Plano de Ação da regional**  
 Verificar os avanços e identificar pontos que precisam de revisão ou reforço.
 
-**2. Monitorar os indicadores do Plano Tático da regional**  
+**2\. Monitorar os indicadores do Plano Tático da regional**  
 Analisar os dados coletados pelos supervisores para avaliar o desempenho das prioridades.
 
-**3. Orientar os supervisores para a consolidação das informações**  
+**3\. Orientar os supervisores para a consolidação das informações**  
 Apoiar a sistematização dos dados e garantir que os principais pontos das escolas estejam organizados para a discussão.
 
-**4. Acompanhar a realização das Visitas Técnicas (VTs)**  
+**4\. Acompanhar a realização das Visitas Técnicas (VTs)**  
 Identificar demandas emergentes nas escolas e oferecer os apoios necessários para que a atuação dos supervisores seja fortalecida.
 
 **C) Realização da RT-1**
 
 A RT-1 é o momento de consolidar os dados e transformar as análises em ações práticas e coordenadas.
 
-**1. Identificar as escolas com maiores desafios**  
+**1\. Identificar as escolas com maiores desafios**  
 Analisar os dados enviados pelos supervisores e destacar as escolas com piores resultados nas avaliações externas, nos indicadores estruturantes e na execução do Plano de Ação. Definir as intervenções pedagógicas necessárias.
 
-**2. Avaliar a atuação dos supervisores escolares**  
+**2\. Avaliar a atuação dos supervisores escolares**  
 Identificar profissionais que precisam de apoio para conduzir as ações nas escolas e planejar estratégias para fortalecê-los.
 
-**3. Discutir os principais desafios da execução dos Planos de Ação**  
+**3\. Discutir os principais desafios da execução dos Planos de Ação**  
 Refletir sobre os riscos identificados e estruturar os apoios que a regional precisa oferecer para garantir avanços.
 
-**4. Monitorar a execução do Plano de Ação da regional**  
+**4\. Monitorar a execução do Plano de Ação da regional**  
 Revisar os dados e identificar barreiras que possam comprometer a efetividade do planejamento regional.
 
-**5. Analisar os indicadores do Plano Tático da regional**  
+**5\. Analisar os indicadores do Plano Tático da regional**  
 Observar os pontos de maior fragilidade e discutir formas de mitigar os riscos.
 
-**6. Definir ajustes nos Planos de Ação**  
+**6\. Definir ajustes nos Planos de Ação**  
 Propor pequenas alterações nas ações das escolas e da regional, indicando responsáveis e prazos para implementação.
 
-## 4. Avaliação Final da Etapa de Execução
+## 4\. Avaliação Final da Etapa de Execução
 
 Ao final de cada etapa de Execução, é essencial registrar os aprendizados e consolidar os dados:
 
@@ -995,10 +995,10 @@ Mais do que um fechamento, o Balanço oferece uma base sólida para decisões es
 
 A Reunião de Trabalho (RT) do Balanço da Execução deve contemplar dois momentos principais:
 
-**1. Avaliação da execução do Plano de Ação da regional**  
+**1\. Avaliação da execução do Plano de Ação da regional**  
 Analisar os avanços alcançados, as dificuldades enfrentadas e os pontos do plano que precisam ser aprimorados. A partir disso, é possível identificar aprendizados e ajustes que fortalecem a atuação da regional.
 
-**2. Avaliação da execução dos Planos de Ação das escolas**  
+**2\. Avaliação da execução dos Planos de Ação das escolas**  
 Refletir sobre os resultados das escolas, reconhecer os progressos e definir o que pode ser melhorado. Essa etapa também orienta a definição de diretrizes para o novo ciclo de planejamento escolar.
 
 As análises realizadas durante o Balanço devem considerar os dados sistematizados ao longo dos três ciclos do Circuito de Gestão, incluindo os registros das etapas de Execução, SMAR e Correção de Rotas. O foco deve estar na compreensão do impacto das ações sobre os principais desafios educacionais e sobre os componentes do IDEBES.
@@ -1063,7 +1063,7 @@ O Balanço da Execução está estruturado da seguinte forma:
   </tbody>
 </table>
 
-## 5. RT-2: Balanço da Execução
+## 5\. RT-2: Balanço da Execução
 
 **Objetivo**  
 Avaliar a execução do Plano de Ação ao final do ano letivo, considerando:
@@ -1112,7 +1112,7 @@ Durante a Reunião de Trabalho, é necessário:
 5. Identificar oportunidades para fortalecer ações de sucesso e ampliar seus impactos positivos.
 6. Registrar em ata os principais encaminhamentos e decisões tomadas na RT do Balanço da Execução.
 
-**1. Análise dos resultados**
+**1\. Análise dos resultados**
 
 **Comparação com anos anteriores e metas estabelecidas**
 
@@ -1133,13 +1133,13 @@ Durante a Reunião de Trabalho, é necessário:
 -   Quais ficaram estagnadas ou apresentaram retrocesso?
 -   Como essas escolas podem se beneficiar das estratégias bem-sucedidas adotadas por outras?
 
-**2. Disparidades educacionais: raça e gênero**
+**2\. Disparidades educacionais: raça e gênero**
 
 -   Quais diferenças nos resultados foram observadas entre estudantes de diferentes raças e gêneros?
 -   Que fatores podem estar contribuindo para essas desigualdades?
 -   Quais ações podem ser adotadas para reduzir essas disparidades e fortalecer a equidade educacional?
 
-**3. Equidade e inclusão**
+**3\. Equidade e inclusão**
 
 **Ações implementadas e seus impactos**
 
@@ -1148,7 +1148,7 @@ Durante a Reunião de Trabalho, é necessário:
 -   Existem lacunas que ainda precisam ser enfrentadas?
 -   Que caminhos ou soluções podem ser construídos para avançar nesse aspecto?
 
-**4. Atuação do Conselho de Líderes**
+**4\. Atuação do Conselho de Líderes**
 
 **Engajamento estudantil e da comunidade escolar**
 
@@ -1158,7 +1158,7 @@ Durante a Reunião de Trabalho, é necessário:
 
 impacto e das condições que influenciam os resultados educacionais
 
-**6. Programas e projetos**
+**6\. Programas e projetos**
 
 **Avaliação dos impactos nos resultados educacionais**
 
@@ -1170,7 +1170,7 @@ impacto e das condições que influenciam os resultados educacionais
 -   Que melhorias emergem como prioritárias a partir da análise dos dados?
 -   Como os aprendizados acumulados ao longo do ano podem ser aplicados para aperfeiçoar as práticas educacionais?
 
-**7. Formação de professores**
+**7\. Formação de professores**
 
 **Influência da formação continuada**
 
@@ -1187,7 +1187,7 @@ impacto e das condições que influenciam os resultados educacionais
 -   Que estratégias de desenvolvimento profissional têm se mostrado mais eficazes? Como expandi-las?
 -   Quais obstáculos dificultam o aperfeiçoamento contínuo dos docentes? Que medidas práticas podem ser adotadas para superá-los?
 
-**8. Gestão escolar**
+**8\. Gestão escolar**
 
 **Contribuição para os resultados educacionais**
 
@@ -1199,7 +1199,7 @@ impacto e das condições que influenciam os resultados educacionais
 -   Existem aspectos da gestão que precisam ser melhorados?
 -   Como essas mudanças podem ser colocadas em prática de forma estruturada e viável?
 
-**9. Infraestrutura escolar**
+**9\. Infraestrutura escolar**
 
 **Condições e impacto no aprendizado**
 
@@ -1211,7 +1211,7 @@ impacto e das condições que influenciam os resultados educacionais
 -   Como é possível alinhar as melhorias na infraestrutura às demandas pedagógicas da escola?
 -   Que ações práticas podem ser realizadas para otimizar o ambiente escolar como espaço de aprendizagem?
 
-**10. Desafios a enfrentar**
+**10\. Desafios a enfrentar**
 
 **Principais obstáculos relacionados à gestão e infraestrutura**
 
@@ -1223,7 +1223,7 @@ impacto e das condições que influenciam os resultados educacionais
 -   Que soluções criativas e viáveis podem ser implementadas para enfrentar esses desafios?
 -   Como promover mudanças que realmente gerem impacto nos indicadores de aprendizagem?
 
-## 6. Reflexão sobre os avanços e desafios na execução das ações
+## 6\. Reflexão sobre os avanços e desafios na execução das ações
 
 Esta seção propõe uma análise crítica sobre a implementação do Plano de Ação, considerando os principais resultados, dificuldades enfrentadas, estratégias aplicadas, além de identificar caminhos de aprimoramento com base nas evidências observadas.
 
@@ -1330,7 +1330,7 @@ Esta seção propõe uma análise crítica sobre a implementação do Plano de A
 
 -   Que recursos ou apoios adicionais são necessários para fortalecer a capacidade de execução no próximo ciclo?
 
-## 7. Proposição de Estratégias de Ajustes
+## 7\. Proposição de Estratégias de Ajustes
 
 **Avaliação dos resultados esperados e os resultados alcançados**
 
@@ -1402,7 +1402,7 @@ Já a **efetividade** mede o impacto real das ações para o público beneficiad
 
 Ao refletir sobre o caminho percorrido e os próximos passos para atingir os objetivos esperados, fica evidente que a eficácia na execução do Plano de Ação é um dos pilares centrais da avaliação. Ela sustenta o avanço contínuo da aprendizagem e fortalece o compromisso com uma educação pública mais justa, eficiente e transformadora.
 
-## 8. RGI: Balanço da Execução
+## 8\. RGI: Balanço da Execução
 
 **Objetivo**  
 Guiar os diretores escolares na realização do Balanço da Execução do Plano de Ação da escola. A proposta é identificar os principais desafios enfrentados ao longo do ano e propor estratégias de ajustes para o planejamento do ano letivo seguinte.
@@ -1478,7 +1478,7 @@ Finalize a reunião reforçando o compromisso coletivo com as metas pactuadas. D
 
 # SMAR
 
-## 1. A importância da SMAR
+## 1\. A importância da SMAR
 
 A Sistemática de Monitoramento e Avaliação dos Resultados (SMAR) é uma etapa essencial do **Circuito de Gestão Capixaba**. É nesse momento que as três instâncias da rede pública estadual de educação analisam, com base em dados e evidências, os resultados alcançados nos seus Planos de Ação.
 
@@ -1506,7 +1506,7 @@ Envolve a alta gestão da SEDU, incluindo o Secretário de Educação. Nessa eta
 
 Imagem 7 \- SMAR Ritualística
 
-![SMAR Ritualística](images/7.jpg)
+![SMAR Ritualística](../assets/img/duplagestoraregional/7.png)
 
 A SMAR tem como finalidade principal **avaliar se as ações planejadas e executadas foram eficazes** e se os resultados esperados por **escola, regional e Secretaria** foram de fato alcançados.
 
@@ -1660,7 +1660,7 @@ As reuniões previstas para a etapa da SMAR estão organizadas da seguinte forma
   </tbody>
 </table>
 
-## 2. ROTEIRO PARA A RT PRÉ-ETAPA
+## 2\. ROTEIRO PARA A RT PRÉ-ETAPA
 
 **A) PREPARAÇÃO DO SUPERVISOR ESCOLAR PARA A RT PRÉ-ETAPA**
 
@@ -1720,11 +1720,11 @@ A seguir, estão apresentados os cálculos utilizados para determinar:
 
 **Imagem 8 \- Cálculo do Índice de Resultado e do Índice de Execução da Escola**
 
-![Cálculo do Índice de Resultado e do Índice de Execução da Escola](images/8.jpg)
+![Cálculo do Índice de Resultado e do Índice de Execução da Escola](../assets/img/duplagestoraregional/8.png)
 
 **Imagem 9 \- Cálculo do Índice de Resultado e do Índice de Execução da Regional**
 
-![Cálculo do Índice de Resultado e do Índice de Execução da Regional](images/9.jpg)
+![Cálculo do Índice de Resultado e do Índice de Execução da Regional](../assets/img/duplagestoraregional/9.png)
 
 <table>
   <tbody>
@@ -1913,7 +1913,7 @@ A análise da eficácia da regional deve considerar também dados complementares
 -   Analise os resultados de **aulas dadas**, **frequência dos estudantes** e **notas** nas escolas da sua regional.
 -   Compare esses dados com a **média da rede**, identificando **pontos fortes** e **áreas que precisam de atenção** por etapa de ensino.
 
-## 3. RT-1 – SMAR N2
+## 3\. RT-1 – SMAR N2
 
 **Objetivo**
 
@@ -2310,7 +2310,7 @@ Tabela 11 Questões Reflexivas Produto
   </tbody>
 </table>
 
-## 4. Avaliação dos resultados das escolas prioritárias
+## 4\. Avaliação dos resultados das escolas prioritárias
 
 As escolas prioritárias são aquelas que exigem **maior atenção da Secretaria e das Superintendências Regionais de Educação (SREs)**. Elas são identificadas no momento da definição das metas, com base no **não alcance de metas anteriores** e em **critérios técnicos estabelecidos pela Secretaria**.
 
@@ -2318,7 +2318,7 @@ O acompanhamento dessas escolas tem como objetivo **promover a equidade**, garan
 
 Durante a análise dos resultados, é essencial considerar os seguintes aspectos:
 
-**1. Contexto e diagnóstico**
+**1\. Contexto e diagnóstico**
 
 -   Compreender o **contexto específico** de cada escola, incluindo:
     -   Índice socioeconômico;
@@ -2326,7 +2326,7 @@ Durante a análise dos resultados, é essencial considerar os seguintes aspectos
     -   Histórico de desempenho nos últimos anos.
 -   Identificar os **principais desafios e necessidades** da comunidade escolar.
 
-**2. Avaliação de metas e indicadores**
+**2\. Avaliação de metas e indicadores**
 
 -   Avaliar o cumprimento das **metas dos últimos 5 anos**, com foco em:
 
@@ -2337,14 +2337,14 @@ Durante a análise dos resultados, é essencial considerar os seguintes aspectos
     -   Resultados absolutos;
     -   Progresso em relação às metas pactuadas.
 
-**3. Elaboração de Planos de Ação personalizados**
+**3\. Elaboração de Planos de Ação personalizados**
 
 -   Apoiar a construção de **Planos de Ação específicos** para cada escola prioritária, considerando:
     -   Necessidades diagnosticadas;
     -   Expectativas de aprendizagem;
     -   Estratégias intencionalmente planejadas para garantir o direito de aprender.
 
-**4. Acompanhamento estratégico e contínuo**
+**4\. Acompanhamento estratégico e contínuo**
 
 -   Realizar um **monitoramento sistemático**, observando:
 
@@ -2355,7 +2355,7 @@ Durante a análise dos resultados, é essencial considerar os seguintes aspectos
     -   Formação de gestores e equipes escolares;
     -   Recursos e assessoramento personalizado.
 
-**5. Colaboração e fortalecimento da rede**
+**5\. Colaboração e fortalecimento da rede**
 
 -   Estimular o **compartilhamento de boas práticas** com outras escolas da regional.
 -   Incentivar a criação de **comunidades de prática** entre as equipes escolares, para:
@@ -2363,14 +2363,14 @@ Durante a análise dos resultados, é essencial considerar os seguintes aspectos
     -   Discussão de estratégias e resolução de desafios;
     -   Desenvolvimento de habilidades de gestão pedagógica.
 
-**6. Avaliação e ajustes**
+**6\. Avaliação e ajustes**
 
 -   Fornecer **feedback regular** às escolas, com base nas análises e avanços observados.
 -   Realizar avaliações periódicas para **mensurar o impacto** das ações implementadas e **ajustar rotas**, sempre que necessário.
 
 **Importante**: o assessoramento às escolas prioritárias deve ser **focado, contínuo e efetivo**, contribuindo diretamente para a **melhoria do desempenho dos estudantes** e o **alcance das metas pactuadas**.
 
-## 5. RGI-1 – Apresentação dos resultados das escolas e avaliação do cenário da regional
+## 5\. RGI-1 – Apresentação dos resultados das escolas e avaliação do cenário da regional
 
 **Objetivo**  
 Apresentar os resultados obtidos pelo conjunto de escolas da regional aos diretores escolares, promovendo uma análise coletiva do desempenho educacional e da evolução dos indicadores. A partir dessa análise, avaliar o cenário educacional da regional em comparação com o panorama da rede estadual, identificando avanços, desafios e necessidades.
@@ -2415,7 +2415,7 @@ Esse momento fortalece a **transparência, a colaboração e o compromisso com a
 
 Aproveite a reunião para destacar as **indicações de Correção de Rotas que se repetem entre as escolas**. Assim, é possível orientar ajustes nos Mapas de Ação de forma mais estratégica e alinhada aos desafios comuns.
 
-## 6. Compartilhamento de Práticas
+## 6\. Compartilhamento de Práticas
 
 O Compartilhamento de Práticas é um espaço estratégico da rede para fortalecer a cultura de colaboração, valorização das conquistas e aprendizado coletivo.
 
@@ -2463,7 +2463,7 @@ A equipe da regional deve:
 
 Com base nas diretrizes da Secretaria para o Compartilhamento de Práticas, cada escola deve selecionar uma experiência significativa, alinhada aos desafios enfrentados e aos avanços conquistados a partir da execução do Plano de Ação. A prática escolhida deve apresentar um potencial de inspiração e replicação dentro da rede.
 
-**1. Preparação da Apresentação**
+**1\. Preparação da Apresentação**
 
 A equipe gestora da escola deverá preparar uma apresentação clara e objetiva, abordando no mínimo os seguintes pontos:
 
@@ -2503,7 +2503,7 @@ A equipe gestora da escola deverá preparar uma apresentação clara e objetiva,
 
 A apresentação deve ser enviada **com antecedência** à equipe da regional, respeitando o prazo estabelecido, para que seja possível organizar a ordem das falas e garantir uma distribuição de tempo justa entre as escolas participantes.
 
-**2. Durante o Encontro: Diálogo e Troca**
+**2\. Durante o Encontro: Diálogo e Troca**
 
 Mais do que uma exposição de boas práticas, o Compartilhamento é um espaço para conversas construtivas.
 
@@ -2515,7 +2515,7 @@ O objetivo é que os participantes possam:
 -   Trazer contribuições a partir de suas realidades;
 -   Gerar novas ideias aplicáveis a outros contextos escolares.
 
-**3. Avaliação e Continuidade**
+**3\. Avaliação e Continuidade**
 
 No encerramento do evento, será realizada uma **avaliação breve** com os participantes, com o intuito de recolher impressões, sugestões e propostas de melhoria. Esse retorno ajudará a aprimorar os próximos encontros.
 
@@ -2581,7 +2581,7 @@ Esse momento de troca fortalece o trabalho em rede e reforça o compromisso conj
 
 # CORREÇÃO DE ROTAS
 
-## 1. A importância da Correção de Rotas
+## 1\. A importância da Correção de Rotas
 
 A etapa de Correção de Rotas marca o fim de um ciclo do Circuito de Gestão e o início de um novo. É o momento de revisar os Planos de Ação das escolas, regionais e da Secretaria com base na execução realizada, nos resultados alcançados e nas análises da SMAR.
 
@@ -2639,7 +2639,7 @@ Já a equipe gestora deve orientar os supervisores na organização dessas infor
 
 Durante a RT Pré-Etapa, o foco é alinhar as orientações que serão dadas às escolas, validar os pontos mais relevantes para correções e organizar o cronograma das VTs de Correção de Rotas. Também é o momento de consolidar as demandas trazidas pelas escolas e identificar aquelas que precisam de encaminhamento junto à Secretaria. Ao final da reunião, a ata deve ser registrada no sistema do Circuito de Gestão.
 
-## 2. Reanálise dos dados da SMAR
+## 2\. Reanálise dos dados da SMAR
 
 ### 2.1. Retomando as análises da SMAR N2
 
@@ -2669,7 +2669,7 @@ Também vale observar se práticas compartilhadas entre diferentes regionais pod
 **Atenção\!**  
 Fique atento às demandas trazidas pelas escolas e ao suporte que a regional deverá oferecer, especialmente às escolas prioritárias e de apoio intensivo.
 
-## 3. Alinhamento e revisão dos planos
+## 3\. Alinhamento e revisão dos planos
 
 ### 3.1. Como alinhar o Plano de Ação às diretrizes da Secretaria
 
@@ -2718,10 +2718,10 @@ A análise dos resultados da SMAR permite realizar correções e ajustes durante
 
 Esse momento deve ocorrer em quatro passos:
 
-**1. Revisão dos problemas**  
-**2. Revisão dos desafios**  
-**3. Revisão das ações**  
-**4. Contribuições de outras regionais para superação dos desafios**
+**1\. Revisão dos problemas**  
+**2\. Revisão dos desafios**  
+**3\. Revisão das ações**  
+**4\. Contribuições de outras regionais para superação dos desafios**
 
 **Revisão dos Problemas**
 
