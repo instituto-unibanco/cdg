@@ -32,7 +32,7 @@ O atendimento é realizado das 8h às 20h de segunda a sexta-feira.
 
 Abra seu navegador e vá para [https://sigae.institutounibanco.org.br/portal/login](https://sigae.institutounibanco.org.br/portal/login). Preencha os campos de login e senha com seus dados cadastrados. Marque a opção que você não é um robô e, depois, em “**Entrar**”.
 
-![01-Login e senha](../assets/img/sigae/sigae/1.png)
+![01-Login e senha](../assets/img/sigae/1.png)
 
 Caso seja o seu primeiro acesso, aguarde o e-mail com o link para criar sua senha.
 
@@ -65,7 +65,7 @@ O SIGAE trabalha com a confirmação em duas etapas, de modo que, após realizar
 
 **Dica:** Verifique a caixa de spam do seu e-mail caso o código não esteja na caixa de entrada.
 
-![02-Validação do código de acesso](../assets/img/sigae/sigae/2.png)
+![02-Validação do código de acesso](../assets/img/sigae/2.png)
 
 ## 2.2. Recuperação de senha
 
