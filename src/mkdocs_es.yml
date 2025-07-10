@@ -6,7 +6,26 @@ site_url: https://instituto-unibanco.github.io/cdg/es
 
 nav:
   - Introdução: index.md
-  - Supervisores: supervisores/planejamento.md
-  - Dupla gestora da regional: dupla-gestora-regional/cdg.md
-  - Recomposições das Aprendizagens: recomposicao-aprendizagens/rpe.md
-  - SIGAE: sigae/manual.md
+  - Supervisores: 
+    - Planejamento: supervisores/planejamento.md
+    - Execução: supervisores/execucao.md
+    - SMAR: supervisores/smar.md
+    - Correção de Rotas: supervisores/correcao_rotas.md
+  - Dupla gestora da regional: 
+    - Circuito de Gestão: dupla-gestora-regional/cdg.md
+    - Planejamento: dupla-gestora-regional/planejamento.md
+    - Execução: dupla-gestora-regional/execucao.md
+    - SMAR: dupla-gestora-regional/smar.md
+    - Correção de Rotas: dupla-gestora-regional/correcao_rotas.md
+  - Recomposições das Aprendizagens: 
+    - RPE (Rotina Pedagógica Escolar): recomposicao-aprendizagens/rpe.md
+    - Monitoramento da RPE pela escola: recomposicao-aprendizagens/monitoramento_escola.md
+    - Monitoramento da RPE pelo supervisor: recomposicao-aprendizagens/monitoramento_supervisor.md
+  - SIGAE: 
+    - A importância do SIGAE: sigae/importancia_sigae.md
+    - Funcionalidades gerais: sigae/funcionalidades_gerais.md
+    - Como cadastrar plano de ação: sigae/cadastrar_plano_acao.md
+    - Como fazer o registro da Execução do Plano de Ação: sigae/registro_execucao_plano_acao.md
+    - Importação das metas para o sistema: sigae/importacao_metas.md
+    - Painel de Riscos: sigae/painel_riscos.md
+    - SMAR: sigae/smar.md
