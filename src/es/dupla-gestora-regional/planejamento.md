@@ -12,11 +12,7 @@ Essa etapa também representa uma oportunidade valiosa de escuta — dos dados, 
 
 A etapa de Planejamento da SRE possui três ações principais:
 
-Diagnóstico  
-v  
-Elaboração do Plano de Ação e Plano Tático  
-v  
-Pactuação de Metas
+Diagnóstico  ->  Elaboração do Plano de Ação e Plano Tático  ->  Pactuação de Metas
 
 As RTs e RGIs estão organizadas da seguinte forma:
 
@@ -199,17 +195,7 @@ Supervisores escolares.
 
 Fluxo para elaboração do plano de ação
 
-Metas  
-v  
-Objetivos Estratégicos Finalísticos  
-v  
-Componentes do IDEBES  
-v  
-Problemas  
-v  
-Desafios  
-v  
-Planos da Regional
+Metas  ->  Objetivos Estratégicos Finalísticos  ->   Componentes do IDEBES  ->  Problemas  ->  Desafios  ->  Planos da Regional
 
 ### 5.2. RT-1: Elaboração do Plano de Ação e Plano Tático da Regional
 
@@ -348,35 +334,39 @@ A partir disso, será possível construir **mapas de ação estruturados, coeren
 
 **Fluxo para elaboração do plano de ação**
 
-METAS  
-v  
-COMPONENTES DO IDEBES  
-v  
-OBJETIVOS ESTRATÉGICOS FINALÍSTICOS  
-v  
-PROBLEMAS  
-v  
-DESAFIOS  
-v  
-MAPA DE AÇÃO  
-v  
-PLANO DE AÇÃO DA REGIONAL
+METAS  ->  COMPONENTES DO IDEBES  ->  OBJETIVOS ESTRATÉGICOS FINALÍSTICOS  ->  PROBLEMAS  ->  DESAFIOS  ->  
+MAPA DE AÇÃO  ->  PLANO DE AÇÃO DA REGIONAL
 
-Imagem 2 \- Planilha Gestão e Governança
+Planilha Gestão e Governança
 
-![Planilha Gestão e Governança](../assets/img/duplagestoraregional/2.png)
+| **CATEGORIA**            | **TÓPICOS**     | **PONTOS RELEVANTES** |
+|-------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **GESTÃO E GOVERNANÇA** | **Articulação** | **Colaboração intersetorial/interinstitucional:** Estabeleça parcerias e colaborações com outros setores ou instituições, organizações e comunidades para fortalecer a articulação entre diferentes atores no ambiente educacional. <br><br> **Alinhamento com o planejamento estratégico:** Certifique-se de que os objetivos estratégicos do Plano de Ação e do Plano Tático estejam articulados entre si e que os objetivos estratégicos da Secretaria e as prioridades do Plano Tático sejam claramente percebidas e operacionalizadas na rede. |
+|                         | **Comunicação** | **Transparência:** Promova a transparência na comunicação entre gestores educacionais, entre os servidores e a comunidade escolar. Uma comunicação eficiente fortalece a confiança, tanto internamente, com equipes escolares, quanto externamente, com equipes e comunidades escolares. <br><br> **Fluxo de comunicação eficiente:** Estabeleça um fluxo de comunicação eficiente entre os níveis de governança e entre o Plano de Ação e o Plano Tático, garantindo que as informações relevantes sejam divulgadas de maneira precisa e acessível.  |
+|                         | **Equidade**     | **Feedback:** Crie mecanismos para receber feedback dos diversos envolvidos (servidores da regional, equipes escolares e comunidade escolar). A escuta ativa fortalece os vínculos e amplia as possibilidades de aprendizagem, além de favorecer os ajustes quando necessários. <br><br> **Programa de Enfrentamento ao Racismo:** Mobilize as escolas para que desenvolvam ações afirmativas e de enfrentamento ao racismo, de forma articulada com a política de equidade e de educação antirracista. <br><br> **Distorção idade-série:** Promova o acompanhamento dos estudantes em situação de distorção idade-série.  |
+|                         | **Participação** | **Fluxo de participação:** Estimule o envolvimento dos diferentes atores educacionais, levando em conta os diversos territórios e contextos vividos pelos estudantes, servidores e comunidade. <br><br> **Mobilização:** Promova eventos e fluxos de oportunidades para que servidores da rede e comunidade escolar participem da execução e monitoramento do Plano de Ação. O engajamento coletivo é um princípio fundamental da gestão democrática e fortalece o senso de responsabilidade pelo processo de melhoria da educação. <br><br> **Engajamento:** Incentive a participação ativa dos servidores, equipes escolares, estudantes e comunidade escolar nas atividades das escolas e regionais e/ou nos momentos de decisão. |
 
-Imagem 3 \- Planilha Pedagógico
+Planilha Gestão de Pessoas e Administrativo-Financeiro
 
-![Planilha Pedagógico](../assets/img/duplagestoraregional/3.png)
+| **CATEGORIA**   | **TÓPICOS**     | **PONTOS RELEVANTES** |
+|----------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **PEDAGÓGICO** | **Planejamento** | **Equidade e inclusão:** Realize uma análise detalhada sobre os recortes de raça, situação socioeconômica e territorial para identificar desigualdades existentes e garantir que o Plano de Ação e o Plano Tático incluam estratégias específicas para promover a equidade. <br><br> **Recomposição das aprendizagens:** Certifique-se de orientar as escolas e monitorar os resultados das avaliações diagnósticas para compreender as lacunas de aprendizagem dos estudantes. Com base nos resultados dessas avaliações, é crucial desenvolver estratégias de nivelamento, ficando atento ao cronograma destinado à implementação dessa ação, garantindo um processo equitativo de superação das aprendizagens. O monitoramento contínuo do currículo, aliado a intervenções personalizadas, permite ajustar as abordagens pedagógicas conforme as demandas identificadas. <br><br> **Cultura digital:** Oriente para o uso pedagógico de tecnologias com o intuito de promover um ambiente educacional inovador e eficaz. É essencial estabelecer metas claras e alinhadas às tecnologias com os objetivos educacionais específicos. Oriente para considerar as necessidades e estilos de aprendizagem dos estudantes e promover atividades e plataformas que complementem a implementação do currículo. Promova um ambiente de formação continuada para que os profissionais façam uso das tecnologias e metodologias ativas e outras que julgar necessário. <br><br> **Educação integral:** Oriente para que as escolas considerem em seu planejamento não apenas o aspecto acadêmico, mas também aspectos sociais, emocionais e culturais. Atividades complementares, atividades extracurriculares, projetos interdisciplinares e vivências que promovam o protagonismo juvenil. Além disso, é essencial orientar para o fortalecimento das ações pedagógicas que promovam a autonomia e a responsabilidade. Ao alinhar o planejamento escolar com as realidades e aspirações dos estudantes, ampliam-se as possibilidades de transformação social e de desenvolvimento dos estudantes, preparando-os com repertório para lidar com questões das comunidades solidárias e uma ampla visão do mundo ao seu redor. |
 
-Imagem 4 \- Planilha Vulnerabilidade e Aspectos Socioeconômicos
+Planilha Vulnerabilidade e Aspectos Socioeconômicos
 
-![Planilha Vulnerabilidade e Aspectos Socioeconômicos](../assets/img/duplagestoraregional/4.png)
+| **CATEGORIA**                                   | **TÓPICOS**                         | **PONTOS RELEVANTES** |
+|------------------------------------------------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **VULNERABILIDADE E ASPECTOS SOCIOEMOCIONAIS** | **Acolhimento socioemocional**      | **Espaço de Acolhimento:** Oriente a equipe gestora escolar a promover um espaço acolhedor e empático, onde as emoções e experiências de cada pessoa sejam reconhecidas e valorizadas. Ao adotar o acolhimento socioemocional, a equipe escolar proporciona um ambiente seguro, estimulando o desenvolvimento emocional, social e cognitivo dos estudantes. Isso inclui a escuta ativa, o desenvolvimento da empatia, a promoção de relações saudáveis e a implementação de práticas que fortaleçam os vínculos entre os alunos e a escola. O acolhimento socioemocional contribui não apenas para um clima positivo na comunidade escolar, mas também para a sucessão acadêmica, uma vez que estudantes que se sentem emocionalmente apoiados tendem a estar mais engajados e motivados em seu processo de aprendizagem. |
+|                                                | **Enfrentamento do abandono e evasão** | **Protocolo de monitoramento de frequência:** Analise os instrumentos de performance da frequência dos estudantes nas escolas da sua regional, bem como o monitoramento da frequência dos estudantes e do índice de transferência, com o objetivo de propor intervenções que garantam o retorno e a permanência dos estudantes faltosos nas escolas sob sua jurisdição. |
 
-Imagem 5 \- Planilha Gestão de Pessoas
+Planilha Gestão de Pessoas
 
-![Planilha Gestão de Pessoas](../assets/img/duplagestoraregional/5.png)
+| **CATEGORIA**               | **TÓPICOS**                                 | **PONTOS RELEVANTES** |
+|----------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **GESTÃO DE PESSOAS**      | **Formação para profissionais**             | **Demandas formativas:** Identifique as necessidades formativas dos profissionais sob a jurisdição da regional. <br> **Mobilização:** Mobilize os profissionais da regional e das escolas para participarem das formações oferecidas pela regional e pela Secretaria. |
+|                            | **Quadro de profissionais**                 | Certifique-se de que o quadro de profissionais seja adequado para atender às necessidades de cada unidade escolar, garantindo a organização e a manutenção da rotina escolar.                                                                              |
+|                            | **Condições para o engajamento dos profissionais** | **Motivação:** Promova um ambiente de trabalho positivo e colaborativo. Essa é uma maneira eficaz de incentivar o comprometimento e o desenvolvimento dos profissionais. Além disso, valorize suas ideias, promova um diálogo aberto e ofereça feedback construtivo, contribuindo para fortalecer a autoestima e a autoconfiança – elementos cruciais para manter uma equipe motivada e engajada. <br><br> **Condições de trabalho:** Garanta um ambiente de trabalho adequado às atividades escolares e administrativas (limpo, com instalações adequadas, recursos e materiais acessíveis). Além disso, é fundamental promover uma cultura organizacional que valorize o bem-estar e proporcione oportunidades de escuta e acolhimento. A criação de espaços coletivos de convivência e momentos de escuta e participação ativa na tomada de decisões fortalece o sentimento de pertencimento. São aspectos também importantes para criar um clima positivo. |
+| **ADMINISTRATIVO-FINANCEIRO** | **Recursos**                                | Certifique-se de que todas as escolas tenham e garantam o acesso a equipamentos, oportunidades de acesso à internet e infraestrutura de serviços. Além disso, promova um cuidado com a infraestrutura física (salas de aula e espaços comuns) e com o uso consciente dos recursos pedagógicos, tecnológicos e materiais didáticos. |
 
 ### 6.5. Elaboração do Plano Tático
 
@@ -398,19 +388,7 @@ Para construir um Plano Tático efetivo, é essencial planejar com base nas prio
 • Definir a periodicidade e a forma do monitoramento, prevendo momentos para ajustes e intervenções, caso necessário.  
 • Planejar a orientação às escolas sobre como coletar e registrar indicadores e evidências de forma padronizada.
 
-METAS  
-v  
-COMPONENTES DO IDEBES  
-v  
-OBJETIVOS ESTRATÉGICOS FINALÍSTICOS  
-v  
-PROBLEMAS  
-v  
-DESAFIOS  
-v  
-PRIORIDADES  
-v  
-PLANO TÁTICO DA REGIONAL
+METAS  ->  COMPONENTES DO IDEBES  -> OBJETIVOS ESTRATÉGICOS FINALÍSTICOS  ->  PROBLEMAS  ->  DESAFIOS  ->  PRIORIDADES  ->  PLANO TÁTICO DA REGIONAL
 
 <table>
 	<tbody>
