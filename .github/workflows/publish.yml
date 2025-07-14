@@ -1,36 +1,58 @@
-name: Publish
+name: Deploy Docs to GitHub Pages
+
 on:
-    push:
-      branches:
-        - main
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-    publish:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v4
-              with:
-                  fetch-depth: 0
-            - name: Setup Python
-              uses: actions/setup-python@v4
-              with:
-                  python-version: '3.11'
-            - name: Install poetry
-              uses: abatilo/actions-poetry@v2
-            - name: Install the project dependencies
-              run: |
-                rm -f poetry.lock
-                poetry install
-            - name: Build Docs
-              run: |
-                sh ./build_all.sh
-                git status
-            - name: Commit Docs
-              run: |
-                git config user.name "github-actions[bot]"
-                git config user.email "github-actions[bot]@users.noreply.github.com"
-                git checkout -B built origin/built
-                git add docs --force
-                git status
-                git commit -m "Built Docs" || echo "Nothing new, continuing..."
-                git push -f origin built || echo "Nothing new, continuing..."
-          
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalação do Poetry
+        uses: abatilo/actions-poetry@v2
+
+      - name: Instalação das dependências
+        run: |
+          rm -f poetry.lock
+          poetry install
+
+      - name: Build da documentação com mkdocs
+        run: |
+          bash -x ./build_all.sh
+
+      - name: Configura GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload do conteúdo gerado
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy para o GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
