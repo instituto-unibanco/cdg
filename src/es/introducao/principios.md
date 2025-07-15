@@ -1,5 +1,3 @@
-## 3. Princípios do Circuito de Gestão Capixaba
-
 O Circuito de Gestão Capixaba estabelece alguns princípios que norteiam toda a ação da rede estadual de educação, em especial no que diz respeito ao planejamento dos programas, projetos e ações que são pensados a fim de sistematizar o trabalho em direção ao atingimento das metas pactuadas, com o objetivo de ofertar uma educação pública de qualidade aos estudantes.
 
 Um dos princípios adotados é **o estudante no centro do processo pedagógico**, o que significa restabelecer as relações entre os profissionais da educação e os estudantes, que passam a ter um papel ativo nos processos de aprendizagem. Esses processos precisam, nessa perspectiva, ser planejados e executados com a intenção de desenvolver nesses estudantes, para além da proficiência, habilidades como a criatividade, a autonomia, o trabalho em equipe, o pensamento crítico e o protagonismo.

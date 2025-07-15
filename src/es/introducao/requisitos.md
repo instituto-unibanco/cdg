@@ -1,5 +1,3 @@
-## 6. Requisitos do Circuito de Gestão
-
 ### 6.1. Indicadores de monitoramento e avaliação
 
 A meta é o ponto de partida para iniciar o Circuito de Gestão (CdG) e define o resultado final a ser alcançado no fim do ano letivo. Considerando que o Índice de Desenvolvimento da Educação (Ideb), disponibilizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), por meio do Ministério da Educação (MEC), é bianual, a Sedu oferece às escolas de Ensino Fundamental \- anos finais e Ensino Médio o Idebes (Índice de Desenvolvimento da Educação Básica do Espírito Santo).
