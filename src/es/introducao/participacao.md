@@ -1,5 +1,3 @@
-## 5. Quem participa do Circuito de Gestão
-
 ### 5.1. Secretaria da Educação (Sedu)
 
 A **Secretaria da Educação (Sedu)** é responsável por promover o alinhamento estratégico da rede e aprimorar as capacidades de gestão em todas as unidades, identificar as problemáticas inerentes ao processo de execução das políticas educacionais, elaborar, monitorar e avaliar o seu Plano de Ação, colaborar para que as demais instâncias se estruturem para implementar o Circuito de Gestão e acompanhar sua implementação na rede de ensino.

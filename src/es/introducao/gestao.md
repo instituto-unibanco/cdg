@@ -1,5 +1,3 @@
-## 2. A Gestão para o Avanço Contínuo no Jovem de Futuro
-
 O modelo de Gestão para o Avanço Contínuo proposto pelo programa Jovem de Futuro é composto por três pilares de atuação:
 
 **Foco no estudante e na aprendizagem**  

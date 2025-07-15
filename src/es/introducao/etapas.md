@@ -1,5 +1,3 @@
-## 4. As etapas do Circuito de Gestão
-
 O Circuito de Gestão ocorre em 3 ciclos no ano. A primeira etapa, de Planejamento, só ocorre no início do ano. Os dois primeiros ciclos apresentam as mesmas etapas (Execução, SMAR/Compartilhamento de Práticas e Correção de Rotas). No terceiro ciclo, ocorre apenas a Execução e o Balanço da Execução.
 
 ### 4.1. Planejamento
