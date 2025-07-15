@@ -1,6 +1,6 @@
 site_name: Circuito de Gestão
 docs_dir: base
-site_dir: ../docs
+site_dir: docs
 site_url: https://instituto-unibanco.github.io/cdg
 
 nav:

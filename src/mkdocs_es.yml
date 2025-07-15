@@ -1,7 +1,7 @@
 INHERIT: mkdocs.yml
 
 docs_dir: es
-site_dir: ../docs/es
+site_dir: ../site/es
 site_url: https://instituto-unibanco.github.io/cdg/es
 
 nav:
