@@ -1,0 +1,37 @@
+## 6. Requisitos do Circuito de Gestão
+
+### 6.1. Indicadores de monitoramento e avaliação
+
+A meta é o ponto de partida para iniciar o Circuito de Gestão (CdG) e define o resultado final a ser alcançado no fim do ano letivo. Considerando que o Índice de Desenvolvimento da Educação (Ideb), disponibilizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), por meio do Ministério da Educação (MEC), é bianual, a Sedu oferece às escolas de Ensino Fundamental \- anos finais e Ensino Médio o Idebes (Índice de Desenvolvimento da Educação Básica do Espírito Santo).
+
+**Ideb** é um indicador que sintetiza dados de desempenho e fluxo, seguindo a metodologia do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). Os componentes do IDEB combinam informações que permitem analisar a qualidade da educação de um sistema de ensino: garantia de acesso, permanência e aprovação do estudante, com a aprendizagem recomendada para cada etapa de ensino.
+
+O **Idebes** é calculado com base na combinação de fluxo e de proficiência média, assim como ocorre no Ideb, porém, é gerado anualmente, a partir dos resultados do Paebes (Programa de Avaliação da Educação Básica do Espírito Santo). Essas informações ficam dispostas no sistema de referência do Circuito de Gestão, o SIGAE (Sistema de Gestão para o Avanço Contínuo da Educação).
+
+Desde 2023, definiu-se que o Circuito de Gestão será orientado pelos objetivos estratégicos definidos pela Sedu no Planejamento Estratégico, de forma a complementar a meta do Idebes.
+
+Para implementar o Circuito de Gestão, profissionais das três instâncias — escola, Superintendência Regional de Educação (SRE) e Secretaria de Estado da Educação (Sedu) — contam com os protocolos, um conjunto de documentos com orientações e uma sequência articulada de atividades que devem ser desenvolvidas em cada etapa/instância. Os protocolos preveem o uso de indicadores estruturantes (aula dada, frequência e nota), formulários para registro de informações, roteiros de análise e de atividades, instruções para o uso do sistema de informações, criação de espaços de troca e discussão, além de atividades integradoras com as outras instâncias.
+
+**Indicadores Estruturantes** são um termômetro para que a escola verifique se existem condições básicas de aprendizagem dos estudantes no decorrer do ano letivo. **Aula dada, frequência e nota** são os utilizados pelo Circuito de Gestão. A análise desses três indicadores estruturantes contribui para traçar o panorama da situação da escola antes da divulgação dos resultados do Ideb/Idebes. Além de serem indicadores importantes por medirem atividades básicas para o funcionamento da escola e a garantia de aprendizagem dos estudantes, eles também permitem que a escola verifique continuamente se está ou não caminhando para o alcance de sua meta anual.
+
+A Sedu instituiu o **recorte por raça e gênero** em dois dos três indicadores estruturantes: frequência e notas, para assegurar e apoiar o trabalho das escolas na redução das desigualdades de aprendizagem. A inclusão do recorte de raça e gênero amplia o campo de visão e estende as possibilidades de intervenção, a curto prazo, quando observadas desigualdades em relação a grupos específicos de estudantes.
+
+### 6.2. SIGAE (Sistema de Gestão para o Avanço Contínuo)
+
+O SIGAE (Sistema de Gestão para o Avanço Contínuo da Educação) é uma plataforma digital desenvolvida pelo Instituto Unibanco para contribuir com a implementação das etapas do Circuito de Gestão (CdG). A proposta do SIGAE como ferramenta de gestão é de facilitar o planejamento, o acompanhamento e a avaliação da gestão educacional e escolar de forma simples, rápida e atualizada. A recomendação é que o sistema seja alimentado e visitado constantemente pelos profissionais das instâncias educacionais.
+
+Como parte de suas funcionalidades, o SIGAE permite a visualização de informações, dados e gráficos e a emissão de relatórios que fornecem um panorama fidedigno da situação atual da implementação do Circuito de Gestão na rede e dos dados educacionais. Além disso, é possível registrar e acompanhar o Plano de Ação proposto por cada instância ao longo do ano. O SIGAE também é uma ferramenta de comunicação entre as instâncias.
+
+### 6.3. Os 5 eixos de ação
+
+O Programa Jovem de Futuro prevê um conjunto de ações disparadoras organizadas em 5 eixos de ação que criam as condições necessárias para colocar o Circuito de Gestão (CdG) em funcionamento. O fluxo de transformação começa com a implementação dessas ações disparadoras, que variam de acordo com o contexto da rede. Os 5 eixos de ações são:
+
+1. **Governança:** É no âmbito da Governança que se criam condições políticas, institucionais e técnicas para que a perspectiva de gestão para o avanço contínuo da educação seja realizada em sua plenitude e gradualmente incorporada como cultura da rede estadual. Os Comitês de Governança são espaços de deliberação que dão abertura para que as ações sejam executadas e mantidas. Os comitês também são momentos de importantes alinhamentos com a Secretaria de Educação a respeito das ações implementadas junto à rede.
+
+2. **Formação**: Uma formação em serviço precisa levar os gestores a repensarem suas práticas, questionarem se o que estão fazendo é mesmo capaz de gerar os resultados pretendidos e por quê. No Jovem de Futuro, os cursos, as oficinas presenciais e os módulos à distância são eventos formativos voltados à implementação do Circuito de Gestão e ao desenvolvimento de competências de gestão. As abordagens valorizam experiências concretas de análise e tomada de decisão, com discussões em grupo. As formações são uma estratégia fundamental para promover a adesão dos profissionais ao método do Circuito de Gestão, uma vez que oferecem conhecimento técnico e conceitual que instrumentaliza a prática e fomenta reflexões sobre a relevância e os resultados das ações realizadas.
+
+3. **Assessoria Técnica:** O Jovem de Futuro disponibiliza uma equipe local de apoio à implementação do Circuito de Gestão (CdG). Ela acompanha todo o processo do CdG e das ações implementadoras, ajudando a enfrentar riscos e a resolver os problemas; apoia na disseminação do CdG na rede, articulando o método de acordo com os objetivos e a política educacional do estado; produz dados e estatísticas que orientam os comitês; e gere o sistema de gestão do programa (SIGAE). Ela ainda completa o processo de formação na prática dos gestores da Secretaria.
+
+4. **Mobilização:** As ações de mobilização ajudam a promover a comunicação contínua e a disseminação do conhecimento junto à rede. Podem ser de três tipos: acesso a novos conhecimentos, aprender com pares em contextos diversos e proximidade e transformação com os estudantes. O que se pretende é que todos os profissionais e estudantes estejam engajados no projeto de transformação da educação, compreendendo os objetivos colocados e como as ações desenvolvidas buscam promover esses resultados.
+
+5. **Gestão do Conhecimento:** Para avançar na melhoria dos resultados de aprendizagem da rede estadual de educação, é primordial fazer a gestão do conhecimento produzido ao longo do processo de implementação do Jovem de Futuro. Assim, por meio de ferramentas de avaliação e de pesquisas, são gerados insumos que possibilitam análises sobre o andamento do programa no estado e, por consequência, embasam a recomendação de práticas para ajustes e melhorias.
