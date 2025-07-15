@@ -5,7 +5,13 @@ site_dir: ../site/es
 site_url: https://instituto-unibanco.github.io/cdg/es
 
 nav:
-  - Introdução: index.md
+  - Introdução:
+    - Circuito de Gestão: index.md
+    - A Gestão para o Avanço Contínuo no Jovem de Futuro: introducao/gestao.md
+    - Princípios do Circuito de Gestão Capixaba: introducao/principios.md
+    - As etapas do Circuito de Gestão: introducao/etapas.md
+    - Quem participa do Circuito de Gestão: introducao/participacao.md
+    - Requisitos do Circuito de Gestão: introducao/requisitos.md
   - Supervisores: 
     - Planejamento: supervisores/planejamento.md
     - Execução: supervisores/execucao.md
