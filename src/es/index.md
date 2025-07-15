@@ -11,7 +11,6 @@ O acompanhamento é feito nas Visitas Técnicas pelo supervisor escolar, que tem
 O método do Circuito de Gestão foi inspirado nos princípios e nas propostas do ciclo do PDCA (em inglês, _Plan, Do, Check e Act_, que se traduz para o português como Planejar, Executar, Checar e Atuar/Ajustar) e adaptado à realidade educacional pública. Com base nele, espera-se que a escola consiga elaborar, executar e acompanhar um Plano de Ação efetivo, realista e, ao mesmo tempo, transformador, com o objetivo de alcançar as metas de aprendizagem.
 
 ### 1.2. Circuito de Gestão no Espírito Santo
-### 1.2. Circuito de Gestão no Espírito Santo
 
 A implementação do Jovem de Futuro e do Circuito de Gestão na rede pública de ensino do Espírito Santo teve início no ano de 2015. A cada ano, mais escolas foram incorporadas ao programa e, em 2018, o método foi implementado em toda a rede, consolidando-se como estratégia de gestão das unidades escolares da rede estadual de ensino.
 
