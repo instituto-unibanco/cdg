@@ -1,0 +1,31 @@
+INHERIT: mkdocs.yml
+
+docs_dir: go
+site_dir: ../site/go
+site_url: https://instituto-unibanco.github.io/cdg/go
+
+nav:
+  - Introdução:
+    - 1. Circuito de Gestão: index.md
+    - 2. A Gestão para o Avanço Contínuo no Jovem de Futuro: introducao/gestao.md
+    - 3. Princípios do Circuito de Gestão Capixaba: introducao/principios.md
+    - 4. As etapas do Circuito de Gestão: introducao/etapas.md
+    - 5. Quem participa do Circuito de Gestão: introducao/participacao.md
+    - 6. Requisitos do Circuito de Gestão: introducao/requisitos.md
+  - Regional: 
+    - Planejamento: regional/planejamento.md
+    - Execução: regional/execucao.md
+    - Correção de Rotas: regional/correcao-rotas.md
+    - SMAR: regional/smar.md    
+  - Tutor Educacional: 
+    - Correção de Rotas: tutor-educacional/correcao-rotas.md
+    - Planejamento: tutor-educacional/execucao.md
+    - Execução: tutor-educacional/planejamento.md    
+    - SMAR: tutor-educacional/smar.md
+  - SIGAE: 
+    - A importância do SIGAE: sigae/importancia-sigae.md
+    - Funcionalidades gerais: sigae/funcionalidades-gerais.md
+    - Como cadastrar plano de ação: sigae/cadastrar-plano-acao.md
+    - Como fazer o registro da Execução do Plano de Ação: sigae/registro-execucao-plano-acao.md
+    - Painel de Riscos: sigae/painel-riscos.md
+    - SMAR: sigae/smar.md
