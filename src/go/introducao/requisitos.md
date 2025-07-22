@@ -1,0 +1,35 @@
+# 6\. Requisitos do Circuito de Gestão
+
+## 6.1. Indicadores de monitoramento e avaliação
+
+A meta é o ponto de partida para iniciar o Circuito de Gestão Goiano (CdGG) e define o resultado a ser alcançado no fim do ano letivo. Considerando que o Índice de Desenvolvimento da Educação (Ideb), disponibilizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), por meio do Ministério da Educação (MEC), é bianual, a Seduc oferece às unidades escolares de Ensino Fundamental \- Anos Finais e Ensino Médio o Idego (Índice de Desempenho da Educação de Goiás).
+
+**Ideb** é um indicador que sintetiza dados de desempenho e fluxo, seguindo a metodologia do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). Os componentes do IDEB combinam informações que permitem analisar a qualidade da educação de um sistema de ensino: garantia de acesso, permanência e aprovação do estudante, com a aprendizagem recomendada para cada etapa de ensino.
+
+O **Idego** é uma base de informações composta pela prova do Sistema de Avaliação Educacional do Estado de Goiás (Saego) e os dados de fluxo escolar, sendo, portanto, mais do que meramente uma avaliação. O Idego é constituído das médias de proficiência em Língua Portuguesa e Matemática, auferidas no programa de avaliação educacional do Estado por intermédio da prova do Saego e do fluxo, calculado a partir das taxas de aprovação em cada etapa via Censo Escolar. Participam das verificações do Idego, todos os anos, os estudantes do 5º e 9º anos do Ensino Fundamental e da 3ª série do Ensino Médio.
+
+Para implementar o Circuito de Gestão Goiano, profissionais das três instâncias — unidade escolar, Coordenação Regional de Educação (CRE) e Secretaria de Estado da Educação (Seduc) — contam com os guias, um conjunto de documentos com orientações e uma sequência articulada de atividades que devem ser desenvolvidas em cada etapa/instância. Os guias preveem o uso de indicadores estruturantes (aula dada, frequência e nota), formulários para registro de informações, roteiros de análise e de atividades, instruções para o uso do sistema de informações, criação de espaços de troca e discussão, além de atividades integradoras com as outras instâncias.
+
+**Indicadores Estruturantes** são um termômetro que permitem à unidade escolar verificar se há condições básicas de aprendizagem dos estudantes ao longo do ano letivo. **Aula dada, frequência e nota** são os utilizados pelo Circuito de Gestão.
+
+A análise desses três indicadores estruturantes contribui para traçar o panorama da situação da unidade escolar antes da divulgação dos resultados do Ideb/Idego. Além de serem indicadores importantes por medirem atividades básicas para o funcionamento cotidiano escolar e para a garantia de aprendizagem dos estudantes, eles também permitem que a unidade escolar verifique continuamente se está ou não caminhando para o alcance de sua meta anual.
+
+## 6.2. SIGAE (Sistema de Gestão para o Avanço Contínuo)
+
+O SIGAE (Sistema de Gestão para o Avanço Contínuo da Educação) é uma plataforma digital desenvolvida pelo Instituto Unibanco para contribuir com a implementação das etapas do Circuito de Gestão Goiano (CdGG). A proposta do SIGAE como ferramenta de gestão é de facilitar o planejamento, o acompanhamento e a avaliação da gestão educacional e escolar de forma simples, rápida e atualizada. A recomendação é que o sistema seja alimentado e visitado constantemente pelos profissionais das instâncias educacionais.
+
+Como parte de suas funcionalidades, o SIGAE permite a visualização de informações, dados e gráficos e a emissão de relatórios que fornecem um panorama fidedigno da situação atual da implementação do Circuito de Gestão Goiano na rede e dos dados educacionais. Além disso, é possível registrar e acompanhar o Plano de Ação proposto por cada instância ao longo do ano. O SIGAE também é uma ferramenta de comunicação entre as instâncias.
+
+## 6.3. Os 5 eixos de ação
+
+O Programa Jovem de Futuro prevê um conjunto de ações disparadoras organizadas em 5 eixos de ação que criam as condições necessárias para colocar o Circuito de Gestão Goiano (CdGG) em funcionamento. O fluxo de transformação começa com a implementação dessas ações disparadoras, que variam de acordo com o contexto da rede. Os 5 eixos de ações são:
+
+1. **Governança:** É no âmbito da Governança que se criam condições políticas, institucionais e técnicas para que a perspectiva de gestão para o avanço contínuo da educação seja realizada em sua plenitude e gradualmente incorporada como cultura da rede estadual. Os Comitês de Governança são espaços de deliberação que dão abertura para que as ações sejam executadas e mantidas. Os comitês também são momentos de importantes alinhamentos com a Secretaria de Educação a respeito das ações implementadas junto à rede.
+
+2. **Formação**: Uma formação em serviço precisa levar os gestores a repensarem suas práticas, questionarem se o que estão fazendo é mesmo capaz de gerar os resultados pretendidos e por quê. No Jovem de Futuro, os cursos, as oficinas presenciais e os módulos à distância são eventos formativos voltados à implementação do Circuito de Gestão Goiano e ao desenvolvimento de competências de gestão. As abordagens valorizam experiências concretas de análise e tomada de decisão, com discussões em grupo. As formações são uma estratégia fundamental para promover a adesão dos profissionais ao método do Circuito de Gestão Goiano, uma vez que oferecem conhecimento técnico e conceitual que instrumentaliza a prática e fomenta reflexões sobre a relevância e os resultados das ações realizadas.
+
+3. **Assessoria Técnica:** O Jovem de Futuro disponibiliza uma equipe local de apoio à implementação do Circuito de Gestão Goiano (CdGG). Ela acompanha todo o processo do CdGG e das ações implementadoras, ajudando a enfrentar riscos e a resolver os problemas; apoia na disseminação do CdGG na rede, articulando o método de acordo com os objetivos e a política educacional do estado; produz dados e estatísticas que orientam os comitês; e gere o sistema de gestão do programa (SIGAE). Ela ainda completa o processo de formação na prática dos gestores da Secretaria.
+
+4. **Mobilização:** As ações de mobilização ajudam a promover a comunicação contínua e a disseminação do conhecimento junto à rede. Podem ser de três tipos: acesso a novos conhecimentos, aprender com pares em contextos diversos e proximidade e transformação com os estudantes. O que se pretende é que todos os profissionais e estudantes estejam engajados no projeto de transformação da educação, compreendendo os objetivos colocados e como as ações desenvolvidas buscam promover esses resultados.
+
+5. **Gestão do Conhecimento:** Para avançar na melhoria dos resultados de aprendizagem da rede estadual de educação, é primordial fazer a gestão do conhecimento produzido ao longo do processo de implementação do Jovem de Futuro. Assim, por meio de ferramentas de avaliação e de pesquisas, são gerados insumos que possibilitam análises sobre o andamento do programa no estado e, por consequência, embasam a recomendação de práticas para ajustes e melhorias.
