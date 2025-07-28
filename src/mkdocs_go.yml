@@ -12,16 +12,16 @@ nav:
     - 4. As etapas do Circuito de Gestão: introducao/etapas.md
     - 5. Quem participa do Circuito de Gestão: introducao/participacao.md
     - 6. Requisitos do Circuito de Gestão: introducao/requisitos.md
-  - Regional: 
+  - Assessor pedagógico: 
     - Planejamento: regional/planejamento.md
     - Execução: regional/execucao.md
-    - Correção de Rotas: regional/correcao-rotas.md
     - SMAR: regional/smar.md    
+    - Correção de Rotas: regional/correcao-rotas.md
   - Tutor Educacional: 
-    - Correção de Rotas: tutor-educacional/correcao-rotas.md
     - Planejamento: tutor-educacional/execucao.md
     - Execução: tutor-educacional/planejamento.md    
     - SMAR: tutor-educacional/smar.md
+    - Correção de Rotas: tutor-educacional/correcao-rotas.md
   - SIGAE: 
     - A importância do SIGAE: sigae/importancia-sigae.md
     - Funcionalidades gerais: sigae/funcionalidades-gerais.md
