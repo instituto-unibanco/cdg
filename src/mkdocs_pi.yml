@@ -6,15 +6,15 @@ site_url: https://instituto-unibanco.github.io/cdg/pi
 
 nav:
   - Introdução:
-    - 1. Circuito de Gestão: index.md
+    - 1. Circuito de Gestão da Apredizagem: index.md
     - 2. Princípios do Circuito da Gestão da Aprendizagem (GdA): introducao/principios.md
     - 3. As etapas do Circuito de Gestão: introducao/etapas.md
     - 4. Requisitos do Circuito de Gestão: introducao/requisitos.md
   - Equipe gestora da regional: 
-    - Avaliação de resultados: gestor-regional/avaliacao-resultados.md
-    - Planejamento: gestor-regional/planejamento.md
-    - Execução: gestor-regional/execucao.md
-    - Redirecionamento: gestor-regional/redirecionamento.md
+    - Avaliação de resultados: equipe-gestora-regional/avaliacao-resultados.md
+    - Planejamento: equipe-gestora-regional/planejamento.md
+    - Execução: equipe-gestora-regional/execucao.md
+    - Redirecionamento: equipe-gestora-regional/redirecionamento.md
   - Técnico de ensino: 
     - Avaliação de resultados: tecnico-ensino/avaliacao-resultados.md
     - Planejamento: tecnico-ensino/planejamento.md

@@ -18,8 +18,8 @@ nav:
     - SMAR: regional/smar.md    
     - Correção de Rotas: regional/correcao-rotas.md
   - Tutor Educacional: 
-    - Planejamento: tutor-educacional/execucao.md
-    - Execução: tutor-educacional/planejamento.md    
+    - Planejamento: tutor-educacional/planejamento.md
+    - Execução: tutor-educacional/execucao.md    
     - SMAR: tutor-educacional/smar.md
     - Correção de Rotas: tutor-educacional/correcao-rotas.md
   - SIGAE: 
