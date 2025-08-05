@@ -1063,10 +1063,7 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
       <td>
         Os três itens – categoria, problema e desafio – estão articulados.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1076,17 +1073,11 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         aprendizagem dos estudantes. O problema está bem definido, indicando com
         clareza o problema a ser enfrentado.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>Os desafios estão coerentes com o problema.</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1095,10 +1086,7 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         pretende alcançar com a ação. O desafio está articulado ao resultado
         esperado?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td rowspan="3">Possibilidade de impacto da ação</td>
@@ -1106,10 +1094,7 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         A descrição da ação projeta uma possibilidade efetiva de se atuar no
         problema?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1117,10 +1102,7 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         informações para esclarecer o que vai ser feito para enfrentar o
         problema.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1128,10 +1110,7 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         possibilidade efetiva de impactar no problema. E o público-alvo está
         adequado.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td rowspan="3">Relação entre ação problema e resultado esperado</td>
@@ -1139,27 +1118,18 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         A descrição da ação aponta a possibilidade efetiva de o resultado
         esperado ser alcançado?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>O resultado esperado indica impacto sobre o problema?</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
         O resultado esperado está sub ou superestimado, considerando também o
         tempo de aprendizagem?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td rowspan="4">Desafio e ação</td>
@@ -1169,37 +1139,25 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         rigor, demonstrando coerência e implicação direta com os problemas
         priorizados)
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
         Ao ler as descrições das ações conseguimos perceber o que foi planejado
         e como será executado?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
         A ação tem relação direta com o problema diagnosticado pela unidade
         escolar e tem potencial de impactá-la significativamente?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>A ação tem potencial para impactar os problemas priorizados?</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td rowspan="4">Produtos e responsáveis</td>
@@ -1208,10 +1166,7 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         indica o que a ação vai entregar, descrevendo com clareza e objetividade
         o papel de todos os envolvidos na entrega?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1219,27 +1174,18 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         importante que seja <strong>quantificado</strong>, para ser possível o
         monitoramento da execução da ação.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
         Estão definidos responsáveis pelas tarefas/ações e esses estão
         comunicados, de acordo e sentem-se confortáveis para tal função?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>Os prazos estão coerentes com a rotina escolar?</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td rowspan="5">Tarefas</td>
@@ -1248,10 +1194,7 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         permitem monitoramento; existe uma relação lógica e coerente entre as
         tarefas, a ação e o resultado esperado?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1261,10 +1204,7 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         de resultados parciais para correção de rotas durante a execução (e não
         apenas ao final)?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1272,10 +1212,7 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         adequados, ou seja, em tempos justos que permitem correção de rota ao
         longo de sua execução?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1283,20 +1220,14 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
         resultado e há informações suficientes para afirmar que o conjunto das
         tarefas, se executadas, podem gerar o resultado esperado?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
         A descrição do resultado está totalmente coerente com a ação e está
         evidente que tem potencial de impactar o desafio declarado.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
   </tbody>
 </table>
@@ -1325,10 +1256,7 @@ Tabela 8 \- Instrumento de análise do Plano de Ação \- 2ª parte
         garantindo as condições de ensino e aprendizagem por meio de soluções
         inovadoras.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1336,17 +1264,11 @@ Tabela 8 \- Instrumento de análise do Plano de Ação \- 2ª parte
         utilização de recursos que agreguem experiências “diferentes” e
         atrativas para os diversos públicos das ações da unidade escolar.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>E há ações voltadas aos componentes críticos da unidade escolar.</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td rowspan="3">Ações diversificadas</td>
@@ -1354,30 +1276,21 @@ Tabela 8 \- Instrumento de análise do Plano de Ação \- 2ª parte
         O Plano apresenta ações diversificadas, específicas para grupos de
         vulnerabilizados.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
         Mais da metade das ações apresentam propostas inovadoras e são
         atividades de aprendizagem.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
         Os mapas são repetitivos, mesmo considerando os diferentes componentes e
         problemas.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>Indicadores estruturantes</td>
@@ -1387,10 +1300,7 @@ Tabela 8 \- Instrumento de análise do Plano de Ação \- 2ª parte
         melhorar o problema de pelo menos dois dos indicadores estruturantes
         (frequência, aulas dadas e notas dos estudantes).
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td rowspan="2">Responsáveis</td>
@@ -1398,10 +1308,7 @@ Tabela 8 \- Instrumento de análise do Plano de Ação \- 2ª parte
         Percebe-se uma sobrecarga na indicação de responsáveis em todo o Plano
         de Ação.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1409,10 +1316,7 @@ Tabela 8 \- Instrumento de análise do Plano de Ação \- 2ª parte
         responsáveis por ações e tarefas, tornando-se visível a participação de
         boa parte da comunidade escolar.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td rowspan="3">Participação mais autônoma e ativa</td>
@@ -1420,20 +1324,14 @@ Tabela 8 \- Instrumento de análise do Plano de Ação \- 2ª parte
         As ações e tarefas descritas revelam uma postura mais controladora,
         centralizadora, privilegiando alguns grupos.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
         As ações buscam envolver as pessoas (professores, estudantes,
         comunidade) de forma mais autônoma e mais participativa?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
@@ -1441,10 +1339,7 @@ Tabela 8 \- Instrumento de análise do Plano de Ação \- 2ª parte
         envolvimento das pessoas ou mesmo se haverá alguma oportunidade para
         participação.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td rowspan="3">Preocupação com a participação ativa dos estudantes</td>
@@ -1452,30 +1347,21 @@ Tabela 8 \- Instrumento de análise do Plano de Ação \- 2ª parte
         Há nos mapas de ação preocupação com a participação ativa dos estudantes
         como sujeitos de aprendizagem?
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
         Ações e tarefas descritas implicam a participação dos estudantes, mas
         não revelam com clareza como os envolverão.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>
         A maioria das ações e tarefas explicita como vão se dar a participação
         ativa e o envolvimento dos estudantes.
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
   </tbody>
 </table>
@@ -1553,24 +1439,9 @@ Tabela 9 \- Registro das necessidades das unidades escolares
       <th>Necessidades comuns da região/território</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
+<tbody>
+    <tr><td colspan="4"></td></tr>
+    <tr><td colspan="4"></td></tr>
+    <tr><td colspan="4"></td></tr>
   </tbody>
 </table>
