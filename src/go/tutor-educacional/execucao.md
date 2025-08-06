@@ -1,6 +1,6 @@
 # Execução
 
-## 1\. Importância da Execução
+## 1. Importância da Execução
 
 O Acompanhamento Pedagógico de Execução tem como objetivo **monitorar a implementação das ações previstas no Plano de Ação** e **analisar sua efetividade**, promovendo pequenos ajustes sempre que necessário.
 
@@ -36,7 +36,7 @@ Para facilitar esse processo, há instrumentos de síntese disponíveis para reg
 
 Por fim, é importante entender como os acompanhamentos pedagógicos se conectam com outras instâncias do processo de Execução. A primeira Reunião de Trabalho da regional define orientações que devem ser repassadas durante os acompanhamentos nas unidades escolares. Nos Acompanhamentos Pedagógicos, as reflexões são registradas e retornam à regional, alimentando as reuniões seguintes. Esse ciclo garante coerência e continuidade entre unidades escolares, regionais e Secretaria.
 
-## 2\. Preparação para o Acompanhamento Pedagógico
+## 2. Preparação para o Acompanhamento Pedagógico
 
 Antes de cada acompanhamento pedagógico, é fundamental que o tutor se aproprie das orientações sistematizadas pela regional na última Reunião de Trabalho (RT) da qual participou. Essas orientações devem ser discutidas durante os Acompanhamentos Pedagógicos (APs), estabelecendo conexões entre a etapa de Planejamento e a etapa atual de Execução. É importante garantir que a equipe gestora compreenda como o trabalho desenvolvido contribui para o alcance dos resultados da unidade escolar.
 
@@ -117,7 +117,7 @@ Com base nos encaminhamentos da última Reunião de Trabalho da regional, compar
 
 Para fortalecer a coerência interna entre as instâncias, destaque que todas as conclusões dos acompanhamentos pedagógicos serão sistematizadas, gerando insumos e demandas para a regional. Isso contribuirá para as discussões e encaminhamentos futuros.
 
-## 3\. Análise da execução física do Plano de Ação
+## 3. Análise da execução física do Plano de Ação
 
 Neste momento, atualizem e/ou consultem o painel do Sigae referente à execução física das ações, que disponibiliza informações sobre o cumprimento das tarefas previstas conforme o cronograma, bem como as entregas parciais dos produtos. Pode haver a necessidade de orientações mais específicas para fortalecer o registro da execução no Sigae pela unidade escolar, conforme as análises feitas na Reunião de Trabalho (RT) anterior ao acompanhamento pedagógico.
 
@@ -151,7 +151,7 @@ Para isso, a reflexão proposta a seguir é composta pelos conhecimentos da real
 -   A execução é realizada com pensamento sistêmico, ou seja, a equipe está consciente, por exemplo, da complexidade do trabalho, do contexto, da comunicação e das relações entre pessoas, processos e ações? Há entendimento de que essa atuação é consequente e tem potencial para impactar diversos aspectos?
 -   Diante de tudo isso, quais são as possibilidades de melhoria? Há necessidade de novas tarefas? Ou exclusão de tarefas? Ou outros aprimoramentos pontuais nos mapas de ação?
 
-## 5\. Análise da execução das ações em relação aos objetivos estratégicos
+## 5. Análise da execução das ações em relação aos objetivos estratégicos
 
 Nesta etapa, ofereça apoio para que analise os efeitos das ações e atividades da unidade escolar em diversas questões relacionadas aos objetivos estratégicos:
 
@@ -335,330 +335,13 @@ Nos campos relativos à análise das ações em relação aos objetivos estraté
 -   **Nível 4:** A unidade escolar executou de forma satisfatória as ações previstas, ainda que com algumas limitações. Foram identificados pontos fortes que devem ser mantidos, pois contribuem diretamente para o avanço em direção ao objetivo proposto.
 -   Para o **Anexo 2 – Instrumento de Síntese dos Acompanhamentos Pedagógicos do Conjunto de Unidades Escolares**, utilize os mesmos níveis para avaliar os pontos de atenção dos objetivos estratégicos, considerando o conjunto das unidades acompanhadas.
 
-Anexo 1 – Registro das conclusões dos Acompanhamentos Pedagógicos \- APs
+Anexo 1 – Registro das conclusões dos Acompanhamentos Pedagógicos - APs
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="7">Registro do AP (feita pela equipe gestora com TE)</th>
-    </tr>
-    <tr>
-      <th colspan="7">Execução e eficácia das ações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="3">Execução física geral das ações</td>
-      <td colspan="4">As tarefas estão todas no prazo? Se não, quais os motivos? Se há demandas para a regional, quais são?</td>
-    </tr>
-    <tr>
-      <td colspan="3">Execução das ações em direção aos desafios</td>
-      <td colspan="4">Quais as evidências de que as ações estão ou não em rota de alcançar os desafios? Se há demandas para a regional, quais são?</td>
-    </tr>
-    <tr>
-      <td>Objetivos</td>
-      <td>Qual é a avaliação geral da unidade escolar, em relação a suas dificuldades e destaques na execução em cada um dos pontos de atenção discutidos</td>
-      <td>1 muitas dificuldades</td>
-      <td>2 Dificuldade, mas também obteve alguns indicativos positivos</td>
-      <td>3 dificuldades pontuais</td>
-      <td>4 execução satisfatória</td>
-      <td>Observações</td>
-    </tr>
-    <tr>
-      <td>Garantir a aprendizagem</td>
-      <td>Qualidade da interação dos professores com os estudantes</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>
-        <ul>
-          <li>Como os professores têm dado retorno em relação às atividades realizadas pelos estudantes?</li>
-          <li>Como estão sendo aplicadas as estratégias diversificadas em relação aos diferentes níveis de aprendizagem e contextos dos estudantes?</li>
-          <li>As estratégias têm levado em consideração as diferentes características dos estudantes de cada uma das etapas de ensino – Ensino Fundamental e Ensino Médio?</li>
-          <li>Algum professor de alguma turma, série, turno, ou Componente Curricular específico tem mais dificuldade de interação com os estudantes, no período mais recente de execução? Como auxiliá -lo?</li>
-          <li>Estão sendo proporcionadas trocas entre os professores para melhorar essa qualidade de interação com os estudantes? Como aprimorá -la?</li>
-          <li>Quais ações do Plano impactam diretamente nessas questões? Estão surtindo efeito (positivo ou negativo)? Quais são destaques? Precisam passar por ajustes pontuais?</li>
-          <li>Se há demandas para a regional, quais são?</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Garantir a aprendizagem</td>
-      <td>Percentual de estudantes que estão acompanhando efetivamente o conteúdo proposto para o ano letivo</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>
-        <ul>
-          <li>Existe alguma oscilação de frequência dos estudantes nas aulas indicando maior propensão ao abandono?</li>
-          <li>É possível observar recorrências nos perfis dos mais vulneráveis (pertencimento racial, gênero, território, situação socioeconômica, composição familiar)?</li>
-          <li>É possível observar recorrências diferenciadas entre as etapas de ensino? Se sim, elas demonstram alguma tendência que deve ser cuidada com ações distintas?</li>
-          <li>Se há demandas para a regional, quais são?</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Professores utilizando metodologias diversificadas de forma equânime pensando na equidade</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>
-        <ul>
-          <li>Que ações do Plano podem impactar na sua execução? A sua execução até agora tem surtido efeito (positivo ou negativo)? Que ajustes pontuais são necessários?</li>
-          <li>Os professores estão usando metodologias diversificadas em suas aulas? Como podemos auxiliá - los se forem detectadas dificuldades pontuais na efetividade de tais metodologias?</li>
-          <li>Os professores têm se mostrado sensíveis em relação à equidade? Pensando em cada estudante em particular e na turma como um todo?</li>
-          <li>Se há demandas para a regional, quais são?</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Garantir a aprendizagem</td>
-      <td>Aulas dadas de maneira que instigue a curiosidade dos estudantes</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>
-        <ul>
-          <li>Como os recursos pedagógicos e tecnológicos disponíveis são revertidos em qualidade das atividades propostas?</li>
-          <li>Como são aprimoradas as condições para que os professores aproveitem todo o potencial desses recursos?</li>
-          <li>Se há demandas para a regional, quais são?</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Reduzir as desigualdades educacionais</td>
-      <td>Consideração dos diferentes contextos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>
-        <ul>
-          <li>A equipe gestora e os professores estão trabalhando colaborativamente nas questões que envolvem as condições de vida dos estudantes, o contexto familiar e o impacto do racismo e de outras discriminações sociais na permanência e no desenvolvimento da aprendizagem dos estudantes?</li>
-          <li>Quais são as evidências identificadas em relação a isso no período mais recente de execução?</li>
-          <li>De que maneira a unidade escolar está mobilizada para identificar questões relacionadas a desigualdades sociais e raciais e desenvolver estratégias para reduzi - las?</li>
-          <li>Como as ações do Plano estão impactando nestas questões no período mais recente? Precisam passar por ajustes pontuais? Quais são destaques? Se há demandas para a regional, quais são?</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Reduzir as desigualdades educacionais</td>
-      <td>Interação pedagógica</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>
-        <ul>
-          <li>Como a equipe demonstra o entendimento sobre a importância da educação para as relações étnico - raciais e valorização das identidades étnico -raciais?</li>
-          <li>As metodologias e materiais em uso valorizam a identidade étnico -racial dos estudantes? Como se desenvolve sua aplicação no período mais recente?</li>
-          <li>Quem são os estudantes que compõem as turmas com maior dificuldade de aprendizagem no período mais recente? É possível observar desigualdades por perfis de pertencimento racial, gênero e situação socioeconômica?</li>
-          <li>Os educadores da unidade escolar conhecem os sonhos e as críticas de seus estudantes com relação ao futuro?</li>
-          <li>Os professores têm conseguido identificar avanços e potencialidades de estudantes que apresentam dificuldades, considerando pertencimentos raciais e situações socioeconômicas, e compartilhar com eles e com o conjunto dos estudantes essas conquistas? Como fortalecer esse cuidado?</li>
-          <li>Como as ações do Plano estão impactando nessas questões no período mais recente? Precisam passar por ajustes pontuais? Quais são destaques?</li>
-          <li>Se há demandas para a regional, quais são?</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="3">Mitigar o abandono e a evasão escolar</td>
-      <td>Busca ativa</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>
-        <ul>
-          <li>O que está sendo realizado pela unidade escolar em relação à busca ativa?</li>
-          <li>A unidade escolar tem conseguido identificar o perfil dos estudantes que abandonaram ou evadiram? São mais estudantes negros ou brancos? Há predominância de mulher/homem ou de estudantes em situação de maior vulnerabilidade socioeconômica? Há predominância em algumas séries ou etapa de ensino?</li>
-          <li>Quais ações do Plano impactam nessas questões? Estão funcionando? Quais são os destaques? Precisam passar por ajustes pontuais? As ações consideram as especificidades de cada etapa de ensino? Se há demandas para a regional, quais são?</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Clima escolar e vínculo dos estudantes com a unidade escola r</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>
-        <ul>
-          <li>A unidade escolar tem garantido espaços de escuta, acolhimento, expressão de identidades e participação dos estudantes? Como fortalecer esses espaços e essas relações, valorizando a diversidade e as especificidades de cada etapa de ensino, conforme o que foi observado no período mais recente de Informação Pública Mitigar o abandono e a evasão escolar Clima escolar e vínculo dos estudantes com a unidade escola r execução?</li>
-          <li>É possível perceber o restabelecimento dos laços de confiança e referências entre estudantes e corpo docente? Nesse processo é possível observar algum grupo mais desconectado da unidade escola r (por pertencimento racial, gênero, território, composição familiar, série)? O que fazer de diferente para fortalecer esse restabelecimento, considerando esses diferentes grupos?</li>
-          <li>É possível perceber que a comunidade escolar, incluindo gestores, professores e estudantes, trabalham juntos e apoiam -se mutuamente, possibilitando bom clima no ambiente escolar sem distinção de cor/raça, gênero e território?</li>
-          <li>Quais ações do Plano impactam nessas questões? Estão funcionando? Quais são os destaques? Precisam passar por ajustes pontuais? Se há demandas para a regional, quais são?</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Aperfeiçoamento do relacionamento escolar com os estudantes e suas famílias</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>
-        <ul>
-          <li>Podemos analisar e identificar pontos de melhoria nas unidades escolares, como por exemplo, a qualidade da interação entre professores e estudantes?</li>
-          <li>Os professores têm utilizado metodologias diferenciadas em sala de aula com o intuito de despertar o interesse dos estudantes pela unidade escolar e a vontade de aprender?</li>
-          <li>Foi criado um ambiente agradável para fortalecer os laços entre pais, professores e comunidade escolar em geral? As atividades elaboradas pelos professores Informação Pública despertam um maior interesse à experiência escolar do estudante e oferecem um contato mais aproximado com os Componentes Curriculares por meio de atividades motivadoras e interativas?</li>
-          <li>Se há demandas para a regional, quais são?</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<table><thead><tr><th colspan="7">Registro do AP (feita pela equipe gestora com TE)<tr><th colspan="7">Execução e eficácia das ações<tbody><tr><td colspan="3">Execução física geral das ações<td colspan="4">As tarefas estão todas no prazo? Se não, quais os motivos? Se há demandas para a regional, quais são?<tr><td colspan="3">Execução das ações em direção aos desafios<td colspan="4">Quais as evidências de que as ações estão ou não em rota de alcançar os desafios? Se há demandas para a regional, quais são?<tr><td>Objetivos<td>Qual é a avaliação geral da unidade escolar, em relação a suas dificuldades e destaques na execução em cada um dos pontos de atenção discutidos<td>1 muitas dificuldades<td>2 Dificuldade, mas também obteve alguns indicativos positivos<td>3 dificuldades pontuais<td>4 execução satisfatória<td>Observações<tr><td>Garantir a aprendizagem<td>Qualidade da interação dos professores com os estudantes<td colspan="4"><td><ul><li>Como os professores têm dado retorno em relação às atividades realizadas pelos estudantes?<li>Como estão sendo aplicadas as estratégias diversificadas em relação aos diferentes níveis de aprendizagem e contextos dos estudantes?<li>As estratégias têm levado em consideração as diferentes características dos estudantes de cada uma das etapas de ensino – Ensino Fundamental e Ensino Médio?<li>Algum professor de alguma turma, série, turno, ou Componente Curricular específico tem mais dificuldade de interação com os estudantes, no período mais recente de execução? Como auxiliá -lo?<li>Estão sendo proporcionadas trocas entre os professores para melhorar essa qualidade de interação com os estudantes? Como aprimorá -la?<li>Quais ações do Plano impactam diretamente nessas questões? Estão surtindo efeito (positivo ou negativo)? Quais são destaques? Precisam passar por ajustes pontuais?<li>Se há demandas para a regional, quais são?</ul><tr><td>Garantir a aprendizagem<td>Percentual de estudantes que estão acompanhando efetivamente o conteúdo proposto para o ano letivo<td colspan="4"><td><ul><li>Existe alguma oscilação de frequência dos estudantes nas aulas indicando maior propensão ao abandono?<li>É possível observar recorrências nos perfis dos mais vulneráveis (pertencimento racial, gênero, território, situação socioeconômica, composição familiar)?<li>É possível observar recorrências diferenciadas entre as etapas de ensino? Se sim, elas demonstram alguma tendência que deve ser cuidada com ações distintas?<li>Se há demandas para a regional, quais são?</ul><tr><td><td>Professores utilizando metodologias diversificadas de forma equânime pensando na equidade<td colspan="4"><td><ul><li>Que ações do Plano podem impactar na sua execução? A sua execução até agora tem surtido efeito (positivo ou negativo)? Que ajustes pontuais são necessários?<li>Os professores estão usando metodologias diversificadas em suas aulas? Como podemos auxiliá - los se forem detectadas dificuldades pontuais na efetividade de tais metodologias?<li>Os professores têm se mostrado sensíveis em relação à equidade? Pensando em cada estudante em particular e na turma como um todo?<li>Se há demandas para a regional, quais são?</ul><tr><td>Garantir a aprendizagem<td>Aulas dadas de maneira que instigue a curiosidade dos estudantes<td colspan="4"><td><ul><li>Como os recursos pedagógicos e tecnológicos disponíveis são revertidos em qualidade das atividades propostas?<li>Como são aprimoradas as condições para que os professores aproveitem todo o potencial desses recursos?<li>Se há demandas para a regional, quais são?</ul><tr><td>Reduzir as desigualdades educacionais<td>Consideração dos diferentes contextos<td colspan="4"><td><ul><li>A equipe gestora e os professores estão trabalhando colaborativamente nas questões que envolvem as condições de vida dos estudantes, o contexto familiar e o impacto do racismo e de outras discriminações sociais na permanência e no desenvolvimento da aprendizagem dos estudantes?<li>Quais são as evidências identificadas em relação a isso no período mais recente de execução?<li>De que maneira a unidade escolar está mobilizada para identificar questões relacionadas a desigualdades sociais e raciais e desenvolver estratégias para reduzi - las?<li>Como as ações do Plano estão impactando nestas questões no período mais recente? Precisam passar por ajustes pontuais? Quais são destaques? Se há demandas para a regional, quais são?</ul><tr><td>Reduzir as desigualdades educacionais<td>Interação pedagógica<td colspan="4"><td><ul><li>Como a equipe demonstra o entendimento sobre a importância da educação para as relações étnico - raciais e valorização das identidades étnico -raciais?<li>As metodologias e materiais em uso valorizam a identidade étnico -racial dos estudantes? Como se desenvolve sua aplicação no período mais recente?<li>Quem são os estudantes que compõem as turmas com maior dificuldade de aprendizagem no período mais recente? É possível observar desigualdades por perfis de pertencimento racial, gênero e situação socioeconômica?<li>Os educadores da unidade escolar conhecem os sonhos e as críticas de seus estudantes com relação ao futuro?<li>Os professores têm conseguido identificar avanços e potencialidades de estudantes que apresentam dificuldades, considerando pertencimentos raciais e situações socioeconômicas, e compartilhar com eles e com o conjunto dos estudantes essas conquistas? Como fortalecer esse cuidado?<li>Como as ações do Plano estão impactando nessas questões no período mais recente? Precisam passar por ajustes pontuais? Quais são destaques?<li>Se há demandas para a regional, quais são?</ul><tr><td rowspan="3">Mitigar o abandono e a evasão escolar<td>Busca ativa<td colspan="4"><td><ul><li>O que está sendo realizado pela unidade escolar em relação à busca ativa?<li>A unidade escolar tem conseguido identificar o perfil dos estudantes que abandonaram ou evadiram? São mais estudantes negros ou brancos? Há predominância de mulher/homem ou de estudantes em situação de maior vulnerabilidade socioeconômica? Há predominância em algumas séries ou etapa de ensino?<li>Quais ações do Plano impactam nessas questões? Estão funcionando? Quais são os destaques? Precisam passar por ajustes pontuais? As ações consideram as especificidades de cada etapa de ensino? Se há demandas para a regional, quais são?</ul><tr><td>Clima escolar e vínculo dos estudantes com a unidade escola r<td colspan="4"><td><ul><li>A unidade escolar tem garantido espaços de escuta, acolhimento, expressão de identidades e participação dos estudantes? Como fortalecer esses espaços e essas relações, valorizando a diversidade e as especificidades de cada etapa de ensino, conforme o que foi observado no período mais recente de Informação Pública Mitigar o abandono e a evasão escolar Clima escolar e vínculo dos estudantes com a unidade escola r execução?<li>É possível perceber o restabelecimento dos laços de confiança e referências entre estudantes e corpo docente? Nesse processo é possível observar algum grupo mais desconectado da unidade escola r (por pertencimento racial, gênero, território, composição familiar, série)? O que fazer de diferente para fortalecer esse restabelecimento, considerando esses diferentes grupos?<li>É possível perceber que a comunidade escolar, incluindo gestores, professores e estudantes, trabalham juntos e apoiam -se mutuamente, possibilitando bom clima no ambiente escolar sem distinção de cor/raça, gênero e território?<li>Quais ações do Plano impactam nessas questões? Estão funcionando? Quais são os destaques? Precisam passar por ajustes pontuais? Se há demandas para a regional, quais são?</ul><tr><td>Aperfeiçoamento do relacionamento escolar com os estudantes e suas famílias<td colspan="4"><td><ul><li>Podemos analisar e identificar pontos de melhoria nas unidades escolares, como por exemplo, a qualidade da interação entre professores e estudantes?<li>Os professores têm utilizado metodologias diferenciadas em sala de aula com o intuito de despertar o interesse dos estudantes pela unidade escolar e a vontade de aprender?<li>Foi criado um ambiente agradável para fortalecer os laços entre pais, professores e comunidade escolar em geral? As atividades elaboradas pelos professores Informação Pública despertam um maior interesse à experiência escolar do estudante e oferecem um contato mais aproximado com os Componentes Curriculares por meio de atividades motivadoras e interativas?<li>Se há demandas para a regional, quais são?</ul></table>
 
 Anexo 2 – Instrumento de síntese dos APs do conjunto de unidades escolares
 
-<table border>
-  <thead>
-    <tr>
-      <th colspan="5">Síntese das conclusões da AP do conjunto de unidades escolares acompanhadas pelo TE</th>
-    </tr>
-    <tr>
-      <th colspan="5">Execução e eficácia das ações</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="2"><strong>Execução física geral das ações</strong></td>
-      <td colspan="3">De modo geral, se há demandas para a regional relacionadas aos pontos de atenção levantados durante o AP do seu conjunto de unidades escolares, quais são? Há alguma unidades escolares com baixo nível de execução que precise de mais apoio? Qual(is)?</td>
-    </tr>
-    <tr>
-      <td colspan="2"><strong>Execução das ações em direção aos desafios</strong></td>
-      <td colspan="3">O conjunto de unidades escolares que você acompanha estão na rota de alcançar os desafios a que se propuseram? Quais as evidências de que as ações estão ou não em rota de alcançar os desafios? Se há demandas para a regional, quais são?</td>
-    </tr>
-    <tr>
-      <td><strong>Objetivos</strong></td>
-      <td><strong>Quais unidades escolares estão no nível indicado em relação a cada um dos pontos de atenção referentes ao respectivo objetivo?</strong></td>
-      <td><strong>Nível de dificuldade e/ou destaque</strong></td>
-      <td><strong>Escolas com dificuldade</strong></td>
-      <td><strong>Observações</strong></td>
-    </tr>
-    <tr>
-      <td rowspan="4"><strong>Garantir a aprendizagem</strong></td>
-      <td><strong>Qualidade da interação dos professores com os estudantes.</strong></td>
-      <td></td>
-      <td></td>
-      <td>
-        <p>Quais são as necessidades comuns dessas unidades escolares?</p>
-        <p>Quais as necessidades específicas?</p>
-        <p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, desigualdade de níveis de aprendizagem, desafios por professor, Componente Curricular)? Quais?</p>
-        <p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?</p>
-        <p>Se há demandas para a regional, quais são?</p>
-        <p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?</p>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Percentual de estudantes que estão acompanhando efetivamente as aulas dadas proposto para o ano letivo</strong></td>
-      <td></td>
-      <td></td>
-      <td>
-        <p>Quais são as necessidades comuns dessas unidades escolares? Quais as necessidades específicas?</p>
-        <p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, turno, turma, Componente Curricular, grupos mais afetados)?</p>
-        <p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, professor/Componente Curricular, diversificação de conteúdo, diálogo com os contextos sociais dos estudantes)? Quais?</p>
-        <p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?</p>
-        <p>Se há demandas para a regional, quais são?</p>
-        <p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?</p>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Professores utilizando metodologias diversificadas e pensando na equidade</strong></td>
-      <td></td>
-      <td></td>
-      <td>
-        <p>Quais são as necessidades comuns dessas unidades escolares? Quais as necessidades específicas?</p>
-        <p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, meios tecnológicos, formação dos profissionais, obtenção de informações via professores)? Quais?</p>
-        <p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?</p>
-        <p>Se há demandas para a regional, quais são? Informação Pública</p>
-        <p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?</p>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Aulas dadas de maneira que instigue a curiosidade dos estudantes</strong></td>
-      <td></td>
-      <td></td>
-      <td>
-        <p>Quais são as necessidades comuns dessas unidades escolares? Quais as necessidades específicas?</p>
-        <p>Existem pontos de atenção que exigem maior acompanhamento? Quais?</p>
-        <p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?</p>
-        <p>Se há demandas para a regional, quais são? Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?</p>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="2"><strong>Reduzir as desigualdades de aprendizagem</strong></td>
-      <td><strong>Consideração dos diferentes contextos</strong></td>
-      <td></td>
-      <td></td>
-      <td>Quais são as necessidades comuns dessas unidades escolares ? Há unidade escolares com necessidades específicas? Quais? Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, turno, turma, grupo racial, situação socioeconômica)? Quais? Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada? As discussões sobre desigualdades sociais, raciais e territoriais foram satisfatórias? Se há demandas para a regional, quais são? Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?</td>
-    </tr>
-    <tr>
-      <td><strong>Interação pedagógica</strong></td>
-      <td></td>
-      <td></td>
-      <td>
-        <p>Quais são as necessidades comuns dessas unidades escolares? Há unidades escolares com necessidades específicas?</p>
-        <p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, professor, Componente Curricular, turma, turno, grupos mais afetados)? Quais?</p>
-        <p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?</p>
-        <p>Se há demandas para a regional, quais são? Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?</p>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="3"><strong>Mitigar o abandono e a evasão escolar</strong></td>
-      <td><strong>Busca ativa</strong></td>
-      <td></td>
-      <td></td>
-      <td>
-        <p>Quais são as necessidades comuns dessas escolas? Há unidades escolares com necessidades específicas?</p>
-        <p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, turno, turma, grupo racial, gênero, situação socioeconômica)? Quais?</p>
-        <p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?</p>
-        <p>Se há demandas para a regional, quais são?</p>
-        <p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de práticas?</p>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Clima escolar e vínculo dos estudantes com a escola;</strong></td>
-      <td></td>
-      <td></td>
-      <td>
-        <p>Quais são as necessidades comuns dessas unidades escolares? Há unidades escolares com necessidades específicas?</p>
-        <p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, turno, turma, grupo racial, gênero, situação socioeconômica)? Quais?</p>
-        <p>Se há demandas para a regional, quais são?</p>
-        <p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de práticas?</p>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Aperfeiçoamento do relacionamen o escolar com os estudantes e suas famílias</strong></td>
-      <td></td>
-      <td></td>
-      <td>
-        <p>Quais são as necessidades comuns dessas unidades escolares?</p>
-        <p>Há unidades escolares com necessidades específicas?</p>
-        <p>Existem pontos de atenção que exigem maior acompanhamento? (por exemplo, em relação a interação entre professores e estudantes; os professores estão usando metodologias diferenciadas? É necessário fortalecer os laços entre pais e equipe gestora?) quais?</p>
-        <p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?</p>
-        <p>Se há demandas para a regional, quais são?</p>
-        <p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de práticas?</p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2"><strong>Que tipo de apoio da regional e de seus pares você gostaria de obter?</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td colspan="2"><strong>Que tipo de apoio da Secretaria você gostaria de obter?</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+<table border><thead><tr><th colspan="5">Síntese das conclusões da AP do conjunto de unidades escolares acompanhadas pelo TE<tr><th colspan="5">Execução e eficácia das ações<tbody><tr><td colspan="2"><strong>Execução física geral das ações</strong><td colspan="3">De modo geral, se há demandas para a regional relacionadas aos pontos de atenção levantados durante o AP do seu conjunto de unidades escolares, quais são? Há alguma unidades escolares com baixo nível de execução que precise de mais apoio? Qual(is)?<tr><td colspan="2"><strong>Execução das ações em direção aos desafios</strong><td colspan="3">O conjunto de unidades escolares que você acompanha estão na rota de alcançar os desafios a que se propuseram? Quais as evidências de que as ações estão ou não em rota de alcançar os desafios? Se há demandas para a regional, quais são?<tr><td><strong>Objetivos</strong><td><strong>Quais unidades escolares estão no nível indicado em relação a cada um dos pontos de atenção referentes ao respectivo objetivo?</strong><td><strong>Nível de dificuldade e/ou destaque</strong><td><strong>Escolas com dificuldade</strong><td><strong>Observações</strong><tr><td rowspan="4"><strong>Garantir a aprendizagem</strong><td><strong>Qualidade da interação dos professores com os estudantes.</strong><td colspan="2"><td><p>Quais são as necessidades comuns dessas unidades escolares?<p>Quais as necessidades específicas?<p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, desigualdade de níveis de aprendizagem, desafios por professor, Componente Curricular)? Quais?<p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?<p>Se há demandas para a regional, quais são?<p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?<tr><td><strong>Percentual de estudantes que estão acompanhando efetivamente as aulas dadas proposto para o ano letivo</strong><td colspan="2"><td><p>Quais são as necessidades comuns dessas unidades escolares? Quais as necessidades específicas?<p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, turno, turma, Componente Curricular, grupos mais afetados)?<p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, professor/Componente Curricular, diversificação de conteúdo, diálogo com os contextos sociais dos estudantes)? Quais?<p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?<p>Se há demandas para a regional, quais são?<p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?<tr><td><strong>Professores utilizando metodologias diversificadas e pensando na equidade</strong><td colspan="2"><td><p>Quais são as necessidades comuns dessas unidades escolares? Quais as necessidades específicas?<p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, meios tecnológicos, formação dos profissionais, obtenção de informações via professores)? Quais?<p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?<p>Se há demandas para a regional, quais são? Informação Pública<p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?<tr><td><strong>Aulas dadas de maneira que instigue a curiosidade dos estudantes</strong><td colspan="2"><td><p>Quais são as necessidades comuns dessas unidades escolares? Quais as necessidades específicas?<p>Existem pontos de atenção que exigem maior acompanhamento? Quais?<p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?<p>Se há demandas para a regional, quais são? Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?<tr><td rowspan="2"><strong>Reduzir as desigualdades de aprendizagem</strong><td><strong>Consideração dos diferentes contextos</strong><td colspan="2"><td>Quais são as necessidades comuns dessas unidades escolares ? Há unidade escolares com necessidades específicas? Quais? Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, turno, turma, grupo racial, situação socioeconômica)? Quais? Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada? As discussões sobre desigualdades sociais, raciais e territoriais foram satisfatórias? Se há demandas para a regional, quais são? Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?<tr><td><strong>Interação pedagógica</strong><td colspan="2"><td><p>Quais são as necessidades comuns dessas unidades escolares? Há unidades escolares com necessidades específicas?<p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, professor, Componente Curricular, turma, turno, grupos mais afetados)? Quais?<p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?<p>Se há demandas para a regional, quais são? Quais ações das unidades escolares podem ser destacadas para compartilhamento de prática?<tr><td rowspan="3"><strong>Mitigar o abandono e a evasão escolar</strong><td><strong>Busca ativa</strong><td colspan="2"><td><p>Quais são as necessidades comuns dessas escolas? Há unidades escolares com necessidades específicas?<p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, turno, turma, grupo racial, gênero, situação socioeconômica)? Quais?<p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?<p>Se há demandas para a regional, quais são?<p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de práticas?<tr><td><strong>Clima escolar e vínculo dos estudantes com a escola;</strong><td colspan="2"><td><p>Quais são as necessidades comuns dessas unidades escolares? Há unidades escolares com necessidades específicas?<p>Existem pontos de atenção que exigem maior acompanhamento (por exemplo, por etapa de ensino, turno, turma, grupo racial, gênero, situação socioeconômica)? Quais?<p>Se há demandas para a regional, quais são?<p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de práticas?<tr><td><strong>Aperfeiçoamento do relacionamen o escolar com os estudantes e suas famílias</strong><td colspan="2"><td><p>Quais são as necessidades comuns dessas unidades escolares?<p>Há unidades escolares com necessidades específicas?<p>Existem pontos de atenção que exigem maior acompanhamento? (por exemplo, em relação a interação entre professores e estudantes; os professores estão usando metodologias diferenciadas? É necessário fortalecer os laços entre pais e equipe gestora?) quais?<p>Há unidades escolares prioritárias cujas dificuldades estejam muito relacionadas entre si, caracterizando situação mais complexa a ser tratada?<p>Se há demandas para a regional, quais são?<p>Quais ações das unidades escolares podem ser destacadas para compartilhamento de práticas?<tr><td colspan="2"><strong>Que tipo de apoio da regional e de seus pares você gostaria de obter?</strong><td colspan="3"><tr><td colspan="2"><strong>Que tipo de apoio da Secretaria você gostaria de obter?</strong><td colspan="3"></table>
 
 **Texto Complementar**
 

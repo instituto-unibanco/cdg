@@ -1,6 +1,6 @@
 # SMAR
 
-## 1\. A Importância da SMAR
+## 1. A Importância da SMAR
 
 Tutor Educacional, a Sistemática de Monitoramento e Avaliação de Resultados (SMAR) é uma etapa fundamental do Circuito de Gestão Goiano. Ela envolve as três instâncias do sistema estadual de educação e tem como objetivo realizar avaliações dos resultados intermediários dos Planos de Ação, especialmente o índice de execução dessas ações. Essa análise baseia-se em evidências concretas e indicadores estruturantes, também chamados de índice de resultado, e é conduzida de maneira coletiva durante reuniões que reúnem diferentes grupos, incluindo você, Tutor Educacional, a comunidade escolar, o grupo gestor das regionais e representantes da Secretaria.
 
@@ -14,7 +14,7 @@ Tutor Educacional, a Sistemática de Monitoramento e Avaliação de Resultados (
 
 A SMAR, assim como as demais etapas do Circuito de Gestão Goiano, reforça a articulação e a corresponsabilização do sistema educacional, envolvendo unidades escolares, regionais e a Secretaria. É importante destacar que, a cada SMAR, é necessário observar cuidadosamente o que esse momento revela sobre a realidade da rede, agindo de forma concreta conforme o contexto específico. A SMAR representa uma oportunidade de aprimoramento dos Planos de Ação, possibilitando uma atuação mais ágil de todos os agentes envolvidos, sem precisar esperar pela conclusão dos resultados para verificar se os Planos de Ação surtiram os efeitos esperados no Planejamento.
 
-**Imagem 3 \- Interações do Circuito de Gestão Goiano entre as instâncias do sistema de ensino**
+**Imagem 3 - Interações do Circuito de Gestão Goiano entre as instâncias do sistema de ensino**
 
 ![Interações do Circuito de Gestão Goiano entre as instâncias do sistema de ensino](../assets/tutoreducacional/3.png)
 
@@ -55,7 +55,7 @@ TABELA 10 \- Fluxo e participantes em cada nível da SMAR e seus desdobramentos
   </tbody>
 </table>
 
-Imagem 4 \- Fluxo e participantes em cada nível da Smar e seus desdobramentos
+Imagem 4 - Fluxo e participantes em cada nível da Smar e seus desdobramentos
 
 ![Fluxo e participantes em cada nível da Smar e seus desdobramentos](../assets/tutoreducacional/4.png)
 
@@ -222,7 +222,7 @@ Tutor Educacional, acompanhe de perto o cronograma do **Circuito de Gestão Goia
 
 **Desenvolvimento do Acompanhamento Pedagógico (AP) da SMAR/N1**
 
-## 2\. Momento 1: integração do grupo
+## 2. Momento 1: integração do grupo
 
 Inicie o encontro apresentando o infográfico do Circuito de Gestão Goiano. Mostre onde se localiza este Acompanhamento Pedagógico (AP) da SMAR/Nível 1 (N1) na sequência dos níveis: N1, N2, N3 e N4. Explique a lógica de progressão entre eles para que o grupo compreenda o momento atual dentro do ciclo de gestão.
 
@@ -246,7 +246,7 @@ Combine previamente com o grupo gestor a metodologia que será adotada durante a
 
 Oriente a pessoa responsável pela sistematização para que esteja com acesso ao Sistema de Gestão de Ações Educacionais (Sigae) durante a reunião, garantindo maior agilidade no registro e na navegação pelos dados.
 
-## 3\. Momento 2: análise dos processos cruciais
+## 3. Momento 2: análise dos processos cruciais
 
 Conduza, com o grupo gestor, uma análise sobre o andamento e a qualidade dos registros e da coleta de dados da unidade escolar. Utilize as questões abaixo para orientar a reflexão:
 
@@ -261,7 +261,7 @@ Conduza, com o grupo gestor, uma análise sobre o andamento e a qualidade dos re
 
 **Reforce com o grupo gestor**: os registros dos **Formulários I e II** devem ser preenchidos com atenção e qualidade. Eles são fundamentais para que a unidade escolar se reconheça nos relatórios da SMAR e consiga tomar decisões mais assertivas.
 
-## 4\. Momento 3: avaliação da eficácia do Plano de Ação
+## 4. Momento 3: avaliação da eficácia do Plano de Ação
 
 A eficácia do Plano de Ação na SMAR se revela na capacidade da unidade escolar de alcançar os objetivos estratégicos da rede por meio da melhoria nos resultados de aprendizagem. Um plano é eficaz quando sua execução impacta positivamente a realidade da escola.
 
@@ -325,34 +325,14 @@ O percentual de frequência se manteve estável ao longo do tempo ou houve varia
 -   Caso existam tais grupos, quais seriam eles? Observa-se alguma diferença relevante entre as etapas de ensino em relação a essa propensão? Em caso afirmativo, quais fatores poderiam explicar essa variação?
 -   Quais seriam as possíveis causas de infrequência enfrentadas pelos estudantes pertencentes a esses grupos identificados?
 
-**Plano de ação: frequência dos estudantes e ações realizadas pela unidade escolar**
+### 4.1. Plano de ação: frequência dos estudantes e ações realizadas pela unidade escolar
 
 -   De que maneira as ações executadas pela unidade escolar, em consonância com o Plano de Ação, contribuíram para a melhoria da frequência dos estudantes? Alguma etapa de ensino se destacou nesse processo, e quais fatores podem explicar esse destaque?
 -   Qual foi o impacto da busca ativa realizada pela unidade escolar na frequência dos estudantes? Quais estratégias se mostraram mais eficazes nesse processo?
 -   Para quais estudantes a busca ativa apresentou resultados menos satisfatórios, considerando as diferentes condições de vulnerabilidade presentes na unidade escolar? Quais barreiras podem ter dificultado o sucesso da busca ativa nesses casos?
 -   Pode-se identificar alguma ação que, embora não estivesse formalmente prevista no Plano de Ação, demonstrou um impacto positivo na frequência dos estudantes? Quais características dessa ação podem ter contribuído para o seu sucesso?
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <strong>Registro para o Formulário I </strong>
-        <ul>
-            <li>Pontos fortes da unidade escolar. </li>
-            <li>Pontos críticos da unidade escolar. </li>
-            <li>Ideias para ajustes nas ações do Plano de Ação. </li>
-            <li>Ideias para novas ações. </li>
-            <li>Ações da unidade escolar que estejam gerando resultados positivos, que terão continuidade e que ainda não estão no Plano de Ação. </li>
-            <li>Demandas para serem encaminhadas à regional ou à Secretaria. </li>
-            <li>Articulações necessárias (rede de proteção social), relacionadas a trabalho, renda, assistência social, saúde, cultura e lazer. </li>
-            <li>Ações da unidade escolar que estejam gerando resultados positivos, que terão continuidade e que ainda não estão no Plano de Ação. </li>
-            <li>Demandas para serem encaminhadas à regional ou à Secretaria. </li>
-            <li>Articulações necessárias (rede de proteção social), relacionadas a trabalho, renda, assistência social, saúde, cultura e lazer.</li>
-        </ul>
-        </td>
-    </tr>
-  </tbody>
-</table>
+<table><tr><td><strong>Registro para o Formulário I</strong><ul><li>Pontos fortes da unidade escolar.<li>Pontos críticos da unidade escolar.<li>Ideias para ajustes nas ações do Plano de Ação.<li>Ideias para novas ações.<li>Ações da unidade escolar que estejam gerando resultados positivos, que terão continuidade e que ainda não estão no Plano de Ação.<li>Demandas para serem encaminhadas à regional ou à Secretaria.<li>Articulações necessárias (rede de proteção social), relacionadas a trabalho, renda, assistência social, saúde, cultura e lazer.<li>Ações da unidade escolar que estejam gerando resultados positivos, que terão continuidade e que ainda não estão no Plano de Ação.<li>Demandas para serem encaminhadas à regional ou à Secretaria.<li>Articulações necessárias (rede de proteção social), relacionadas a trabalho, renda, assistência social, saúde, cultura e lazer.</ul></table>
 
 **Análise do indicador notas dos estudantes**  
 A análise do indicador de notas permite às unidades escolares, às regionais e à Secretaria realizarem um balanço do período vigente. Esse processo ajuda a entender se o esforço para garantir as aulas contribuiu com a permanência dos estudantes e possibilitou a manutenção da aprendizagem para todos.
@@ -399,7 +379,7 @@ Para otimizar o tempo e estimular a reflexão, propõe-se, para cada tema a segu
      d. Em qual turno (matutino, vespertino ou noturno)?  
      e. Em qual componente curricular?
 
-**Plano de ação: aprendizagem dos estudantes e ações realizadas pela unidade escolar**
+### 4.2. Plano de ação: aprendizagem dos estudantes e ações realizadas pela unidade escolar
 
 -   As estratégias pedagógicas adotadas para recuperação da aprendizagem (como reforço escolar, intervenção pedagógica etc.) demonstraram eficácia? Houve diferenças nos resultados entre o Ensino Fundamental, o Ensino Médio e o Ensino Profissionalizante?
 -   As estratégias foram totalmente eficazes, parcialmente eficazes ou não tiveram o efeito desejado? Quais evidências sustentam essa avaliação?
@@ -409,24 +389,7 @@ Para otimizar o tempo e estimular a reflexão, propõe-se, para cada tema a segu
 -   As ações e decisões realizadas pela unidade escolar contribuíram para a redução das desigualdades de aprendizagem dentro da unidade?
 -   Essas ações foram totalmente eficazes, parcialmente eficazes ou não produziram o impacto esperado? Quais evidências sustentam essa avaliação?
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        Registro para o Formulário I
-        <ul>
-          <li>Pontos fortes da unidade escolar.</li>
-          <li>Pontos críticos da unidade escolar.</li>
-          <li>Ideias para ajustes nas ações do Plano de ação.</li>
-          <li>Ideias para novas ações.</li>
-          <li>Ações da unidade escolar que estejam gerando resultados positivos, que terão continuidade e que ainda não estão no Plano de Ação.</li>
-          <li>Demandas para serem encaminhadas à regional ou à Secretaria.</li>
-          <li>Articulações necessárias (rede de proteção social), relacionadas a trabalho, renda, assistência social, saúde, cultura e lazer.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<table><tr><td>Registro para o Formulário I<ul><li>Pontos fortes da unidade escolar.<li>Pontos críticos da unidade escolar.<li>Ideias para ajustes nas ações do Plano de ação.<li>Ideias para novas ações.<li>Ações da unidade escolar que estejam gerando resultados positivos, que terão continuidade e que ainda não estão no Plano de Ação.<li>Demandas para serem encaminhadas à regional ou à Secretaria.<li>Articulações necessárias (rede de proteção social), relacionadas a trabalho, renda, assistência social, saúde, cultura e lazer.</ul></table>
 
 **Análise do indicador aulas dadas**  
 Garantir a realização de todas as aulas representa um esforço crucial para assegurar a oferta de ensino, fortalece os vínculos dos estudantes com a unidade escolar e reafirma o compromisso de garantir o direito à aprendizagem, mesmo diante de tantos desafios.
@@ -466,7 +429,7 @@ Garantir a realização de todas as aulas representa um esforço crucial para as
 -   Sim (totalmente? Parcialmente?) ou não?
 -   Como? Quais são as evidências que sustentam essa avaliação?
 
-**Plano de ação: aulas dadas e ações realizadas pela unidade escolar**
+### 4.3. Plano de ação: aulas dadas e ações realizadas pela unidade escolar
 
 1. Em que medida as ações executadas contribuíram para melhorar as condições de oferta de ensino, considerando o trabalho dos gestores pedagógicos e dos professores?
 
@@ -487,24 +450,7 @@ Garantir a realização de todas as aulas representa um esforço crucial para as
 -   Sim (totalmente? Parcialmente?) ou não? Quais evidências sustentam essa avaliação?
 -   Há diferenças perceptíveis entre as etapas de ensino?
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <strong>Registro para o Formulário I </strong>
-        <ul>
-          <li>Pontos fortes da unidade escolar</li>
-          <li>Pontos críticos da unidade escolar</li>
-          <li>Ideias para ajustes nas ações do Plano de Ação</li>
-          <li>Ideias para novas ações</li>
-          <li>Ações da unidade escolar com resultados positivos, que terão continuidade, mas não constam no Plano de Ação</li>
-          <li>Demandas para serem encaminhadas à regional ou à Secretaria</li>
-          <li>Articulações necessárias (rede de proteção social), relacionadas a trabalho, renda, assistência social, saúde, cultura e lazer</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<table><tr><td><strong>Registro para o Formulário I</strong><ul><li>Pontos fortes da unidade escolar<li>Pontos críticos da unidade escolar<li>Ideias para ajustes nas ações do Plano de Ação<li>Ideias para novas ações<li>Ações da unidade escolar com resultados positivos, que terão continuidade, mas não constam no Plano de Ação<li>Demandas para serem encaminhadas à regional ou à Secretaria<li>Articulações necessárias (rede de proteção social), relacionadas a trabalho, renda, assistência social, saúde, cultura e lazer</ul></table>
 
 **Análise do indicador tarefas**
 
@@ -535,21 +481,7 @@ As tarefas detalham as ações planejadas pela unidade escolar, com cronogramas 
 -   Os profissionais possuem conhecimento e habilidade para usar o Sigae? A familiaridade com o sistema impacta o acompanhamento e execução?
 -   O percentual médio de tarefas realizadas está abaixo, acima ou igual à média da regional e da rede? Quais fatores explicam essa situação?
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <strong>Registro para o Formulário I</strong>
-        <p>Para aumentar a execução do Plano de Ação da unidade escolar, é importante refletir e registrar:</p>
-        <ul>
-          <li>Quais são os pontos fortes da unidade escolar?</li>
-          <li>Quais são os pontos críticos da unidade escolar?</li>
-          <li>Quais são as ideias para aumentar ou melhorar a execução do Plano de Ação da unidade escolar?</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<table><tr><td><strong>Registro para o Formulário I</strong><p>Para aumentar a execução do Plano de Ação da unidade escolar, é importante refletir e registrar:<ul><li>Quais são os pontos fortes da unidade escolar?<li>Quais são os pontos críticos da unidade escolar?<li>Quais são as ideias para aumentar ou melhorar a execução do Plano de Ação da unidade escolar?</ul></table>
 
 **Análise do Indicador Produtos**
 
@@ -573,21 +505,7 @@ Para analisar o andamento do Plano de Ação e identificar possíveis riscos de 
 -   Se o ritmo está abaixo do esperado, quais fatores podem explicar esse desempenho? Seria por falta de registro, desengajamento ou planejamento inadequado das tarefas?
 -   Como o percentual médio de entrega dos produtos da unidade escolar se compara ao da regional e da rede? Quais são as possíveis razões para essa diferença?
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <strong>Registro para o Formulário I</strong>
-        <p>Para aumentar a execução do Plano de Ação da unidade escolar, é importante refletir e registrar:</p>
-        <ul>
-          <li>Quais são os pontos fortes da unidade escolar?</li>
-          <li>Quais são os pontos críticos da unidade escolar?</li>
-          <li>Quais são as ideias para aumentar ou melhorar a execução do Plano de Ação da unidade escolar?</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<table><tr><td><strong>Registro para o Formulário I</strong><p>Para aumentar a execução do Plano de Ação da unidade escolar, é importante refletir e registrar:<ul><li>Quais são os pontos fortes da unidade escolar?<li>Quais são os pontos críticos da unidade escolar?<li>Quais são as ideias para aumentar ou melhorar a execução do Plano de Ação da unidade escolar?</ul></table>
 
 **Análise Geral da Eficácia do Plano de Ação**
 
@@ -606,45 +524,9 @@ A partir dessa reflexão coletiva, a unidade escolar definiu um responsável par
 
 O grupo considera fundamental manter o monitoramento contínuo e promover ajustes no Plano para garantir que a eficácia melhore progressivamente, fortalecendo o compromisso com a garantia da aprendizagem, a permanência escolar e a redução das desigualdades.
 
-TABELA 12 \- Medidas de eficácia do Plano de Ação da unidade escolar
+TABELA 12 - Medidas de eficácia do Plano de Ação da unidade escolar
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="2">Medidas de eficácia do Plano de Ação da unidade escolar</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Alto grau de execução com resultados positivos</td>
-      <td>
-        <p>3 indicadores estruturantes iguais ou acima da média da rede </p>
-        <p>2 indicadores de execução iguais ou acima da média da rede</p>
-      </td>
-    </tr>
-    <tr>
-      <td>Alto grau de execução com resultados abaixo do esperado</td>
-      <td>
-        <p>3 indicadores estruturantes abaixo da média da rede </p>
-        <p>2 indicadores de execução iguais ou acima da média da rede</p>
-      </td>
-    </tr>
-    <tr>
-      <td>Baixo grau de execução e resultados positivos</td>
-      <td>
-        <p>3 indicadores estruturantes iguais ou acima da média da rede </p>
-        <p>2 indicadores de execução abaixo da média da rede</p>
-      </td>
-    </tr>
-    <tr>
-      <td>Baixo grau de execução com resultados abaixo do esperado</td>
-      <td>
-        <p>1 ou mais indicador estruturante abaixo da média da rede </p>
-        <p>1 ou mais indicador de execução abaixo da média da rede</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<table><thead><tr><th colspan="2">Medidas de eficácia do Plano de Ação da unidade escolar<tbody><tr><td>Alto grau de execução com resultados positivos<td><p>3 indicadores estruturantes iguais ou acima da média da rede<p>2 indicadores de execução iguais ou acima da média da rede<tr><td>Alto grau de execução com resultados abaixo do esperado<td><p>3 indicadores estruturantes abaixo da média da rede<p>2 indicadores de execução iguais ou acima da média da rede<tr><td>Baixo grau de execução e resultados positivos<td><p>3 indicadores estruturantes iguais ou acima da média da rede<p>2 indicadores de execução abaixo da média da rede<tr><td>Baixo grau de execução com resultados abaixo do esperado<td><p>1 ou mais indicador estruturante abaixo da média da rede<p>1 ou mais indicador de execução abaixo da média da rede</table>
 
 **Alto grau de execução com resultados positivos**
 
@@ -652,18 +534,7 @@ Quais ações do Plano podem ter exercido maior influência na melhoria dos indi
 
 Ao observar a evolução individual de cada indicador estruturante, em quais deles as ações implementadas demonstraram maior assertividade?
 
-<table>
-  <thead>
-    <tr>
-      <td>
-        <strong>Registro para o Formulário I </strong>
-        <p>Quais ações, dentre as identificadas, podem ser potencializadas na unidade escolar?</p>
-        <strong>Registro para Formulário II </strong>
-        <p>Quais práticas podem ser compartilhadas com as demais unidades escolares da regional?</p>
-      </td>
-    </tr>
-  </thead>
-</table>
+<table><thead><tr><td><strong>Registro para o Formulário I</strong><p>Quais ações, dentre as identificadas, podem ser potencializadas na unidade escolar?</p><strong>Registro para Formulário II</strong><p>Quais práticas podem ser compartilhadas com as demais unidades escolares da regional?</thead></table>
 
 **Baixo grau de execução e resultados positivos**
 
@@ -724,7 +595,7 @@ Ao observar a evolução individual de cada indicador estruturante, em quais del
   </tbody>
 </table>
 
-**Momento 4: Identificação de Práticas para Compartilhamento**
+## 5. Momento 4: Identificação de Práticas para Compartilhamento
 
 O compartilhamento de experiências e práticas bem-sucedidas enriquece o trabalho coletivo, amplia os repertórios da equipe e inspira novas soluções. Mesmo em contextos diferentes, boas práticas podem servir como referência e adaptação. A criatividade entra justamente nesse ponto: ao reconhecer o que pode ser aproveitado de cada experiência e como aplicá-la de acordo com a realidade da unidade escolar.
 
@@ -758,7 +629,7 @@ O compartilhamento de experiências e práticas bem-sucedidas enriquece o trabal
   </tbody>
 </table>
 
-## 5\. Momento 5: Próximos passos
+## 6. Momento 5: Próximos passos
 
 **Combinados com o grupo gestor**  
  ✓ Reforce com a equipe gestora a importância de finalizar os **Formulários I e II** dentro do prazo estipulado para postagem no **SIGAE**.
@@ -800,52 +671,20 @@ TABELA 13 \- Formulário I: Indicações para a etapa de Correção de Rotas
     <tr>
       <td>Frequência dos alunos</td>
       <td rowspan="2">Resultados</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="9"></td>
     </tr>
     <tr>
       <td>Notas dos estudantes (aprendizagem)</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="9"></td>
     </tr>
     <tr>
       <td>Aulas dadas</td>
       <td rowspan="2">Execução</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="9"></td>
     </tr>
     <tr>
       <td>Execução das tarefas e entrega dos produtos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="9"></td>
     </tr>
   </tbody>
 </table>

@@ -1,6 +1,6 @@
 # Correção de Rotas
 
-## 1\. A importância da Correção de Rotas
+## 1. A importância da Correção de Rotas
 
 A etapa **Correção de Rotas (CR)** marca o encerramento de um ciclo e o início de outro dentro do **Circuito de Gestão Goiano (CdGG)**. Toda a experiência acumulada desde o **Planejamento** até a **Sistemática de Monitoramento de Avaliação e Resultados (SMAR)** será utilizada para ajustar o **Plano de Ação** da Secretaria, da regional e das unidades escolares.
 
@@ -29,11 +29,11 @@ Conduzida também na regional, essa reunião inclui o grupo gestor da CRE e os g
 **5. Acompanhamento Pedagógico (AP)**  
 Ocorre na unidade escolar. É conduzido pelo Tutor Educacional com o grupo gestor da escola, formado por: gestor escolar, coordenador pedagógico, secretário, CAF, e representantes dos professores e estudantes.
 
-Imagem 5 \- Etapas do Circuito de Gestão Goiano
+Imagem 5 - Etapas do Circuito de Gestão Goiano
 
 ![Etapas do Circuito de Gestão Goiano](../assets/tutoreducacional/5.png)
 
-## 2\. Estrutura Geral do Acompanhamento Pedagógico de Correção de Rotas
+## 2. Estrutura Geral do Acompanhamento Pedagógico de Correção de Rotas
 
 O Acompanhamento Pedagógico (AP) de Correção de Rotas (CR) deve ser planejado com antecedência e conduzido com base nas análises feitas nas etapas anteriores do Circuito de Gestão Goiano (CdGG). O objetivo é apoiar a unidade escolar na revisão do Plano de Ação, usando os dados gerados na Sistemática de Monitoramento de Avaliação e Resultados (SMAR).
 
@@ -69,7 +69,7 @@ Revisite a execução do plano no Sigae, considerando:
 **Momento 4 – Definição dos próximos passos**  
 Finalize o encontro com os acordos necessários para o avanço da escola
 
-## 3\. Preparação para o Acompanhamento Pedagógico de Correção de Rotas
+## 3. Preparação para o Acompanhamento Pedagógico de Correção de Rotas
 
 Para se preparar para a Correção de Rotas (CR), é importante que o Tutor Educacional levante informações relevantes e registre previamente quais alterações considera imprescindíveis sugerir, de modo a apoiar a escola na revisão do seu Plano de Ação.
 
@@ -94,7 +94,7 @@ Para se preparar para a Correção de Rotas (CR), é importante que o Tutor Educ
 -   **Reveja os encaminhamentos e repactuações da RGI de Correção de Rotas**. A partir deles, elabore uma síntese dos principais problemas específicos da unidade escolar, bem como suas causas. Esse conteúdo foi discutido durante o Acompanhamento Pedagógico na etapa SMAR – Nível 1\.
 -   **Selecione e organize todos os materiais** que serão utilizados no Acompanhamento Pedagógico de Correção de Rotas, garantindo clareza, foco e objetividade no momento da condução.
 
-## 4\. Desenvolvimento do Acompanhamento Pedagógico de Correção de Rotas
+## 4. Desenvolvimento do Acompanhamento Pedagógico de Correção de Rotas
 
 **a) Acolhimento e expectativas**  
 Comece acolhendo o grupo, utilizando estratégias de sensibilização e mobilização. Uma boa proposta é pedir que cada participante compartilhe um novo aprendizado — algo que tenha descoberto ou vivenciado recentemente e que considere importante dividir com os colegas. Essa dinâmica promove conexão entre os participantes e cria um ambiente mais colaborativo desde o início.
@@ -251,7 +251,7 @@ Registrem claramente no formulário:
 
 ### 4.4. Revisão das ações
 
-**A. Desafios mantidos \+ desafios que precisam ser alterados**
+**A. Desafios mantidos + desafios que precisam ser alterados**
 
 ➢ Oriente o grupo gestor a refletir e responder às perguntas abaixo:
 
@@ -283,7 +283,7 @@ Registrem claramente no formulário:
 -   Ações suprimidas (indicar o desafio correspondente)
 -   Novas ações (indicar o desafio ao qual cada nova ação estará vinculada)
 
-**B. Desafios suprimidos \+ novos desafios**
+**B. Desafios suprimidos + novos desafios**
 
 ➢ Oriente o grupo gestor a refletir e responder às perguntas abaixo:
 
@@ -307,7 +307,7 @@ Registrem claramente no formulário:
 -   Ações suprimidas (indicar o desafio correspondente)
 -   Novas ações (indicar o desafio correspondente)
 
-## 5\. Práticas de outras unidades escolares que podem contribuir para enfrentar desafios
+## 5. Práticas de outras unidades escolares que podem contribuir para enfrentar desafios
 
 **Passo a passo**
 
@@ -363,7 +363,7 @@ Registrem:
 -   Combine também com a equipe gestora **como será feito o processo de revisão dos Mapas de Ação no SIGAE**.
 -   Definam um **prazo para essa revisão**, considerando o **cronograma oficial do Circuito de Gestão Goiano (CdGG)**.
 
-**IMPORTANTE\!**
+**IMPORTANTE!**
 
 <table>
   <tbody>
@@ -382,7 +382,7 @@ Depois de revisar os desafios e as ações do Plano de Ação da unidade escolar
 
 Com base no cronograma vigente do CdGG, é preciso definir o prazo para a conclusão das alterações no Plano de Ação no Sigae, assim como indicar quem, dentro do grupo gestor, será responsável por realizar essas atualizações.
 
-TABELA 16 \- Formulário I: revisão do Plano de Ação da unidade escolar – Problemas e desafios
+TABELA 16 - Formulário I: revisão do Plano de Ação da unidade escolar – Problemas e desafios
 
 <table>
   <thead>
@@ -398,18 +398,12 @@ TABELA 16 \- Formulário I: revisão do Plano de Ação da unidade escolar – P
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="7"></td>
     </tr>
   </tbody>
 </table>
 
-TABELA 17 \- Formulário II: revisão do Plano de Ação da escola – Desafios e ações
+TABELA 17 - Formulário II: revisão do Plano de Ação da escola – Desafios e ações
 
 <table>
   <thead>
@@ -424,17 +418,11 @@ TABELA 17 \- Formulário II: revisão do Plano de Ação da escola – Desafios 
   <tbody>
     <tr>
       <td>Desafios mantidos Desafios alterados</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>Novos desafios Desafios suprimidos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="4"></td>
     </tr>
   </tbody>
 </table>

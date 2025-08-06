@@ -57,7 +57,7 @@ O registro das principais conclusões e os problemas identificados em cada objet
 
 Também é possível que as unidades escolares tenham adquirido somente parte das informações consideradas relevantes para esse diagnóstico. Outros dados ou informações poderão ser agregados posteriormente, ou até mesmo na etapa de execução, orientando possíveis ajustes nas ações.
 
-Tabela 1 \- Roteiro de diagnóstico e levantamento de problemas
+Tabela 1 - Roteiro de diagnóstico e levantamento de problemas
 
 <table>
   <thead>
@@ -344,7 +344,7 @@ Tabela 1 \- Roteiro de diagnóstico e levantamento de problemas
   </tbody>
 </table>
 
-Tabela 2 \- Painel de registro do levantamento de problemas e priorização
+Tabela 2 - Painel de registro do levantamento de problemas e priorização
 
 <table border>
   <thead>
@@ -1232,7 +1232,7 @@ Tabela 7 \- Instrumento de análise do Plano de Ação \- 1ª parte
   </tbody>
 </table>
 
-Tabela 8 \- Instrumento de análise do Plano de Ação \- 2ª parte
+Tabela 8 - Instrumento de análise do Plano de Ação \- 2ª parte
 
 <table>
   <thead>
