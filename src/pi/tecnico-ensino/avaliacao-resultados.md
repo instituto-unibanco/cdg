@@ -2,7 +2,7 @@
 
 ## 1\. A importância da Avaliação de Resultados
 
-A Avaliação de Resultados é a terceira etapa do Circuito de Gestão da Aprendizagem (CdG). Nela, analisa-se o que foi executado nas três instâncias — escola, Gerência Regional de Educação (GRE) e Secretaria de Estado da Educação (Sedu) — e quais foram os efeitos gerados.
+A Avaliação de Resultados é a terceira etapa do Circuito de Gestão da Aprendizagem (CdA). Nela, analisa-se o que foi executado nas três instâncias — escola, Gerência Regional de Educação (GRE) e Secretaria de Estado da Educação (Sedu) — e quais foram os efeitos gerados.
 
 Esse processo considera a evolução dos principais indicadores estruturantes: frequência dos estudantes, percentual de aulas dadas e notas. Também avalia a implementação integrada dos quatro eixos do programa Gestão da Aprendizagem (GdA): Avaliação, Elaboração de material didático, Formação de Professores e Acompanhamento pedagógico.
 
