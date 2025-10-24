@@ -13,11 +13,14 @@ theme:
   language: pt-BR
   features:
     - navigation.tabs
+  
   logo: assets/logo.png
   favicon: assets/logo.png
   icon:
     repo: logo
 
+markdown_extensions:
+  - attr_list
 # repo_url: https://www.institutounibanco.org.br
 # repo_name: Instituto Unibanco
 
