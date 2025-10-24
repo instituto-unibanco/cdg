@@ -1,0 +1,53 @@
+INHERIT: mkdocs.yml
+
+docs_dir: ce
+site_dir: ../site/ce
+site_url: https://instituto-unibanco.github.io/cdg/ce
+
+nav:
+  - Guia de Apoio: index.md
+  - Introdução:
+    - Fundamentos: introducao/fundamentos.md
+    - Objetivos: introducao/objetivos.md
+    - Marco Legal: introducao/marco_legal.md
+  - Circuito de Gestão da Apredizagem: 
+    - Circuito de Gestão: circuito_gestao_ce/circuito_gestao.md
+    - Glossário: circuito_gestao_ce/glossario.md
+  - Governança: 
+    - Espaços de governança e tomada de decisão: governanca/espacos_governanca.md
+    - Como funciona na prática: governanca/na_pratica.md    
+  - Jornada de Implementação: 
+    - Implementação das ações de recomposição: jornada_de_implementacao/acao_recomposicao.md
+    - Diagnóstico: jornada_de_implementacao/diagnostico.md
+    - Jornada de implementação da Recomposição de Aprendizagens: jornada_de_implementacao/jornada_implementacao.md
+    - Monitoramento e Avaliação: jornada_de_implementacao/monitoramento_avaliacao.md
+  - Pilares Operacionais:
+    - Avaliações Diagnósticas e Formativas: pilares_operacionais/avaliacao_diagnostica.md
+    - Pilares Operacionais do Foco na Aprendizagem: pilares_operacionais/foco_aprendizagem.md
+    - Formação de professores/as: pilares_operacionais/formacao_professores.md
+    - Materiais Didáticos Estruturados (MDE): pilares_operacionais/materiais.md
+    - Tutoria: pilares_operacionais/tutoria.md
+  - Recomposição de Aprendizagens:
+    - Modelo lógico da estratégia de Recomposição das Aprendizagens: recomposicao_aprendizagens/modelo-logico.md 
+    - Fluxograma das responsabilidades - Foco na Aprendizagem: recomposicao_aprendizagens/fluxo-responsabilidades.md
+    - Programa Foco na Aprendizagem: recomposicao_aprendizagens/foco-aprendizagem.md
+  - Anexos:
+    - Anexos: anexos/anexos.md
+    - Apêndice: anexos/apendice.md
+    - Anexos 1: anexos/anexo_1_mapa_aprendixagem.md
+    - Anexos 2: anexos/anexo_2_checklists.md
+    - Anexos 3: anexos/anexo_3_intervencao_pedagogica.md
+    - Anexos 4: anexos/anexo_4_matriz_habilidades.md
+    - Anexos 5: anexos/anexo_5_diagostico_pedagogico.md
+    - Anexos 6: anexos/anexo_6_roteiro_reuniao.md
+    - Anexos 7: anexos/anexo_7_roteiro_acompanhamento.md
+    - Anexos 8: anexos/anexo_8_roteiro_obsercacao.md
+    - Anexos 9: anexos/anexo_9_ficha_de_devolutiva.md
+    - Anexos 10: anexos/anexo_10_diario_de_bordo.md
+    - Anexos 11: anexos/anexo_11_roteiro_avaliacao.md
+    - Anexos 12: anexos/anexo_12_formulario_familias.md
+    - Anexos 13: anexos/anexo_13_roteiro_recomposicao.md
+    - Anexos 14: anexos/anexo_14_portifolio.md
+    - Anexos 15: anexos/anexo_15_licoes_apreendidas.md
+    - Anexos 16: anexos/anexo_16_roteiro_analise.md
+

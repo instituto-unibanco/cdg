@@ -1,3 +1,22 @@
 :root {
     --md-primary-fg-color:        #2a3a66;
 }
+
+/* docs/assets/css/extra.css */
+.md-tabs__list {
+  /* Impede que as abas quebrem para a próxima linha */
+  flex-wrap: nowrap;
+  /* Adiciona a barra de rolagem horizontal quando necessário */
+  overflow-x: auto;
+  /* Adiciona um pouco de preenchimento para visualização da sombra */
+  padding-bottom: 5px; 
+}
+
+/* Melhora a aparência da barra de rolagem em navegadores Webkit (Chrome, Safari) */
+.md-tabs__list::-webkit-scrollbar {
+  height: 6px;
+}
+.md-tabs__list::-webkit-scrollbar-thumb {
+  background-color: hsla(0, 0%, 0%, 0.3);
+  border-radius: 3px;
+}
