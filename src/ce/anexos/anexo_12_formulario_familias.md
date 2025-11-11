@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### ANEXO 12 – FORMULÁRIO DE COMUNICAÇÃO COM AS FAMÍLIAS
+=======
+## ANEXO 12 – FORMULÁRIO DE COMUNICAÇÃO COM AS FAMÍLIAS
+>>>>>>> 502702b (ajustes ce)
 
 Este formulário tem como objetivo estabelecer uma comunicação formativa entre a escola e as famílias sobre o processo de recomposição das aprendizagens. Pode ser utilizado em reuniões e bilhetes informativos ou encaminhado digitalmente.
 

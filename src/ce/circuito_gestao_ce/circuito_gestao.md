@@ -8,6 +8,7 @@ Tanto a Seduc quanto as regionais e as escolas inserem nos seus planos as daçõ
 A seguir, mostramos a ritualística das etapas do Circuito, que acontece em toda a
 rede ao longo de cada ano letivo.
 
+<<<<<<< HEAD
 
 <img class="img-fluid" src="assets/img/circuito-de-gestao.png"  style = "display: block; margin-left: auto; margin-right: auto; width: 80%;"  alt="Infográfico mostra o método Circuito de Gestão Cearense">
 
@@ -75,3 +76,40 @@ servirão de subsídio para o planejamento do próximo ano.
         </div>
       </div>
 </div>
+=======
+![Infográfico mostra o método Circuito de Gestão Cearense](../assets/img/circuito-de-gestao.png)
+
+
+### PLANEJAMENTO
+>É a etapa que concentra a elaboração do Plano de Ação nas três instâncias (Seduc, 
+Crede/Sefor e escola). Ela ocorre apenas no primeiro ciclo do CdG e é entendida como o 
+“coração do método. Um planejamento bem elaborado é capaz de potencializar as próximas etapas.
+           
+
+### EXECUÇÃO
+
+>É a etapa que tem como foco a realização das ações e atividades planejadas, bem 
+como o monitoramento dos indicadores estruturantes(frequência e nota dos estudantes).
+A execução é contínua, realizada durante todo o ano letivo e, portanto, perpassa as demais etapas subsequentes durante os ciclos do CdG.
+
+### CORREÇÃO DE ROTAS/COMPARTILHAMENTO DE PRÁTICAS
+
+>É a etapa que possibilita a revisão dos Planos de Ação das escolas, Crede/Sefor e Seduc, considerando os resultados observados na SMAR.<br>
+
+>Experiências que impactam positivamento nos indicadores estruturantes e nos objetivos estratégicos são compartilhadas entre os agentes das instâncias e refletem na melhoria do Plano na Correção de Rotas.<br>
+
+>Na Correção de Rotas, as instâncias podem acrescentar, excluir e/ou alterar as ações planejadas, para que os resultados propostos sejam alcançados.<br>
+
+>Esta etapa finaliza o ciclo de melhoria contínua do CdG e possibilita que um novo ciclo tenha ínicio com a execução do Plano de Ação
+
+### SISTEMÁTICA DE MONITORAMENTO E AVALIAÇÃO DE RESULTADOS(SMAR)
+
+>É a etapa do CdG que permite que os gestores façam uma análise dos dados de execução do 
+Plano de Ação e dos indicadores estruturantes, de acordo com o período definido.
+
+>É uma “fotografia” da situação atual, uma parada estratégica para que seja possível a realização de uma avaliação de evidências coletadas em cada instância, de acordo com os ciclos do CdG.
+
+>No ano letivo, serão realizadas duas etapas de SMAR, sendo a segunda intitulada Parada 
+Reflexiva, pois é quando se faz um balanço do ano por meio da análise de evidências que 
+servirão de subsídio para o planejamento do próximo ano.
+>>>>>>> 502702b (ajustes ce)

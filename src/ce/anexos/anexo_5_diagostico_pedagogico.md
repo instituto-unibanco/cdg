@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### ANEXO 5 – RELATÓRIO DO DIAGNÓSTICO PEDAGÓGICO POR TURMA
+=======
+## ANEXO 5 – RELATÓRIO DO DIAGNÓSTICO PEDAGÓGICO POR TURMA
+>>>>>>> 502702b (ajustes ce)
 
 Este relatório permite sistematizar os dados da avaliação diagnóstica em nível de turma, por componente curricular, e serve como base para a construção do plano de intervenção pedagógica.
 

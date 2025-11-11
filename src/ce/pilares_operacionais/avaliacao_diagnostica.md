@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### AVALIAÇÕES DIAGNÓSTICAS E FORMATIVAS
+=======
+## AVALIAÇÕES DIAGNÓSTICAS E FORMATIVAS
+>>>>>>> 502702b (ajustes ce)
 
 O Programa FOCO na Aprendizagem utiliza avaliações diagnósticas e formativas
 como ferramentas estratégicas para identificar lacunas de aprendizagem em Língua

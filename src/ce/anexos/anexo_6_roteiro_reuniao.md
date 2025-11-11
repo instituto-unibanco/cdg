@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### ANEXO 6 – ROTEIRO DE REUNIÃO DE PLANEJAMENTO SEMANAL DAS ÁREAS COM PROFESSORES/AS
+=======
+## ANEXO 6 – ROTEIRO DE REUNIÃO DE PLANEJAMENTO SEMANAL DAS ÁREAS COM PROFESSORES/AS
+>>>>>>> 502702b (ajustes ce)
 
 | Etapa da reunião | Objetivo | Anotações/ encaminhamentos |
 | --- | --- | --- |

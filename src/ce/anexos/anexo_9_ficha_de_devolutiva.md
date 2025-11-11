@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### ANEXO 9 – FICHA DE DEVOLUTIVA PEDAGÓGICA
+=======
+## ANEXO 9 – FICHA DE DEVOLUTIVA PEDAGÓGICA
+>>>>>>> 502702b (ajustes ce)
 
 * **Modelo para**:
   - feedback individual a estudantes;

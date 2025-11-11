@@ -13,12 +13,17 @@ como referência para outros ciclos e para ações de formação.
 O portfólio pode ser organizado em formato físico ou digital (PDF, apresentação ou
 pasta compartilhada). Sugere-se a estrutura a seguir.
 
+<<<<<<< HEAD
 #### 1. Capa e identificação
+=======
+### 1. Capa e identificação
+>>>>>>> 502702b (ajustes ce)
 * Nome da escola
 * Município – Crede/Sefor
 * Período do ciclo registrado
 * Nome da equipe responsável
 * Logotipo da Seduc e da escola (opcional)
+<<<<<<< HEAD
 #### 2. Introdução
 * Breve apresentação da escola e do contexto local
 * Justificativa da importância da recomposição naquele ciclo
@@ -28,6 +33,17 @@ pasta compartilhada). Sugere-se a estrutura a seguir.
 * Etapas seguidas (diagnóstico, planejamento, execução, monitoramento)
 * Envolvimento da equipe e dos/as estudantes
 #### 4. Evidências documentais e visuais
+=======
+### 2. Introdução
+* Breve apresentação da escola e do contexto local
+* Justificativa da importância da recomposição naquele ciclo
+* Objetivos principais do plano de intervenção
+### 3. Metodologia de trabalho
+* Estratégias adotadas (uso dos MDE, tutoria, estudo orientado etc.)
+* Etapas seguidas (diagnóstico, planejamento, execução, monitoramento)
+* Envolvimento da equipe e dos/as estudantes
+### 4. Evidências documentais e visuais
+>>>>>>> 502702b (ajustes ce)
 Organize os materiais em seções como:
 * mapas de aprendizagem por turma;
 * planos de intervenção;
@@ -36,6 +52,7 @@ Organize os materiais em seções como:
 * gráficos e tabelas com indicadores de aprendizagem;
 * relatos de professores/as e/ou estudantes;
 * vídeos (se aplicável).
+<<<<<<< HEAD
 #### 5. Resultados e análise
 * Quadro com metas e resultados alcançados
 * Reflexões sobre avanços e desafios
@@ -45,6 +62,17 @@ Organize os materiais em seções como:
 * Sugestões para ciclos futuros
 * Compromissos coletivos firmados com base nos aprendizados
 #### 7. Anexos complementares (opcional)
+=======
+### 5. Resultados e análise
+* Quadro com metas e resultados alcançados
+* Reflexões sobre avanços e desafios
+* Conexão com indicadores do Sisedu, Spaece ou avaliações internas
+### 6. Conclusão e propostas de continuidade
+* Lições aprendidas pela equipe
+* Sugestões para ciclos futuros
+* Compromissos coletivos firmados com base nos aprendizados
+### 7. Anexos complementares (opcional)
+>>>>>>> 502702b (ajustes ce)
 * Checklists preenchidos
 * Roteiros de reuniões pedagógicas
 * Fichas de devolutiva

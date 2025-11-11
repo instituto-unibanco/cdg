@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### ANEXO 16 – ROTEIRO DE REUNIÃO DE ANÁLISE DIAGNÓSTICA
+=======
+## ANEXO 16 – ROTEIRO DE REUNIÃO DE ANÁLISE DIAGNÓSTICA
+>>>>>>> 502702b (ajustes ce)
 
 * Modelo de pauta com:
   - análise coletiva dos dados;
@@ -7,7 +11,11 @@
 
 Esta reunião tem como objetivo promover uma leitura coletiva dos dados de aprendizagem da turma e apoiar o planejamento colaborativo das ações de recomposição. Deve envolver a equipe gestora, o/a coordenador/a escolar e os/as professores/as de cada componente curricular.
 
+<<<<<<< HEAD
 Modelo de roteiro de reunião
+=======
+### Modelo de roteiro de reunião
+>>>>>>> 502702b (ajustes ce)
 
 | Item | Descrição/registro |
 | --- | --- |

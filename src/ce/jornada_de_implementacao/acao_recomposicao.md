@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### IMPLEMENTAÇÃO DE AÇÕES DE RECOMPOSIÇÃO
+=======
+## IMPLEMENTAÇÃO DE AÇÕES DE RECOMPOSIÇÃO
+>>>>>>> 502702b (ajustes ce)
 
 A implementação das ações de recomposição representa a etapa prática do ciclo de intervenção, na qual o plano elaborado se transforma em ações pedagógicas concretas. Esse momento requer uma articulação cuidadosa com o currículo regular, o uso de metodologias diversificadas e adaptadas
 às necessidades dos/as estudantes, bem como um acompanhamento sistemático dos resultados obtidos. A atuação integrada de professores/as, coordenadores/as e tutores/as é essencial para garantir que as estratégias sejam aplicadas de forma consistente e com foco nas aprendizagens

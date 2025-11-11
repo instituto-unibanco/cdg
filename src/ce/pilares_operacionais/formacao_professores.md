@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### FORMAÇÃO DE PROFESSORES/AS: FOCO NA APRENDIZAGEM
+=======
+## FORMAÇÃO DE PROFESSORES/AS: FOCO NA APRENDIZAGEM
+>>>>>>> 502702b (ajustes ce)
 
 A formação continuada é um pilar estruturante da política de recomposição das aprendizagens com equidade. Mais do que ofertar cursos ou encontros pontuais, trata-se de promover processos formativos integrados ao cotidiano escolar, articulados com o uso formativo das avaliações diagnósticas, os materiais didáticos e o acompanhamento das ações pedagógicas.
 
@@ -8,6 +12,7 @@ as escolas — para garantir o alcance de toda a rede. Seu objetivo é ampliar o
 
 ### ESCOLA SEDUC CREDE/SEFOR
 
+<<<<<<< HEAD
 <div class="container-grid">
         <div class="coluna">
             <div style="background-color: rgba(206, 128, 12, 0.87); padding: 15px; border-radius: 10px; width:90%; height:210px">
@@ -32,3 +37,17 @@ O <b>PCA</b> de cada área dissemina a formação para os/as docentes nas reuni�
 </div>
 
 Fonte: Elaboração própria.
+=======
+
+**SEDUC**
+>Organiza e define as pautas formativas e realiza a formação dos/as formadores/
+as regionais do FOCO.
+            
+**CREDE/SEFOR**
+>Adapta a formação de acordo com seu contexto e forma os PCAs das escolas.
+<br><br>
+
+**ESCOLA**
+>O **PCA** de cada área dissemina a formação para os/as docentes nas reuniões semanais de planejamento de áreas. Docentes ajustam os planos de aula e utilizam os MDE para personalizar o ensino.
+
+>>>>>>> 502702b (ajustes ce)

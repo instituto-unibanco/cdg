@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### ANEXO 15 – DOCUMENTO DE LIÇÕES APRENDIDAS (AUTOAVALIAÇÃO DA EQUIPE)
+=======
+## ANEXO 15 – DOCUMENTO DE LIÇÕES APRENDIDAS (AUTOAVALIAÇÃO DA EQUIPE)
+>>>>>>> 502702b (ajustes ce)
 
 Este instrumento tem por objetivo apoiar a equipe escolar na sistematização das
 lições aprendidas ao longo do ciclo de recomposição. Pode ser utilizado como

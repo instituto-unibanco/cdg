@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 502702b (ajustes ce)
 ### FLUXOGRAMA DAS RESPONSABILIDADES – FOCO NA APRENDIZAGEM
 
 O fluxograma a seguir apresenta a distribuição das responsabilidades entre os

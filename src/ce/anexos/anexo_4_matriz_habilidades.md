@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### ANEXO 4 – MATRIZ DE HABILIDADES A SEREM TRABALHADAS POR ANO/SÉRIE E COMPONENTE
+=======
+## ANEXO 4 – MATRIZ DE HABILIDADES A SEREM TRABALHADAS POR ANO/SÉRIE E COMPONENTE
+>>>>>>> 502702b (ajustes ce)
 
 Esta matriz serve como instrumento de apoio para a seleção das habilidades prioritárias, com base nas matrizes do Saeb, Spaece, BNCC e DCRC. Recomenda-se seu preenchimento a partir da análise diagnóstica,
 considerando as habilidades mais recorrentes, essenciais e com maiores defasagens.

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 hide:
   - navigation
@@ -7,6 +8,12 @@ hide:
 
 ## APRESENTAÇÃO
 ### CONTEXTUALIZAÇÃO
+=======
+# Guia de Apoio à Implementação da Iniciativa Foco na Aprendizagem
+
+## APRESENTAÇÃO
+
+>>>>>>> 502702b (ajustes ce)
 A construção de uma educação pública de qualidade, inclusiva e equitativa exige políticas consistentes, integradas e sustentáveis. O governo do estado do Ceará,
 por meio da Secretaria da Educação (Seduc), tem avançado com esse compromisso por meio do **Programa Ceará Educa Mais** — uma política educacional robusta que articula
 frentes estratégicas para o desenvolvimento integral dos/as estudantes e o fortalecimento dos estabelecimentos de ensino. O **Ceará Educa Mais** é composto por oito eixos estruturantes:

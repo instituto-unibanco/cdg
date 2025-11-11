@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### MARCO LEGAL
+=======
+## MARCO LEGAL
+>>>>>>> 502702b (ajustes ce)
 
 Este guia está fundamentado nos seguintes dispositivos legais e normativos:
 

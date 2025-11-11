@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### ANEXO 11 – ROTEIRO DE REUNIÃO DE AVALIAÇÃO FINAL COM A EQUIPE ESCOLAR
+=======
+## ANEXO 11 – ROTEIRO DE REUNIÃO DE AVALIAÇÃO FINAL COM A EQUIPE ESCOLAR
+>>>>>>> 502702b (ajustes ce)
 
 | Etapa da reunião | Objetivo | Anotações/encaminhamentos |
 | --- | --- | --- |

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### ANEXO 7 – ROTEIRO DE ACOMPANHAMENTO DO/A PROFESSOR/A
+=======
+## ANEXO 7 – ROTEIRO DE ACOMPANHAMENTO DO/A PROFESSOR/A
+>>>>>>> 502702b (ajustes ce)
 
 | Campo | Preenchimento sugerido |
 | --- | --- |

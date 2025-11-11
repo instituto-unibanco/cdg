@@ -2,7 +2,11 @@
 
 O mapa de aprendizagem é uma ferramenta que organiza os resultados do diagnóstico pedagógico por turma, permitindo identificar prioridades de recomposição, grupos de estudantes com defasagens semelhantes e as habilidades que precisam ser retomadas com maior urgência.
 
+<<<<<<< HEAD
 ### Modelo de mapa de aprendizagem da turma
+=======
+## Modelo de mapa de aprendizagem da turma
+>>>>>>> 502702b (ajustes ce)
 
 | Habilidade/ descritor | % de acerto geral da turma | % de estudantes com baixo desempenho | Grupo de estudantes prioritários/as | Classificaçãode prioridade (alta, média, baixa) | Intervenções sugeridas | 
 | --- | ----- | ----- | ----- | ----- | ----- |

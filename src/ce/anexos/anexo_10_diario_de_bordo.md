@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 ### ANEXO 10 – DIÁRIO DE BORDO DO/A COORDENADOR/A ESCOLAR
+=======
+## ANEXO 10 – DIÁRIO DE BORDO DO/A COORDENADOR/A ESCOLAR
+>>>>>>> 502702b (ajustes ce)
 
 Este instrumento visa apoiar o trabalho reflexivo e sistemático da coordenação
 pedagógica, permitindo o registro de acompanhamentos, devolutivas,
 orientações e percepções ao longo do ciclo de recomposição.
 
+<<<<<<< HEAD
 #### Modelo de registro
+=======
+### Modelo de registro
+>>>>>>> 502702b (ajustes ce)
 
 | Data | Ação realizada/evento acompanhado | Turma/Professor(a) envolvido(a) |Principais observações | Orientações ou encaminhamentos | Responsável | Próximos passos/data prevista |
 | --- | --- | --- | --- | --- | --- | --- |

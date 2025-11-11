@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### ANEXO 8 – ROTEIRO DE OBSERVAÇÃO DO PLANEJAMENTO SEMANAL DAS ÁREAS
+=======
+## ANEXO 8 – ROTEIRO DE OBSERVAÇÃO DO PLANEJAMENTO SEMANAL DAS ÁREAS
+>>>>>>> 502702b (ajustes ce)
 
 * Instrumento para o/a coordenador/a escolar observar:
   - clareza de objetivos da reunião de planejamento semanal das áreas;

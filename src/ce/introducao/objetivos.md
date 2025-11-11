@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 ### OBJETIVOS DO GUIA
+=======
+## OBJETIVOS DO GUIA
+>>>>>>> 502702b (ajustes ce)
 
 - Orientar técnica e pedagogicamente a implementação de ações para a recomposição das aprendizagens.
 - Sistematizar o ciclo de recomposição, por meio de dados, planejamento, intervenção, monitoramento e devolutiva.

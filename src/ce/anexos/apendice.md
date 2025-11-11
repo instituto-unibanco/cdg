@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ### APÊNDICE
 ### FORTALECIMENTO DA ATUAÇÃO DO COORDENADOR ESCOLAR (FACE)
+=======
+## APÊNDICE
+## FORTALECIMENTO DA ATUAÇÃO DO COORDENADOR ESCOLAR (FACE)
+>>>>>>> 502702b (ajustes ce)
 
 Os temas priorizados nas formações do Face são relacionados às atribuições e responsabilidades do/a coordenador/a escolar na sua ação cotidiana de apoiar que a recomposição de aprendizagens aconteça em sala de aula. São eles:
 
@@ -15,7 +20,11 @@ conhecimento;
 * metodologias ativas e personalização da aprendizagem;
 * mobilização e escuta dos/as estudantes no processo de recomposição.
 
+<<<<<<< HEAD
 ### No Face, assim como no FOCO na Aprendizagem, há grande investimento no desenvolvimento profissional dos/as coordenadores/as escolares, como pode ser visto no gráfico a seguir.
+=======
+## No Face, assim como no FOCO na Aprendizagem, há grande investimento no desenvolvimento profissional dos/as coordenadores/as escolares, como pode ser visto no gráfico a seguir.
+>>>>>>> 502702b (ajustes ce)
 
 ---
 <br>
@@ -34,4 +43,8 @@ conhecimento;
 
 A ação do/a coordenador/a escolar é fundamental para que práticas pedagógicas personalizadas sejam implementadas em todas as escolas da rede, sendo guardiões/ãs das estratégias de apoio disponibilizadas pela Seduc e regionais.
 
+<<<<<<< HEAD
 ### Convidamos você a fazer parte deste movimento de mudança e de melhoria dos resultados de aprendizagem na nossa rede
+=======
+## Convidamos você a fazer parte deste movimento de mudança e de melhoria dos resultados de aprendizagem na nossa rede
+>>>>>>> 502702b (ajustes ce)
